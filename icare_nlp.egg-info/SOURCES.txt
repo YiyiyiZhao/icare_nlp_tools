@@ -13,6 +13,7 @@ icare_nlp.egg-info/top_level.txt
 icare_nlp/resources/__init__.py
 icare_nlp/resources/category_emb_tensor.pt
 icare_nlp/resources/category_tactile_description.json
+icare_nlp/resources/desc_words.json
 icare_nlp/resources/inv_yolo_obj_class_def.json
 icare_nlp/resources/invert.py
 icare_nlp/resources/object_types.py

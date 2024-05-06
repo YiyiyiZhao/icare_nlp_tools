@@ -31,6 +31,8 @@ class ObjectQA(object):
             self.cate_tac_desc = json.load(f)
         with resources.path("icare_nlp.resources", "category_emb_tensor.pt") as path:
             self.category_emb_tensor = torch.load(str(path))
+        self.device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
     def classify_query(self, question):
         input_embedding = self.cls_model.encode(question, convert_to_tensor=True)
         similarities1 = util.pytorch_cos_sim(input_embedding, self.embeddings1)
@@ -77,7 +79,7 @@ class ObjectQA(object):
             tmp=self.rev_yolo_cls[short]
             self.target_obj=self.yolo_cls[str(tmp)]
         else:
-            similarities = util.pytorch_cos_sim(short_emb, selected_embs)
+            similarities = util.pytorch_cos_sim(short_emb.to(self.device), selected_embs.to(self.device))
             most_similar_idx = torch.argmax(similarities).item()
             self.target_obj=self.yolo_cls[str(obj_index_list[most_similar_idx])]
 
