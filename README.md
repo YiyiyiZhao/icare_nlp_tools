@@ -1,6 +1,12 @@
-#### 安装
+#### 1. 安装
+##### (1). 方法1：使用pip安装
 ~~~
 pip install icare-nlp
+Pypi链接: https://pypi.org/project/icare-nlp/
+~~~
+##### (2). 方法2： 使用Source Codes安装
+~~~
+
 ~~~
 
 #### 使用
