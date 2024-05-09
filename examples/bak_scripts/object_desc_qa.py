@@ -6,7 +6,7 @@ from icare_nlp.object_qa import ObjectQA
 from icare_nlp.object_desc import ObjectDesc
 
 
-with open("../dataset/obj_detect_question.json", "r", encoding="utf-8") as f:
+with open("../../dataset/obj_detect_question.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 object_desc=ObjectDesc()

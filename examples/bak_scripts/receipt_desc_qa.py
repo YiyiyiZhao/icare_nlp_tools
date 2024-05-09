@@ -6,7 +6,7 @@ from icare_nlp.receipt_desc import ReceiptDesc
 
 
 
-with open("../dataset/ocr_res.json", "r", encoding="utf-8") as f:
+with open("../../dataset/ocr_res.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 receipt_desc=ReceiptDesc()
