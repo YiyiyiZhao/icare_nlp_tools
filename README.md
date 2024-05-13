@@ -21,11 +21,18 @@ from icare_nlp.task_disp import TaskDisp
 task_disp=TaskDisp()
 task_disp.disp_start()
 ~~~
+~~~
+#Intent classification
+task_disp=TaskDisp()
+user_query="可以確認下有冇糖不甩？"
+task_disp.intent_classify(user_query)
+#SYSTEM： 我會幫你完成呢個收據問答嘅任務。
+~~~
 ###### (2). Demo
 ***Object Description and QA***
-![](./examples/figs/object_desc_qa.gif)
+![](./examples/figs/object_desc_qa_0513.gif)
 ***Receipt Description and QA***
-![](./examples/figs/receipt_desc_qa.gif)
+![](./examples/figs/receipt_desc_qa_0513.gif)
 ##### 2.1 Object_Desc: 输入object detection list, 输出场景播报
 ~~~
 import json
@@ -89,7 +96,7 @@ print(rec_desc_res)
 #呢张收据主要嘅信息包括外賣, 點餐時間, 收據號碼, 新加坡海南雞, 點餐號碼, 優惠碼, 当久於, 腸仔猪扒雞扒飯, 秘製燒汁, 白飯, 少鹽, 概沟, 小計, 折扣, 總金額, 付款資料, 付款方式, 扣除金額, 餘額, 卡號, 機號, 發票號碼, 交易時間, 绿联, 深圳市绿联科技股份有限公司, 地址深圳市龙华区龙观西路龙城工业区绿联办公大楼, 电话, 官网, 执行标准
 ~~~
 
-##### 2.4 Receipt_QA: 输入Receipt的OCR识别文本, 输出票据总价
+##### 2.4 Receipt_QA: 输入Receipt的OCR识别文本 和 Question, 输出Answer [GPT-3.5 assisted]
 ~~~
 #!/bin/bash
 export OPEN_API_KEY="your_api_key_here"
@@ -106,10 +113,10 @@ ocr_text = ""
 for item in ocr_data:
     ocr_text += item["text"] + '\n'
 
-
-rec_desc_res=receipt_qa.form_response(ocr_text)
+question="我總共花咗幾多錢？"
+rec_desc_res=receipt_qa.form_response(ocr_text, question)
 print(rec_desc_res)
-#總花費係: 51.0.
+#51.0.
 ~~~
 #### 3. Structure and Other Information
 The core structure is: 
