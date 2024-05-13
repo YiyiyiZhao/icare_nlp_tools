@@ -13,6 +13,11 @@ pip install -r requirements.txt
 ~~~
 
 #### 2. 使用
+##### Quick Start
+~~~
+cd ./examples
+python run.py
+~~~
 ##### 2.0 Task_Disp: 输入User query, 输出对应下列四种的Task类型
 ###### (1). Commands
 ~~~
