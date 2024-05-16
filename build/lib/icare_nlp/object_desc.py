@@ -13,13 +13,15 @@ class ObjectDesc(object):
     def get_region(self, obj_x, obj_y):
         width_threshold = 640
         height_threshold = 360
-        if obj_x < width_threshold and obj_y < height_threshold:
+        if obj_x == width_threshold and obj_y == height_threshold:
+            region = "center"
+        elif obj_x < width_threshold and obj_y < height_threshold:
             region = "top left"
         elif obj_x >= width_threshold and obj_y < height_threshold:
             region = "top right"
         elif obj_x < width_threshold and obj_y >= height_threshold:
             region = "bottom left"
-        else:
+        elif obj_x >= width_threshold and obj_y >= height_threshold:
             region = "bottom right"
         return region
 
@@ -39,6 +41,9 @@ class ObjectDesc(object):
         top_right=[]
         bottom_left=[]
         bottom_right=[]
+        center=[]
+
+
 
         for item in obj_detect:
             obj_x,obj_y,obj_w,obj_h=item["position"]
@@ -51,14 +56,21 @@ class ObjectDesc(object):
                 bottom_left.append(item["text"])
             elif region == "bottom right":
                 bottom_right.append(item["text"])
-        objects_by_region={"左上": top_left, "右上": top_right, "左下": bottom_left,"右下": bottom_right}
+            elif region == "center":
+                center.append([item['text']])
+
+
+        objects_by_region={"左上": top_left, "右上": top_right, "左下": bottom_left,"右下": bottom_right, "中间": center}
         category_to_desc = {item['category']: item['desc_words'] for item in self.desc_words}
         desc_sentences=[]
         for region, objects in objects_by_region.items():
             object_counts = Counter(objects)
+            region_desc = []
             for obj, count in object_counts.items():
-                if count>0:
-                    desc_sentences.append(f"視線{region}角嘅場景入面有{count}{category_to_desc[obj]}.")
+                if count > 0:
+                    region_desc.append(f"{count}{category_to_desc[obj]}")
+            if region_desc:
+                desc_sentences.append(f"視線{region}角嘅場景有{ '，'.join(region_desc) }。")
         return "".join(desc_sentences)
 
     def form_response(self, obj_detect):

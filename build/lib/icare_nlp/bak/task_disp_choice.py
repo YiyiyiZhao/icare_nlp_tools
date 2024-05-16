@@ -4,7 +4,7 @@ import os
 from icare_nlp_tools.icare_nlp.object_desc import ObjectDesc
 from icare_nlp_tools.icare_nlp.object_qa import ObjectQA
 from icare_nlp_tools.icare_nlp.receipt_desc import ReceiptDesc
-from icare_nlp_tools.icare_nlp.bak.receipt_qa_total import ReceiptQA
+from icare_nlp_tools_bak.bak.bak import ReceiptQA
 
 class TaskDisp(object):
     def __init__(self):

@@ -6,7 +6,7 @@ from importlib import resources
 class ObjectQA(object):
     def __init__(self):
         self.cls_model = SentenceTransformer('indiejoseph/bert-cantonese-sts')
-        self.sentences1 = ["點樣可以攞到", "喺我手嘅邊個方向", "喺邊?", "tv喺邊？"]
+        self.sentences1 = ["點樣可以攞到", "喺我手嘅邊個方向", "喺邊?"]
         self.sentences2 = ["附近有冇其他物體"]
         self.embeddings1 = self.cls_model.encode(self.sentences1, convert_to_tensor=True)
         self.embeddings2 = self.cls_model.encode(self.sentences2, convert_to_tensor=True)
@@ -55,7 +55,7 @@ class ObjectQA(object):
         self.centric_hand = False
         word_set = {'？', '冇', '條', '到', '別嘅', '東西', '邊', '點樣', '頭', '某个', '喺', '物', '我', '附近', '其他',
                     '物件', '物體', '體', '到', '攞', '可以', '有', '我點樣', '嗎', '物體', '嘅', '哪', '上', '個',
-                    '方向'}
+                    '方向','如何', '能够', '获得', '在', '我', '手', '的', '哪个', '方向', '在', '哪里', '附近', '有', '没有', '其他', '物体'}
         for word in word_set:
             if word in question:
                 question = question.replace(word, '_')
@@ -66,6 +66,8 @@ class ObjectQA(object):
             cleaned_list.remove('手')
         res = ''.join(cleaned_list)
         return res, self.centric_hand
+
+
 
     def get_target_obj(self, question, obj_detect):
         obj_list = [item['text'] for item in obj_detect]

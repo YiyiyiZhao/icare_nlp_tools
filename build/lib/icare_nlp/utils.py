@@ -1,5 +1,28 @@
 import math
 
+class CvUtils:
+    def __init__(self):
+        pass
+
+    def form_cv_json(self,results):
+        cls_def=results[0].names
+        cls_ids=results[0].boxes.cls.int().tolist()
+        clses = ['hand' if cls_def[id] == 'person' else cls_def[id] for id in cls_ids]
+        xywh=results[0].boxes.xywh
+        json_data = []
+        for box, cls in zip(xywh.int().tolist(), clses):
+            json_entry = {
+                "position": box,
+                "text": cls
+            }
+            json_data.append(json_entry)
+        return json_data
+
+
+
+
+
+
 def determine_relative_pos(target_obj,cen_x, cen_y, tar_x, tar_y, hand_centric=False):
     # 判断垂直位置
     if tar_y > cen_y:
@@ -60,7 +83,6 @@ def cal_iou(box1, box2):
     iou = inter_area / union_area if union_area != 0 else 0
     return iou
 
-
 def determine_relative_pos_sur(obj_1,cen_x, cen_y, obj_2, tar_x, tar_y):
     # 判断垂直位置
     if tar_y > cen_y:
@@ -86,9 +108,6 @@ def determine_relative_pos_sur(obj_1,cen_x, cen_y, obj_2, tar_x, tar_y):
     else:
         res = obj_2+"喺"+obj_1+"嘅" + horizontal+vertical + "方."
     return res
-
-
-
 
 def calculate_distance(x1, y1, x2, y2):
     return math.sqrt((x1 - x2) ** 2 + (y1 - y2) ** 2)

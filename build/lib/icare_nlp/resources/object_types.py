@@ -70,11 +70,11 @@ obj_expressions = {
     60: 'dining table, 餐桌, 飯枱',
     61: 'toilet, 厕所, 廁所',
     62: 'tv, 电视, 電視',
-    63: 'laptop, 笔记本电脑, 手提電腦',
+    63: 'laptop, 笔记本电脑, 笔记本電腦',
     64: 'mouse, 鼠标, 滑鼠',
     65: 'remote, 遥控器, 遙控',
     66: 'keyboard, 键盘, 鍵盤',
-    67: 'cell phone, 手机, 手提電話',
+    67: 'cell phone, 手机, 電話',
     68: 'microwave, 微波炉, 微波爐',
     69: 'oven, 烤箱, 焗爐',
     70: 'toaster, 烤面包机, 多士爐',
@@ -92,7 +92,7 @@ obj_expressions = {
 
 reverse_mapping = {}
 for key, values in obj_expressions.items():
-    expressions = values.split(', ')
+    expressions = values.split(',')
     for expression in expressions:
         reverse_mapping[expression.strip()] = key
 print(reverse_mapping)

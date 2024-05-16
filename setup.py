@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
-VERSION = '0.0.7'
+VERSION = '0.0.8'
 DESCRIPTION = 'From CV detection to answer questions'
 # 配置
 setup(

@@ -380,8 +380,8 @@
   {
     "index": 63,
     "category": "laptop",
-    "cate_expressions": "laptop, 笔记本电脑, 手提電腦",
-    "tactile": "手提電腦小而矩形，外殼堅硬，屏幕光滑可折疊。"
+    "cate_expressions": "laptop, 笔记本电脑, 笔记本電腦",
+    "tactile": "笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
   },
   {
     "index": 64,
@@ -404,7 +404,7 @@
   {
     "index": 67,
     "category": "cell phone",
-    "cate_expressions": "cell phone, 手机, 手提電話",
+    "cate_expressions": "cell phone, 手机, 手機",
     "tactile": "手機小而矩形，有一個堅硬嘅、光滑嘅玻璃屏幕。"
   },
   {

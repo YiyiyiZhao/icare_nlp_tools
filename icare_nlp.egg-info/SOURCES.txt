@@ -1,5 +1,6 @@
 .gitignore
 README.md
+__init__.py
 requirements.txt
 setup.py
 dataset/obj_detect_question.json
@@ -184,6 +185,9 @@ dataset/possible_queries/ask_for_guidance.json
 dataset/possible_queries/ask_for_receipt.json
 dataset/possible_queries/describe_receipt.json
 dataset/possible_queries/describe_scene.json
+examples/__init__.py
+examples/cv_pipeline.py
+examples/intent_classifier.py
 examples/reinstall.sh
 examples/run.py
 examples/bak_scripts/infer_llama3_hf.py
@@ -191,8 +195,15 @@ examples/bak_scripts/object_desc_qa.py
 examples/bak_scripts/ocr_res.json
 examples/bak_scripts/qa.out
 examples/bak_scripts/receipt_desc_qa.py
+examples/cv_nlp/__init__.py
+examples/cv_nlp/tmp.py
+examples/cv_nlp/tmp1.py
+examples/cv_nlp/tmp2.py
+examples/cv_nlp/tmp_4.py
 examples/figs/object_desc_qa.gif
+examples/figs/object_desc_qa_0513.gif
 examples/figs/receipt_desc_qa.gif
+examples/figs/receipt_desc_qa_0513.gif
 examples/obj_detect_files/0.json
 examples/obj_detect_files/1.json
 examples/obj_detect_files/10.json
