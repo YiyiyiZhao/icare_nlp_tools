@@ -35,8 +35,10 @@ task_disp.intent_classify(user_query)
 ~~~
 ###### (2). Demo
 ***Object Description and QA***
+![](./examples/figs/object.jpg)
 ![](./examples/figs/object_desc_qa_0513.gif)
 ***Receipt Description and QA***
+![](./examples/figs/receipt.jpg)
 ![](./examples/figs/receipt_desc_qa_0513.gif)
 ##### 2.1 Object_Desc: 输入object detection list, 输出场景播报
 ~~~
