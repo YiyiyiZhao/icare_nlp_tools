@@ -1,234 +1,234 @@
-![](./test_data/object_eval/31.jpg)
+![](./test_data/annotated_images/annotated_31.jpg)
 而家眼前嘅景象有4把椅, 1隻手.視線左上角嘅場景有3把椅。視線右上角嘅場景有1把椅。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/20.jpg)
+![](./test_data/annotated_images/annotated_20.jpg)
 而家眼前嘅景象有1把椅, 1台笔记本電腦, 1隻手, 1個遙控, 1瓶樽.視線右上角嘅場景有1把椅，1台笔记本電腦，1個遙控，1瓶樽。視線左下角嘅場景有1隻手。
 
-![](./test_data/object_eval/29.jpg)
+![](./test_data/annotated_images/annotated_29.jpg)
 而家眼前嘅景象有2個遙控, 2把椅, 1台笔记本電腦, 1隻手, 1個書包, 1部電話, 1瓶樽, 1張飯枱.視線左上角嘅場景有1個遙控，1個書包。視線右上角嘅場景有1把椅，1瓶樽。視線左下角嘅場景有1台笔记本電腦，1隻手。視線右下角嘅場景有1個遙控，1部電話，1把椅，1張飯枱。
 
-![](./test_data/object_eval/65.jpg)
+![](./test_data/annotated_images/annotated_65.jpg)
 而家眼前嘅景象有1隻手, 1把匙.視線右上角嘅場景有1把匙。視線左下角嘅場景有1隻手。
 
-![](./test_data/object_eval/16.jpg)
+![](./test_data/annotated_images/annotated_16.jpg)
 而家眼前嘅景象有2個蘋果, 1隻手, 1瓶樽, 1把椅, 1個橙, 1台電視, 1個書包.視線左上角嘅場景有1個蘋果，1把椅。視線右上角嘅場景有1瓶樽，1台電視。視線左下角嘅場景有1個橙，1個蘋果。視線右下角嘅場景有1隻手，1個書包。
 
-![](./test_data/object_eval/27.jpg)
+![](./test_data/annotated_images/annotated_27.jpg)
 而家眼前嘅景象有9把椅, 1張飯枱, 1把雨傘, 1個行李箱.視線左上角嘅場景有1把椅，1張飯枱。視線右上角嘅場景有4把椅。視線左下角嘅場景有1把椅，1個行李箱。視線右下角嘅場景有3把椅，1把雨傘。
 
-![](./test_data/object_eval/0.jpg)
+![](./test_data/annotated_images/annotated_0.jpg)
 而家眼前嘅景象有4根蘿蔔, 4把椅, 3台電視, 2隻手, 1瓶樽, 1張飯枱, 1張梳化, 1個滑鼠, 1個書包, 1張床.視線左上角嘅場景有2把椅，1台電視，1張梳化，1個滑鼠，1張床。視線右上角嘅場景有1瓶樽，2台電視。視線左下角嘅場景有4根蘿蔔，1張飯枱。視線右下角嘅場景有2隻手，2把椅，1個書包。
 
-![](./test_data/object_eval/35.jpg)
+![](./test_data/annotated_images/annotated_35.jpg)
 而家眼前嘅景象有1個手袋, 1張梳化.視線左下角嘅場景有1個手袋。視線右下角嘅場景有1張梳化。
 
-![](./test_data/object_eval/46.jpg)
+![](./test_data/annotated_images/annotated_46.jpg)
 而家眼前嘅景象有1隻手, 1個水槽, 1棵西蘭花, 1瓶樽, 1台電視.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1棵西蘭花。視線左下角嘅場景有1台電視。視線右下角嘅場景有1隻手，1個水槽。
 
-![](./test_data/object_eval/45.jpg)
+![](./test_data/annotated_images/annotated_45.jpg)
 而家眼前嘅景象有1隻手, 1瓶樽, 1台笔记本電腦, 1台電視, 1棵西蘭花.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1棵西蘭花。視線左下角嘅場景有1台笔记本電腦，1台電視。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/17.jpg)
+![](./test_data/annotated_images/annotated_17.jpg)
 而家眼前嘅景象有2把椅, 1張飯枱, 1台電視, 1個書包.視線右上角嘅場景有1台電視。視線右下角嘅場景有2把椅，1張飯枱，1個書包。
 
-![](./test_data/object_eval/2.jpg)
+![](./test_data/annotated_images/annotated_2.jpg)
 而家眼前嘅景象有6把椅, 1張飯枱, 1隻手, 1根香蕉.視線左上角嘅場景有4把椅。視線右上角嘅場景有1把椅，1根香蕉。視線左下角嘅場景有1把椅。視線右下角嘅場景有1張飯枱，1隻手。
 
-![](./test_data/object_eval/11.jpg)
+![](./test_data/annotated_images/annotated_11.jpg)
 而家眼前嘅景象有2把椅, 1張床, 1塊蛋糕, 1張飯枱.視線左上角嘅場景有1把椅。視線左下角嘅場景有1把椅。視線右下角嘅場景有1張床，1塊蛋糕，1張飯枱。
 
-![](./test_data/object_eval/72.jpg)
+![](./test_data/annotated_images/annotated_72.jpg)
 而家眼前嘅景象有3個蘋果, 2隻手, 1台多士爐, 1個水槽.視線左上角嘅場景有1隻手。視線右上角嘅場景有1台多士爐。視線左下角嘅場景有1隻手，1個水槽。視線右下角嘅場景有3個蘋果。
 
-![](./test_data/object_eval/15.jpg)
+![](./test_data/annotated_images/annotated_15.jpg)
 而家眼前嘅景象有4把椅, 2個滑鼠, 1瓶樽, 1隻手, 1張飯枱, 1個遙控.視線左上角嘅場景有2個滑鼠，1把椅。視線右上角嘅場景有2把椅，1個遙控。視線左下角嘅場景有1隻手。視線右下角嘅場景有1瓶樽，1把椅，1張飯枱。
 
-![](./test_data/object_eval/43.jpg)
+![](./test_data/annotated_images/annotated_43.jpg)
 而家眼前嘅景象有2隻手, 1瓶樽, 1棵西蘭花, 1台笔记本電腦, 1座鐘.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1座鐘。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1棵西蘭花，2隻手。
 
-![](./test_data/object_eval/34.jpg)
+![](./test_data/annotated_images/annotated_34.jpg)
 而家眼前嘅景象有1隻手.視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/22.jpg)
+![](./test_data/annotated_images/annotated_22.jpg)
 而家眼前嘅景象有4把椅, 2部電話, 1台笔记本電腦, 1個滑鼠, 1瓶樽, 1個書包.視線左上角嘅場景有1部電話，1把椅，1個書包。視線右上角嘅場景有1把椅，1個滑鼠，1瓶樽。視線右下角嘅場景有1台笔记本電腦，2把椅，1部電話。
 
-![](./test_data/object_eval/5.jpg)
+![](./test_data/annotated_images/annotated_5.jpg)
 而家眼前嘅景象有3瓶樽, 2個杯, 1台笔记本電腦, 1隻手, 1個水槽, 1座鐘.視線右上角嘅場景有1個杯，3瓶樽，1座鐘。視線左下角嘅場景有1台笔记本電腦，1個杯。視線右下角嘅場景有1隻手，1個水槽。
 
-![](./test_data/object_eval/24.jpg)
+![](./test_data/annotated_images/annotated_24.jpg)
 而家眼前嘅景象有4把椅, 2台電視, 2隻手, 2個手袋, 1個杯, 1個行李箱.視線左上角嘅場景有1台電視，1把椅。視線右上角嘅場景有2把椅，1台電視，1個行李箱，1個手袋。視線左下角嘅場景有1個杯，1隻手。視線右下角嘅場景有1隻手，1個手袋，1把椅。
 
-![](./test_data/object_eval/66.jpg)
+![](./test_data/annotated_images/annotated_66.jpg)
 而家眼前嘅景象有8把椅, 1張飯枱.視線左上角嘅場景有2把椅。視線右上角嘅場景有2把椅。視線左下角嘅場景有4把椅。視線右下角嘅場景有1張飯枱。
 
-![](./test_data/object_eval/73.jpg)
+![](./test_data/annotated_images/annotated_73.jpg)
 而家眼前嘅景象有1隻手, 1台笔记本電腦, 1個杯, 1把鍵盤.視線左上角嘅場景有1個杯。視線左下角嘅場景有1隻手。視線右下角嘅場景有1台笔记本電腦，1把鍵盤。
 
-![](./test_data/object_eval/12.jpg)
+![](./test_data/annotated_images/annotated_12.jpg)
 而家眼前嘅景象有5把椅, 2台電視, 1隻手, 1瓶樽, 1張飯枱.視線左上角嘅場景有1台電視。視線右上角嘅場景有1瓶樽，4把椅，1台電視。視線左下角嘅場景有1隻手。視線右下角嘅場景有1把椅，1張飯枱。
 
-![](./test_data/object_eval/8.jpg)
+![](./test_data/annotated_images/annotated_8.jpg)
 而家眼前嘅景象有2個碗, 1台笔记本電腦, 1片薄餅, 1瓶樽, 1隻手, 1台電視.視線左上角嘅場景有1個碗。視線右上角嘅場景有1個碗。視線左下角嘅場景有1台笔记本電腦，1瓶樽，1台電視。視線右下角嘅場景有1片薄餅，1隻手。
 
-![](./test_data/object_eval/37.jpg)
+![](./test_data/annotated_images/annotated_37.jpg)
 而家眼前嘅景象有1隻手, 1根香蕉.視線右上角嘅場景有1根香蕉。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/28.jpg)
+![](./test_data/annotated_images/annotated_28.jpg)
 而家眼前嘅景象有1隻手, 1個遙控, 1瓶樽, 1台笔记本電腦, 1張床, 1本書.視線右上角嘅場景有1個遙控，1瓶樽。視線左下角嘅場景有1隻手，1張床。視線右下角嘅場景有1台笔记本電腦，1本書。
 
-![](./test_data/object_eval/39.jpg)
+![](./test_data/annotated_images/annotated_39.jpg)
 而家眼前嘅景象有10瓶樽, 3個碗, 2根蘿蔔, 1台電視, 1隻手, 1台笔记本電腦.視線左上角嘅場景有2個碗。視線右上角嘅場景有10瓶樽，1個碗。視線左下角嘅場景有1台電視，1台笔记本電腦。視線右下角嘅場景有1隻手，2根蘿蔔。
 
-![](./test_data/object_eval/58.jpg)
+![](./test_data/annotated_images/annotated_58.jpg)
 而家眼前嘅景象有8把椅, 4台電視, 1瓶樽, 1張飯枱, 1個杯, 1個滑鼠.視線左上角嘅場景有1台電視。視線右上角嘅場景有2台電視。視線左下角嘅場景有1台電視。視線右下角嘅場景有8把椅，1瓶樽，1張飯枱，1個杯，1個滑鼠。
 
-![](./test_data/object_eval/33.jpg)
+![](./test_data/annotated_images/annotated_33.jpg)
 而家眼前嘅景象有1台電視, 1片薄餅, 1瓶樽, 1個杯, 1個碗.視線左上角嘅場景有1瓶樽，1個碗。視線右上角嘅場景有1個杯。視線左下角嘅場景有1台電視。視線右下角嘅場景有1片薄餅。
 
-![](./test_data/object_eval/75.jpg)
+![](./test_data/annotated_images/annotated_75.jpg)
 而家眼前嘅景象有2個蘋果, 1台笔记本電腦, 1個杯, 1把鍵盤.視線右上角嘅場景有1個蘋果，1個杯。視線左下角嘅場景有1個蘋果。視線右下角嘅場景有1台笔记本電腦，1把鍵盤。
 
-![](./test_data/object_eval/26.jpg)
+![](./test_data/annotated_images/annotated_26.jpg)
 而家眼前嘅景象有2個橙, 1隻手, 1個滑鼠, 1部電話.視線左上角嘅場景有2個橙。視線左下角嘅場景有1隻手，1部電話。視線右下角嘅場景有1個滑鼠。
 
-![](./test_data/object_eval/49.jpg)
+![](./test_data/annotated_images/annotated_49.jpg)
 而家眼前嘅景象有1台笔记本電腦, 1隻手, 1部電話, 1把椅.視線左上角嘅場景有1台笔记本電腦。視線左下角嘅場景有1隻手。視線右下角嘅場景有1部電話，1把椅。
 
-![](./test_data/object_eval/40.jpg)
+![](./test_data/annotated_images/annotated_40.jpg)
 而家眼前嘅景象有2個碗, 2瓶樽, 1台電視, 1台焗爐.視線左上角嘅場景有2個碗。視線右上角嘅場景有2瓶樽。視線左下角嘅場景有1台電視，1台焗爐。
 
-![](./test_data/object_eval/51.jpg)
+![](./test_data/annotated_images/annotated_51.jpg)
 而家眼前嘅景象有1隻手, 1把雨傘.視線右下角嘅場景有1隻手，1把雨傘。
 
-![](./test_data/object_eval/69.jpg)
+![](./test_data/annotated_images/annotated_69.jpg)
 而家眼前嘅景象有5瓶樽, 2個碗, 1個杯, 1部電話, 1根香蕉.視線左上角嘅場景有4瓶樽，1個碗。視線右上角嘅場景有1瓶樽。視線左下角嘅場景有1個碗。視線右下角嘅場景有1個杯，1部電話，1根香蕉。
 
-![](./test_data/object_eval/53.jpg)
+![](./test_data/annotated_images/annotated_53.jpg)
 而家眼前嘅景象有1個滑鼠, 1個遙控, 1把椅, 1隻手, 1張飯枱, 1部電話.視線左上角嘅場景有1個滑鼠，1把椅。視線左下角嘅場景有1張飯枱。視線右下角嘅場景有1個遙控，1隻手，1部電話。
 
-![](./test_data/object_eval/3.jpg)
+![](./test_data/annotated_images/annotated_3.jpg)
 而家眼前嘅景象有4瓶樽, 3個杯, 1台笔记本電腦, 1個水槽.視線左上角嘅場景有2個杯。視線右上角嘅場景有1個水槽，4瓶樽，1個杯。視線左下角嘅場景有1台笔记本電腦。
 
-![](./test_data/object_eval/64.jpg)
+![](./test_data/annotated_images/annotated_64.jpg)
 而家眼前嘅景象有8把椅, 2個滑鼠, 2台電視, 1瓶樽, 1張飯枱, 1個蘋果.視線左上角嘅場景有5把椅。視線右上角嘅場景有2台電視，2把椅。視線左下角嘅場景有2個滑鼠，1張飯枱，1個蘋果。視線右下角嘅場景有1瓶樽，1把椅。
 
-![](./test_data/object_eval/63.jpg)
+![](./test_data/annotated_images/annotated_63.jpg)
 而家眼前嘅景象有2把椅, 1張梳化.視線右下角嘅場景有1張梳化，2把椅。
 
-![](./test_data/object_eval/62.jpg)
+![](./test_data/annotated_images/annotated_62.jpg)
 而家眼前嘅景象有1隻手, 1部電話, 1把匙, 1個滑鼠, 1台笔记本電腦.視線左上角嘅場景有1把匙。視線右上角嘅場景有1部電話，1個滑鼠，1台笔记本電腦。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/38.jpg)
+![](./test_data/annotated_images/annotated_38.jpg)
 而家眼前嘅景象有12瓶樽, 2隻手, 2個碗, 1根蘿蔔, 1台笔记本電腦.視線左上角嘅場景有1個碗。視線右上角嘅場景有11瓶樽，1個碗。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1根蘿蔔，2隻手，1瓶樽。
 
-![](./test_data/object_eval/41.jpg)
+![](./test_data/annotated_images/annotated_41.jpg)
 而家眼前嘅景象有1棵西蘭花, 1隻手, 1台笔记本電腦, 1瓶樽, 1個水槽.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1棵西蘭花。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1隻手，1個水槽。
 
-![](./test_data/object_eval/10.jpg)
+![](./test_data/annotated_images/annotated_10.jpg)
 而家眼前嘅景象有4瓶樽, 3個碗, 1根香蕉, 1台笔记本電腦, 1個杯, 1個水槽, 1台電視.視線左上角嘅場景有4瓶樽，1個碗。視線右上角嘅場景有1個杯，1個碗。視線左下角嘅場景有1台笔记本電腦，1個水槽，1個碗，1台電視。視線右下角嘅場景有1根香蕉。
 
-![](./test_data/object_eval/36.jpg)
+![](./test_data/annotated_images/annotated_36.jpg)
 而家眼前嘅景象有4把椅, 2個橙, 1張飯枱, 1部電話, 1隻手.視線左上角嘅場景有2把椅，1部電話。視線右上角嘅場景有2把椅。視線左下角嘅場景有1張飯枱，2個橙，1隻手。
 
-![](./test_data/object_eval/61.jpg)
+![](./test_data/annotated_images/annotated_61.jpg)
 而家眼前嘅景象有2把椅, 1張飯枱, 1隻手, 1塊蛋糕.視線右上角嘅場景有1把椅。視線左下角嘅場景有1把椅。視線右下角嘅場景有1張飯枱，1隻手，1塊蛋糕。
 
-![](./test_data/object_eval/23.jpg)
+![](./test_data/annotated_images/annotated_23.jpg)
 而家眼前嘅景象有3把椅, 1個滑鼠, 1隻手, 1個遙控, 1瓶樽.視線左上角嘅場景有1把椅。視線右上角嘅場景有2把椅。視線左下角嘅場景有1個滑鼠。視線右下角嘅場景有1隻手，1個遙控，1瓶樽。
 
-![](./test_data/object_eval/55.jpg)
+![](./test_data/annotated_images/annotated_55.jpg)
 而家眼前嘅景象有2個碗, 1瓶樽, 1台笔记本電腦, 1個杯, 1台電視, 1棵西蘭花, 1個水槽.視線左上角嘅場景有1瓶樽，1個碗。視線右上角嘅場景有1個杯，1棵西蘭花，1個碗。視線左下角嘅場景有1台笔记本電腦，1台電視。視線右下角嘅場景有1個水槽。
 
-![](./test_data/object_eval/18.jpg)
+![](./test_data/annotated_images/annotated_18.jpg)
 而家眼前嘅景象有1張梳化, 1隻手.視線左上角嘅場景有1隻手。視線右下角嘅場景有1張梳化。
 
-![](./test_data/object_eval/42.jpg)
+![](./test_data/annotated_images/annotated_42.jpg)
 而家眼前嘅景象有1棵西蘭花, 1隻手, 1台電視, 1瓶樽, 1個水槽, 1台笔记本電腦.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1棵西蘭花。視線左下角嘅場景有1台電視，1台笔记本電腦。視線右下角嘅場景有1隻手，1個水槽。
 
-![](./test_data/object_eval/77.jpg)
+![](./test_data/annotated_images/annotated_77.jpg)
 而家眼前嘅景象有2個蘋果, 1台笔记本電腦, 1把鍵盤, 1瓶樽, 1個杯, 1部電話.視線左上角嘅場景有1個蘋果，1瓶樽。視線右上角嘅場景有1個杯。視線左下角嘅場景有1個蘋果。視線右下角嘅場景有1台笔记本電腦，1把鍵盤，1部電話。
 
-![](./test_data/object_eval/47.jpg)
+![](./test_data/annotated_images/annotated_47.jpg)
 而家眼前嘅景象有2個水槽, 1隻手, 1個碗, 1瓶樽, 1台電視, 1台笔记本電腦.視線左上角嘅場景有1個碗，1瓶樽。視線左下角嘅場景有1台電視，2個水槽，1台笔记本電腦。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/60.jpg)
+![](./test_data/annotated_images/annotated_60.jpg)
 而家眼前嘅景象有3把椅, 1個遙控, 1瓶樽, 1隻手, 1張飯枱, 1個滑鼠, 1個手袋.視線左上角嘅場景有1瓶樽，3把椅。視線右上角嘅場景有1個遙控，1個滑鼠，1個手袋。視線左下角嘅場景有1張飯枱。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/68.jpg)
+![](./test_data/annotated_images/annotated_68.jpg)
 而家眼前嘅景象有3瓶樽, 2個碗, 2個杯, 1個橙, 1台電視.視線左上角嘅場景有3瓶樽，1個碗。視線右上角嘅場景有1個杯。視線左下角嘅場景有1個碗。視線右下角嘅場景有1個杯，1個橙，1台電視。
 
-![](./test_data/object_eval/6.jpg)
+![](./test_data/annotated_images/annotated_6.jpg)
 而家眼前嘅景象有5個杯, 3瓶樽, 1台笔记本電腦, 1隻手.視線右上角嘅場景有5個杯，3瓶樽。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/56.jpg)
+![](./test_data/annotated_images/annotated_56.jpg)
 而家眼前嘅景象有1個手袋, 1張梳化, 1隻手.視線右下角嘅場景有1個手袋，1張梳化，1隻手。
 
-![](./test_data/object_eval/48.jpg)
+![](./test_data/annotated_images/annotated_48.jpg)
 而家眼前嘅景象有1個水槽, 1個碗, 1隻手, 1本書.視線左上角嘅場景有1個碗。視線左下角嘅場景有1個水槽。視線右下角嘅場景有1隻手，1本書。
 
-![](./test_data/object_eval/52.jpg)
+![](./test_data/annotated_images/annotated_52.jpg)
 而家眼前嘅景象有1部電話, 1個滑鼠, 1把匙.視線左上角嘅場景有1把匙。視線右上角嘅場景有1部電話，1個滑鼠。
 
-![](./test_data/object_eval/4.jpg)
+![](./test_data/annotated_images/annotated_4.jpg)
 而家眼前嘅景象有5瓶樽, 1個杯, 1台笔记本電腦, 1隻手, 1個水槽.視線右上角嘅場景有1個杯，4瓶樽，1個水槽。視線左下角嘅場景有1台笔记本電腦，1瓶樽。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/74.jpg)
+![](./test_data/annotated_images/annotated_74.jpg)
 而家眼前嘅景象有1隻手, 1台笔记本電腦, 1台電視.視線左下角嘅場景有1隻手。視線右下角嘅場景有1台笔记本電腦，1台電視。
 
-![](./test_data/object_eval/32.jpg)
+![](./test_data/annotated_images/annotated_32.jpg)
 而家眼前嘅景象有4把椅, 1隻手, 1張飯枱, 1個遙控, 1個滑鼠, 1個杯.視線左上角嘅場景有1把椅，1個遙控，1個滑鼠。視線右上角嘅場景有1把椅，1張飯枱，1個杯。視線左下角嘅場景有1把椅。視線右下角嘅場景有1把椅，1隻手。
 
-![](./test_data/object_eval/57.jpg)
+![](./test_data/annotated_images/annotated_57.jpg)
 而家眼前嘅景象有4把椅, 1隻手, 1個滑鼠, 1張飯枱, 1個遙控.視線左上角嘅場景有1個滑鼠，1把椅，1個遙控。視線右上角嘅場景有1把椅。視線左下角嘅場景有2把椅。視線右下角嘅場景有1隻手，1張飯枱。
 
-![](./test_data/object_eval/44.jpg)
+![](./test_data/annotated_images/annotated_44.jpg)
 而家眼前嘅景象有1棵西蘭花, 1台笔记本電腦, 1隻手, 1台電視.視線左下角嘅場景有1台笔记本電腦，1台電視。視線右下角嘅場景有1棵西蘭花，1隻手。
 
-![](./test_data/object_eval/9.jpg)
+![](./test_data/annotated_images/annotated_9.jpg)
 而家眼前嘅景象有2個碗, 1台電視, 1片薄餅, 1台笔记本電腦.視線左上角嘅場景有1個碗。視線右上角嘅場景有1個碗。視線左下角嘅場景有1台電視，1台笔记本電腦。視線右下角嘅場景有1片薄餅。
 
-![](./test_data/object_eval/76.jpg)
+![](./test_data/annotated_images/annotated_76.jpg)
 而家眼前嘅景象有2台笔记本電腦, 1隻手, 1個蘋果.視線左下角嘅場景有1隻手，1個蘋果。視線右下角嘅場景有2台笔记本電腦。
 
-![](./test_data/object_eval/59.jpg)
+![](./test_data/annotated_images/annotated_59.jpg)
 而家眼前嘅景象有8把椅, 2台電視, 1瓶樽, 1個手袋, 1個行李箱, 1張飯枱.視線左上角嘅場景有1台電視，1把椅，1個行李箱。視線右上角嘅場景有1台電視，1把椅。視線左下角嘅場景有2把椅，1瓶樽，1張飯枱。視線右下角嘅場景有4把椅，1個手袋。
 
-![](./test_data/object_eval/13.jpg)
+![](./test_data/annotated_images/annotated_13.jpg)
 而家眼前嘅景象有4把椅, 1個行李箱, 1個書包.視線左上角嘅場景有1把椅。視線右上角嘅場景有2把椅。視線左下角嘅場景有1個行李箱，1個書包。視線右下角嘅場景有1把椅。
 
-![](./test_data/object_eval/71.jpg)
+![](./test_data/annotated_images/annotated_71.jpg)
 而家眼前嘅景象有2個蘋果, 1台笔记本電腦, 1隻手, 1個杯, 1部電話.視線左上角嘅場景有1個杯。視線左下角嘅場景有2個蘋果，1隻手，1部電話。視線右下角嘅場景有1台笔记本電腦。
 
-![](./test_data/object_eval/70.jpg)
+![](./test_data/annotated_images/annotated_70.jpg)
 而家眼前嘅景象有2個蘋果, 1台笔记本電腦, 1瓶樽, 1部電話, 1把鍵盤.視線左上角嘅場景有1瓶樽。視線左下角嘅場景有2個蘋果，1部電話。視線右下角嘅場景有1台笔记本電腦，1把鍵盤。
 
-![](./test_data/object_eval/1.jpg)
+![](./test_data/annotated_images/annotated_1.jpg)
 而家眼前嘅景象有4把椅, 1張飯枱, 1台笔记本電腦, 1根香蕉.視線左上角嘅場景有2把椅。視線右上角嘅場景有1張飯枱，1根香蕉。視線左下角嘅場景有2把椅。視線右下角嘅場景有1台笔记本電腦。
 
-![](./test_data/object_eval/21.jpg)
+![](./test_data/annotated_images/annotated_21.jpg)
 而家眼前嘅景象有9瓶樽, 1個杯, 1根蘿蔔, 1台笔记本電腦, 1個碗, 1台焗爐.視線右上角嘅場景有8瓶樽，1個碗。視線左下角嘅場景有1個杯，1台笔记本電腦，1台焗爐。視線右下角嘅場景有1瓶樽，1根蘿蔔。
 
-![](./test_data/object_eval/50.jpg)
+![](./test_data/annotated_images/annotated_50.jpg)
 而家眼前嘅景象有3支叉, 1隻手, 1把匙.視線左上角嘅場景有3支叉，1把匙。視線右下角嘅場景有1隻手。
 
-![](./test_data/object_eval/54.jpg)
+![](./test_data/annotated_images/annotated_54.jpg)
 而家眼前嘅景象有2個水槽, 1台電視, 1個杯, 1瓶樽, 1台笔记本電腦.視線右上角嘅場景有1個杯。視線左下角嘅場景有1台電視，1個水槽，1瓶樽，1台笔记本電腦。視線右下角嘅場景有1個水槽。
 
-![](./test_data/object_eval/25.jpg)
+![](./test_data/annotated_images/annotated_25.jpg)
 而家眼前嘅景象有2台笔记本電腦, 1隻手, 1個行李箱, 1個橙, 1張床, 1張飯枱.視線左上角嘅場景有1個橙，1張床，1張飯枱。視線左下角嘅場景有1隻手，1台笔记本電腦。視線右下角嘅場景有1個行李箱，1台笔记本電腦。
 
-![](./test_data/object_eval/14.jpg)
+![](./test_data/annotated_images/annotated_14.jpg)
 而家眼前嘅景象有2台電視, 2把椅, 1個書包, 1個行李箱.視線左上角嘅場景有1台電視。視線右上角嘅場景有1台電視，1把椅。視線左下角嘅場景有1個書包，1個行李箱。視線右下角嘅場景有1把椅。
 
-![](./test_data/object_eval/19.jpg)
+![](./test_data/annotated_images/annotated_19.jpg)
 而家眼前嘅景象有4根蘿蔔, 4把椅, 3台電視, 1瓶樽, 1張飯枱, 1張梳化.視線左上角嘅場景有3把椅，1台電視，1張梳化。視線右上角嘅場景有1瓶樽，1把椅，2台電視。視線左下角嘅場景有4根蘿蔔，1張飯枱。
 
-![](./test_data/object_eval/30.jpg)
+![](./test_data/annotated_images/annotated_30.jpg)
 而家眼前嘅景象有2隻手, 1台笔记本電腦, 1部電話.視線左上角嘅場景有1台笔记本電腦，1隻手。視線右上角嘅場景有1部電話。視線左下角嘅場景有1隻手。
 
-![](./test_data/object_eval/67.jpg)
+![](./test_data/annotated_images/annotated_67.jpg)
 而家眼前嘅景象有4把椅, 1隻手, 1張飯枱, 1棵西蘭花.視線左上角嘅場景有2把椅。視線右上角嘅場景有2把椅。視線左下角嘅場景有1隻手。視線右下角嘅場景有1張飯枱，1棵西蘭花。
 
-![](./test_data/object_eval/7.jpg)
+![](./test_data/annotated_images/annotated_7.jpg)
 而家眼前嘅景象有4把椅, 2個滑鼠, 1個遙控, 1隻手, 1瓶樽, 1張飯枱.視線左上角嘅場景有3把椅，1個滑鼠。視線右上角嘅場景有1把椅。視線左下角嘅場景有1個遙控，1瓶樽，1張飯枱。視線右下角嘅場景有1隻手，1個滑鼠。
 
