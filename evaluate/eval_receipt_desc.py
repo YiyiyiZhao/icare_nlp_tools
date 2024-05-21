@@ -68,6 +68,7 @@ def ocr_detect(img_path):
     return text, img_anno
 
 
+receipt_desc_res_list=[]
 
 system="""
 "The input consists of an OCR detection result from a receipt and a text string in Cantonese describing the receipt summary. Your task is to evaluate how accurately the summary reflects the OCR results. Additionally, assess the fluency and coherence of the summary language. You need to evaluate based on the following two aspects, with each dimension scored from 0 to 1:
@@ -99,6 +100,7 @@ with open(markdown_file_path, 'w') as md_file:
                 md_file.write(f"***********{filename}****************:\n {ocr_text}\n\n")
 
                 receipt_desc_res=receipt_desc.form_response(ocr_text)
+                receipt_desc_res_list.append({"filename":filename, "desc":receipt_desc_res})
 
                 keys = os.getenv("OPENAI_API_KEYS").split(',')
                 current_key = os.getenv("OPENAI_API_KEY")
@@ -123,3 +125,8 @@ filename = './test_data/can_receipts/scores.json'
 with open(filename, 'w') as f:
     # 将字典转换为JSON格式并写入文件
     json.dump(scores, f, indent=2, ensure_ascii=False)
+
+with open("receipt_description.json", 'w', encoding="utf-8") as f:
+    # 将字典转换为JSON格式并写入文件
+    json.dump(receipt_desc_res_list, f, indent=2, ensure_ascii=False)
+
