@@ -3,6 +3,11 @@ import torch
 from sentence_transformers import SentenceTransformer, util
 from . import utils
 from importlib import resources
+from slot_can.detector import JointIntentSlotDetector
+import re
+import wordsegment
+import importlib.resources as pkg_resources
+
 class ObjectQA(object):
     def __init__(self):
         self.cls_model = SentenceTransformer('indiejoseph/bert-cantonese-sts')
@@ -10,28 +15,28 @@ class ObjectQA(object):
         self.sentences2 = ["附近有冇其他物體"]
         self.embeddings1 = self.cls_model.encode(self.sentences1, convert_to_tensor=True)
         self.embeddings2 = self.cls_model.encode(self.sentences2, convert_to_tensor=True)
-        # with open("resources/yolo_obj_class_def.json", "r") as f:
-        #     self.yolo_cls = json.load(f)
-        # with open("resources/inv_yolo_obj_class_def.json", "r") as f:
-        #     self.inv_yolo_cls = json.load(f)
-        # with open("resources/rev_yolo_obj_class_def.json", "r", encoding="utf-8") as f:
-        #     self.rev_yolo_cls = json.load(f)
         with resources.open_text("icare_nlp.resources", "yolo_obj_class_def.json") as f:
             self.yolo_cls = json.load(f)
         with resources.open_text("icare_nlp.resources", "inv_yolo_obj_class_def.json") as f:
             self.inv_yolo_cls = json.load(f)
         with resources.open_text("icare_nlp.resources", "rev_yolo_obj_class_def.json") as f:
             self.rev_yolo_cls = json.load(f)
-        #self.category_emb_tensor = torch.load('resources/category_emb_tensor.pt')
         self.hand_centric=False
         self.target_obj=''
-        # with open("resources/category_tactile_description.json", "r", encoding="utf-8") as f:
-        #     self.cate_tac_desc = json.load(f)
         with resources.open_text("icare_nlp.resources", "category_tactile_description.json", encoding="utf-8") as f:
             self.cate_tac_desc = json.load(f)
         with resources.path("icare_nlp.resources", "category_emb_tensor.pt") as path:
             self.category_emb_tensor = torch.load(str(path))
         self.device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        wordsegment.load()
+        with pkg_resources.path("icare_nlp.resources", "intent_labels.txt") as intent_path, \
+             pkg_resources.path("icare_nlp.resources", "slot_labels.txt") as slot_path:
+            self.slot_model = JointIntentSlotDetector.from_pretrained(
+                model_path='Yiyiyiyiyi/icare_nlp_slot_filling_can_bert',
+                tokenizer_path='Yiyiyiyiyi/icare_nlp_slot_filling_can_bert',
+                intent_label_path=intent_path,
+                slot_label_path=slot_path
+            )
 
     def classify_query(self, question):
         input_embedding = self.cls_model.encode(question, convert_to_tensor=True)
@@ -55,7 +60,7 @@ class ObjectQA(object):
         self.centric_hand = False
         word_set = {'？', '冇', '條', '到', '別嘅', '東西', '邊', '點樣', '頭', '某个', '喺', '物', '我', '附近', '其他',
                     '物件', '物體', '體', '到', '攞', '可以', '有', '我點樣', '嗎', '物體', '嘅', '哪', '上', '個',
-                    '方向','如何', '能够', '获得', '在', '我', '手', '的', '哪个', '方向', '在', '哪里', '附近', '有', '没有', '其他', '物体'}
+                    '方向','如何', '能够', '获得', '在', '我', '的', '哪个', '方向', '在', '哪里', '附近', '有', '没有', '其他', '物体'}
         for word in word_set:
             if word in question:
                 question = question.replace(word, '_')
@@ -67,7 +72,40 @@ class ObjectQA(object):
         res = ''.join(cleaned_list)
         return res, self.centric_hand
 
-
+    def is_english(self, text):
+        # 检查字符串是否只包含英文字符、数字、标点和空白
+        # 增加了对英文常见标点的支持
+        if re.match("^[a-zA-Z]*$", text):
+            return True
+        return False
+    def get_short_expression_bert(self, question):
+        pred=self.slot_model.detect(question)
+        if pred["intent"] in ["find_position", "ask_near"]:
+            target = pred["slots"]["object"][0]
+            target = target.replace("#", "").replace(" ", "")
+            if self.is_english(target):
+                target_seg = wordsegment.segment(target)
+                target = ' '.join(target_seg)
+        elif pred["intent"] in ["ask_exist", "ask_price"]:
+            target = pred["slots"]["item"][0]
+        elif pred["intent"] == "ask_total_price":
+            target=pred["slots"]
+        else:
+            target=""
+        res=target
+        self.centric_hand = False
+        word_set = {'？', '冇', '條', '到', '別嘅', '東西', '邊', '點樣', '頭', '某个', '喺', '物', '我', '附近', '其他',
+                    '物件', '物體', '體', '到', '攞', '可以', '有', '我點樣', '嗎', '物體', '嘅', '哪', '上', '個',
+                    '方向','如何', '能够', '获得', '在', '我', '的', '哪个', '方向', '在', '哪里', '附近', '有', '没有', '其他', '物体'}
+        for word in word_set:
+            if word in question:
+                question = question.replace(word, '_')
+        tmp_list = question.split('_')
+        cleaned_list = [item for item in tmp_list if item != '']
+        if '手' in cleaned_list:
+            self.centric_hand = True
+            cleaned_list.remove('手')
+        return res, self.centric_hand
 
     def get_target_obj(self, question, obj_detect):
         obj_list = [item['text'] for item in obj_detect]
@@ -75,7 +113,9 @@ class ObjectQA(object):
         for obj in obj_list:
             obj_index_list.append(int(self.inv_yolo_cls[obj]))
         selected_embs = self.category_emb_tensor[obj_index_list]
-        short, centric_hand = self.get_short_expression(question)
+        short, centric_hand = self.get_short_expression_bert(question)
+        if not short:
+            short, centric_hand = self.get_short_expression(question)
         short_emb = self.cls_model.encode(short, convert_to_tensor=True)
         if short in self.rev_yolo_cls:
             tmp=self.rev_yolo_cls[short]

@@ -1,0 +1,7844 @@
+[
+  {
+    "text": "有冇買到牛腩面？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牛腩面"
+    }
+  },
+  {
+    "text": "餐桌喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "餐桌"
+    }
+  },
+  {
+    "text": "cup喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "cup"
+    }
+  },
+  {
+    "text": "microwave喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "microwave"
+    }
+  },
+  {
+    "text": "我们点咗虾饺未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "牙刷喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "牙刷"
+    }
+  },
+  {
+    "text": "橙汁係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "埋單總共俾幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "donut喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "donut"
+    }
+  },
+  {
+    "text": "tennis racket附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "tennis racket"
+    }
+  },
+  {
+    "text": "呢次購物總共花咗幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "梳化喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "梳化"
+    }
+  },
+  {
+    "text": "罐头係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "总共花了几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "tie喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "tie"
+    }
+  },
+  {
+    "text": "焗爐附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "焗爐"
+    }
+  },
+  {
+    "text": "係咪有饼干？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "饼干"
+    }
+  },
+  {
+    "text": "chair喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "chair"
+    }
+  },
+  {
+    "text": "腊味煲仔饭係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "請檢查下黑椒牛柳有冇喺單上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "couch附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "couch"
+    }
+  },
+  {
+    "text": "今次购物总共花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "埋单一共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我们点咗大米未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "大米"
+    }
+  },
+  {
+    "text": "西蘭花喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "西蘭花"
+    }
+  },
+  {
+    "text": "呢次购物总共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "蘋果附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "蘋果"
+    }
+  },
+  {
+    "text": "長凳喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "長凳"
+    }
+  },
+  {
+    "text": "可以查下有冇酱油？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "酱油"
+    }
+  },
+  {
+    "text": "我们点咗烧鹅未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "今次购物一共用几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我一共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "烧鹅的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "可以查下有冇米粉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "可以查下有冇包菜肉丸湯？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "包菜肉丸湯"
+    }
+  },
+  {
+    "text": "请问蜜汁叉烧係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "backpack喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "backpack"
+    }
+  },
+  {
+    "text": "我點樣可以攞到apple？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "apple"
+    }
+  },
+  {
+    "text": "盆栽喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "盆栽"
+    }
+  },
+  {
+    "text": "飯枱喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "飯枱"
+    }
+  },
+  {
+    "text": "梳化喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "梳化"
+    }
+  },
+  {
+    "text": "请检查下咖啡有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "沙发喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "沙发"
+    }
+  },
+  {
+    "text": "手袋喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手袋"
+    }
+  },
+  {
+    "text": "花瓶喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "花瓶"
+    }
+  },
+  {
+    "text": "烤面包机喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "烤面包机"
+    }
+  },
+  {
+    "text": "我點樣可以攞到vase？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "vase"
+    }
+  },
+  {
+    "text": "係咪有大米？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "大米"
+    }
+  },
+  {
+    "text": "请问有冇糖醋排骨？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "我點樣可以攞到匙？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "匙"
+    }
+  },
+  {
+    "text": "凤爪係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "cup附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "cup"
+    }
+  },
+  {
+    "text": "呢次购物总共花咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到微波炉？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "微波炉"
+    }
+  },
+  {
+    "text": "有冇記錄到橙汁？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "clock喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "clock"
+    }
+  },
+  {
+    "text": "請問有冇魚蛋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "魚蛋"
+    }
+  },
+  {
+    "text": "tv喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "tv"
+    }
+  },
+  {
+    "text": "面包係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "面包"
+    }
+  },
+  {
+    "text": "我點樣可以攞到冰箱？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "冰箱"
+    }
+  },
+  {
+    "text": "三明治喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "三明治"
+    }
+  },
+  {
+    "text": "龙虾球要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "我哋有冇买冰淇淋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "冰淇淋"
+    }
+  },
+  {
+    "text": "呢次购物埋单一共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "焗爐喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "焗爐"
+    }
+  },
+  {
+    "text": "有冇蜜汁叉烧？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "我哋點咗麵條未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "麵條"
+    }
+  },
+  {
+    "text": "spoon喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "spoon"
+    }
+  },
+  {
+    "text": "领带喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "领带"
+    }
+  },
+  {
+    "text": "我點樣可以攞到手袋？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手袋"
+    }
+  },
+  {
+    "text": "勺子喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "勺子"
+    }
+  },
+  {
+    "text": "我今次要付几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "請確認下有冇炒牛河？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "炒牛河"
+    }
+  },
+  {
+    "text": "手提電腦附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "手提電腦"
+    }
+  },
+  {
+    "text": "请检查下蜜汁叉烧有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "有冇米粉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到西蘭花？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "西蘭花"
+    }
+  },
+  {
+    "text": "cake附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "cake"
+    }
+  },
+  {
+    "text": "烧鹅有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "handbag喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "handbag"
+    }
+  },
+  {
+    "text": "请问有冇矿泉水？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "矿泉水"
+    }
+  },
+  {
+    "text": "飯枱附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "飯枱"
+    }
+  },
+  {
+    "text": "牙膏要幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "吹风机喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "吹风机"
+    }
+  },
+  {
+    "text": "埋单总共花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到電視？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "電視"
+    }
+  },
+  {
+    "text": "請確認下有冇鳳梨包？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "鳳梨包"
+    }
+  },
+  {
+    "text": "烤箱附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "烤箱"
+    }
+  },
+  {
+    "text": "今次购物埋单总共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "鐘附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "鐘"
+    }
+  },
+  {
+    "text": "叉喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "叉"
+    }
+  },
+  {
+    "text": "虾饺嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "可以确认下有冇沐浴露？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "沐浴露"
+    }
+  },
+  {
+    "text": "餐桌喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "餐桌"
+    }
+  },
+  {
+    "text": "我们点咗沐浴露未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "沐浴露"
+    }
+  },
+  {
+    "text": "苹果的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "苹果"
+    }
+  },
+  {
+    "text": "hair drier附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "hair drier"
+    }
+  },
+  {
+    "text": "厕所喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "厕所"
+    }
+  },
+  {
+    "text": "龙虾球係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "吹风机附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "吹风机"
+    }
+  },
+  {
+    "text": "瓶子喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "瓶子"
+    }
+  },
+  {
+    "text": "酱油嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "酱油"
+    }
+  },
+  {
+    "text": "龙虾球卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "有冇黑椒牛柳？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "这次购物总共要几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "refrigerator附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "refrigerator"
+    }
+  },
+  {
+    "text": "我點樣可以攞到蛋糕？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蛋糕"
+    }
+  },
+  {
+    "text": "甜甜圈喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "甜甜圈"
+    }
+  },
+  {
+    "text": "鴛鴦嘅價錢係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "鴛鴦"
+    }
+  },
+  {
+    "text": "请检查下烧鹅有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "运动球喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "运动球"
+    }
+  },
+  {
+    "text": "橙喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "橙"
+    }
+  },
+  {
+    "text": "我點樣可以攞到吹风机？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "吹风机"
+    }
+  },
+  {
+    "text": "雪櫃附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "雪櫃"
+    }
+  },
+  {
+    "text": "我點樣可以攞到遥控器？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "遥控器"
+    }
+  },
+  {
+    "text": "薯片卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "薯片"
+    }
+  },
+  {
+    "text": "可以确认下有冇薯片？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "薯片"
+    }
+  },
+  {
+    "text": "遥控器喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "遥控器"
+    }
+  },
+  {
+    "text": "腊味煲仔饭要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "suitcase喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "suitcase"
+    }
+  },
+  {
+    "text": "滑鼠喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "滑鼠"
+    }
+  },
+  {
+    "text": "我點樣可以攞到香蕉？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "香蕉"
+    }
+  },
+  {
+    "text": "叉子喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "叉子"
+    }
+  },
+  {
+    "text": "你知唔知牛奶几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "你知唔知饼干几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "饼干"
+    }
+  },
+  {
+    "text": "我點樣可以攞到書？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "書"
+    }
+  },
+  {
+    "text": "bench附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "bench"
+    }
+  },
+  {
+    "text": "我點樣可以攞到泰迪熊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "泰迪熊"
+    }
+  },
+  {
+    "text": "我们点咗罐头未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "可以檢查下牛奶有冇記喺單上嗎？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "teddy bear附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "teddy bear"
+    }
+  },
+  {
+    "text": "keyboard喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "keyboard"
+    }
+  },
+  {
+    "text": "fork附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "fork"
+    }
+  },
+  {
+    "text": "我點樣可以攞到杯子？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "杯子"
+    }
+  },
+  {
+    "text": "broccoli喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "broccoli"
+    }
+  },
+  {
+    "text": "我點樣可以攞到toaster？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toaster"
+    }
+  },
+  {
+    "text": "樽附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "樽"
+    }
+  },
+  {
+    "text": "微波爐喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "微波爐"
+    }
+  },
+  {
+    "text": "bowl附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "bowl"
+    }
+  },
+  {
+    "text": "請問有冇蒜泥白肉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蒜泥白肉"
+    }
+  },
+  {
+    "text": "我埋單一共要付幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "糖醋排骨嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "請問有冇西柚汁？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "西柚汁"
+    }
+  },
+  {
+    "text": "卷纸的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "卷纸"
+    }
+  },
+  {
+    "text": "虾饺的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "網球拍喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "網球拍"
+    }
+  },
+  {
+    "text": "remote喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "remote"
+    }
+  },
+  {
+    "text": "白切鸡係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "今次购物总共花咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "键盘附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "键盘"
+    }
+  },
+  {
+    "text": "牙膏的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "请问白切鸡係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "梳化附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "梳化"
+    }
+  },
+  {
+    "text": "我點樣可以攞到伞？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "伞"
+    }
+  },
+  {
+    "text": "係咪有黑椒牛柳？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "叉子附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "叉子"
+    }
+  },
+  {
+    "text": "我哋有冇买烧鹅？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "餅乾要幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "餅乾"
+    }
+  },
+  {
+    "text": "剪刀附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "剪刀"
+    }
+  },
+  {
+    "text": "bowl喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bowl"
+    }
+  },
+  {
+    "text": "橙子喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "橙子"
+    }
+  },
+  {
+    "text": "我點樣可以攞到刀？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "刀"
+    }
+  },
+  {
+    "text": "领带喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "领带"
+    }
+  },
+  {
+    "text": "请检查下腊味煲仔饭有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "我哋有冇點西米露？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "西米露"
+    }
+  },
+  {
+    "text": "網球拍喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "網球拍"
+    }
+  },
+  {
+    "text": "热狗喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "热狗"
+    }
+  },
+  {
+    "text": "我點樣可以攞到hot dog？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "hot dog"
+    }
+  },
+  {
+    "text": "总共消费几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我需要支付嘅金額係幾多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "你可以话我知米粉几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "你知唔知米粉几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到遙控？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "遙控"
+    }
+  },
+  {
+    "text": "knife喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "knife"
+    }
+  },
+  {
+    "text": "我點樣可以攞到勺子？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "勺子"
+    }
+  },
+  {
+    "text": "我點樣可以攞到微波爐？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "微波爐"
+    }
+  },
+  {
+    "text": "熱狗附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "熱狗"
+    }
+  },
+  {
+    "text": "滑鼠喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "滑鼠"
+    }
+  },
+  {
+    "text": "我點樣可以攞到电视？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "电视"
+    }
+  },
+  {
+    "text": "可以查下梅菜扣肉嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "今次购物埋单花了几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "餐桌附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "餐桌"
+    }
+  },
+  {
+    "text": "叉附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "叉"
+    }
+  },
+  {
+    "text": "呢次购物我花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "可以確認下有冇炸薯條？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "炸薯條"
+    }
+  },
+  {
+    "text": "可以查下有冇糖醋排骨？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "這次要支付幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "係咪有凤爪？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "我今次购物一共要花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "总共花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "匙喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "匙"
+    }
+  },
+  {
+    "text": "手机附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "手机"
+    }
+  },
+  {
+    "text": "行李箱喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "行李箱"
+    }
+  },
+  {
+    "text": "我點樣可以攞到風箏？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "風箏"
+    }
+  },
+  {
+    "text": "我點樣可以攞到keyboard？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "keyboard"
+    }
+  },
+  {
+    "text": "我今次购物一共要花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到pizza？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "pizza"
+    }
+  },
+  {
+    "text": "scissors喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "scissors"
+    }
+  },
+  {
+    "text": "可以確認下有冇醋溜魚？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "醋溜魚"
+    }
+  },
+  {
+    "text": "dining table喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "dining table"
+    }
+  },
+  {
+    "text": "可以檢查下有冇紅燒肉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "紅燒肉"
+    }
+  },
+  {
+    "text": "可以查下有冇橙汁？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "我點樣可以攞到行李箱？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "行李箱"
+    }
+  },
+  {
+    "text": "領呔附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "領呔"
+    }
+  },
+  {
+    "text": "今次购物花咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "可以查下有冇腊味煲仔饭？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "我點樣可以攞到tennis racket？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "tennis racket"
+    }
+  },
+  {
+    "text": "长椅喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "长椅"
+    }
+  },
+  {
+    "text": "我點樣可以攞到teddy bear？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "teddy bear"
+    }
+  },
+  {
+    "text": "这次购物总共用几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "呢次購物總共用咗幾多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "水槽附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "水槽"
+    }
+  },
+  {
+    "text": "請檢查下有冇珍珠奶茶喺單上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "珍珠奶茶"
+    }
+  },
+  {
+    "text": "可以查下大米嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "大米"
+    }
+  },
+  {
+    "text": "三明治附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "三明治"
+    }
+  },
+  {
+    "text": "可以確認下有冇糖醋里脊？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋里脊"
+    }
+  },
+  {
+    "text": "薯片有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "薯片"
+    }
+  },
+  {
+    "text": "mouse附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "mouse"
+    }
+  },
+  {
+    "text": "請問燒賣有冇喺單上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "燒賣"
+    }
+  },
+  {
+    "text": "沐浴露係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "沐浴露"
+    }
+  },
+  {
+    "text": "係咪有牙膏？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "杯喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "杯"
+    }
+  },
+  {
+    "text": "有冇記錄到茉莉花茶？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "茉莉花茶"
+    }
+  },
+  {
+    "text": "洗发水有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "洗发水"
+    }
+  },
+  {
+    "text": "我们点咗白切鸡未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "我點樣可以攞到toilet？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toilet"
+    }
+  },
+  {
+    "text": "我點樣可以攞到胡萝卜？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "胡萝卜"
+    }
+  },
+  {
+    "text": "我點樣可以攞到酒杯？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "酒杯"
+    }
+  },
+  {
+    "text": "蛋糕喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蛋糕"
+    }
+  },
+  {
+    "text": "可以确认下有冇黑椒牛柳？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "雨傘喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "雨傘"
+    }
+  },
+  {
+    "text": "蜜汁叉烧嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "我點樣可以攞到烤箱？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "烤箱"
+    }
+  },
+  {
+    "text": "我點樣可以攞到杯？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "杯"
+    }
+  },
+  {
+    "text": "手提電腦喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提電腦"
+    }
+  },
+  {
+    "text": "今次购物总共用了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我们点咗米粉未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到花瓶？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "花瓶"
+    }
+  },
+  {
+    "text": "请问凤爪係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "我今次购物埋单一共用了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "有冇梅菜扣肉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "运动球附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "运动球"
+    }
+  },
+  {
+    "text": "laptop喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "laptop"
+    }
+  },
+  {
+    "text": "spoon附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "spoon"
+    }
+  },
+  {
+    "text": "有冇冰淇淋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "冰淇淋"
+    }
+  },
+  {
+    "text": "我今次埋单总共用几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "carrot喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "carrot"
+    }
+  },
+  {
+    "text": "剪刀喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "剪刀"
+    }
+  },
+  {
+    "text": "呢次總共用咗幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到烤面包机？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "烤面包机"
+    }
+  },
+  {
+    "text": "可以确认下有冇大米？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "大米"
+    }
+  },
+  {
+    "text": "电视喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "电视"
+    }
+  },
+  {
+    "text": "我點樣可以攞到bench？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bench"
+    }
+  },
+  {
+    "text": "toaster喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toaster"
+    }
+  },
+  {
+    "text": "bottle喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bottle"
+    }
+  },
+  {
+    "text": "苹果喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "苹果"
+    }
+  },
+  {
+    "text": "你知唔知酱油几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "酱油"
+    }
+  },
+  {
+    "text": "wine glass喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "wine glass"
+    }
+  },
+  {
+    "text": "手提包喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提包"
+    }
+  },
+  {
+    "text": "风筝喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "风筝"
+    }
+  },
+  {
+    "text": "toaster附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "toaster"
+    }
+  },
+  {
+    "text": "我们点咗咖啡未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "你可以话我知烧鹅几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "米粉要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "烤面包机喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "烤面包机"
+    }
+  },
+  {
+    "text": "蜜汁叉烧係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "请问茶叶係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "茶叶"
+    }
+  },
+  {
+    "text": "椅附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "椅"
+    }
+  },
+  {
+    "text": "請問有冇炸醬麵？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "炸醬麵"
+    }
+  },
+  {
+    "text": "knife附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "knife"
+    }
+  },
+  {
+    "text": "可以查下烧鹅嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "雨傘附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "雨傘"
+    }
+  },
+  {
+    "text": "鳳梨油係幾多錢一瓶？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "鳳梨油"
+    }
+  },
+  {
+    "text": "糖醋排骨有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "bed附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "bed"
+    }
+  },
+  {
+    "text": "mouse喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "mouse"
+    }
+  },
+  {
+    "text": "couch喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "couch"
+    }
+  },
+  {
+    "text": "罐头卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "我今次购物埋单总共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "kite喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "kite"
+    }
+  },
+  {
+    "text": "可以查下油盐酱醋嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "油盐酱醋"
+    }
+  },
+  {
+    "text": "呢次购物总共俾咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "飯枱喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "飯枱"
+    }
+  },
+  {
+    "text": "花瓶喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "花瓶"
+    }
+  },
+  {
+    "text": "微波炉喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "微波炉"
+    }
+  },
+  {
+    "text": "sink喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sink"
+    }
+  },
+  {
+    "text": "請檢查下牛奶有冇喺單上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "碗喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "碗"
+    }
+  },
+  {
+    "text": "可以查下饼干嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "饼干"
+    }
+  },
+  {
+    "text": "微波爐附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "微波爐"
+    }
+  },
+  {
+    "text": "kite附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "kite"
+    }
+  },
+  {
+    "text": "我们点咗梅菜扣肉未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "sports ball喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sports ball"
+    }
+  },
+  {
+    "text": "chair喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "chair"
+    }
+  },
+  {
+    "text": "pizza附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "pizza"
+    }
+  },
+  {
+    "text": "有冇腊味煲仔饭？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "剪刀喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "剪刀"
+    }
+  },
+  {
+    "text": "我點樣可以攞到book？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "book"
+    }
+  },
+  {
+    "text": "牛奶係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "呢次购物总共要几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "炒麵係咪也喺單上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "炒麵"
+    }
+  },
+  {
+    "text": "我哋有冇买橙汁？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "烤箱喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "烤箱"
+    }
+  },
+  {
+    "text": "我哋總共花了幾多錢呢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "行李箱喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "行李箱"
+    }
+  },
+  {
+    "text": "键盘喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "键盘"
+    }
+  },
+  {
+    "text": "我點樣可以攞到花瓶？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "花瓶"
+    }
+  },
+  {
+    "text": "我點樣可以攞到sandwich？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sandwich"
+    }
+  },
+  {
+    "text": "饼干係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "饼干"
+    }
+  },
+  {
+    "text": "我點樣可以攞到多士爐？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "多士爐"
+    }
+  },
+  {
+    "text": "糖醋排骨買到未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "可以查下虾饺嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "蛋糕喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蛋糕"
+    }
+  },
+  {
+    "text": "廁所喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "廁所"
+    }
+  },
+  {
+    "text": "我埋单一共花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "腊味煲仔飯嘅價錢係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "腊味煲仔飯"
+    }
+  },
+  {
+    "text": "電視附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "電視"
+    }
+  },
+  {
+    "text": "broccoli喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "broccoli"
+    }
+  },
+  {
+    "text": "請問有冇蒜蓉蒸蝦？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蒜蓉蒸蝦"
+    }
+  },
+  {
+    "text": "米粉卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到領呔？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "領呔"
+    }
+  },
+  {
+    "text": "我今次埋单一共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我今次购物用咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "购物总共用咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "orange喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "orange"
+    }
+  },
+  {
+    "text": "dining table附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "dining table"
+    }
+  },
+  {
+    "text": "蘋果喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蘋果"
+    }
+  },
+  {
+    "text": "sandwich喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sandwich"
+    }
+  },
+  {
+    "text": "剪刀附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "剪刀"
+    }
+  },
+  {
+    "text": "椅喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "椅"
+    }
+  },
+  {
+    "text": "microwave喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "microwave"
+    }
+  },
+  {
+    "text": "我埋单一共要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "请问有冇凤爪？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "请问虾饺係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "領呔喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "領呔"
+    }
+  },
+  {
+    "text": "你可以话我知梅菜扣肉几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "手提電腦喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提電腦"
+    }
+  },
+  {
+    "text": "可以确认下有冇苹果？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "苹果"
+    }
+  },
+  {
+    "text": "手提電話喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提電話"
+    }
+  },
+  {
+    "text": "请检查下矿泉水有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "矿泉水"
+    }
+  },
+  {
+    "text": "你可以话我知白切鸡几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "洗发水要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "洗发水"
+    }
+  },
+  {
+    "text": "我點樣可以攞到廁所？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "廁所"
+    }
+  },
+  {
+    "text": "糖醋排骨要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "keyboard附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "keyboard"
+    }
+  },
+  {
+    "text": "油盐酱醋卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "油盐酱醋"
+    }
+  },
+  {
+    "text": "oven喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "oven"
+    }
+  },
+  {
+    "text": "我點樣可以攞到tie？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "tie"
+    }
+  },
+  {
+    "text": "我點樣可以攞到叉？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "叉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到热狗？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "热狗"
+    }
+  },
+  {
+    "text": "请问有冇牛奶？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "我點樣可以攞到orange？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "orange"
+    }
+  },
+  {
+    "text": "叉子喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "叉子"
+    }
+  },
+  {
+    "text": "笔记本电脑喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "笔记本电脑"
+    }
+  },
+  {
+    "text": "蛋糕附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "蛋糕"
+    }
+  },
+  {
+    "text": "可以查下黑椒牛柳嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "laptop喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "laptop"
+    }
+  },
+  {
+    "text": "刀喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "刀"
+    }
+  },
+  {
+    "text": "糖醋排骨係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "这次购物我用咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "水槽喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "水槽"
+    }
+  },
+  {
+    "text": "我应该埋单几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "沐浴露卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "沐浴露"
+    }
+  },
+  {
+    "text": "有冇醬油？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "醬油"
+    }
+  },
+  {
+    "text": "薄餅喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "薄餅"
+    }
+  },
+  {
+    "text": "我今次购物埋单俾咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "牙膏要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "係咪有油盐酱醋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "油盐酱醋"
+    }
+  },
+  {
+    "text": "可以确认下有冇罐头？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "罐头有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "茶叶的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "茶叶"
+    }
+  },
+  {
+    "text": "bench喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bench"
+    }
+  },
+  {
+    "text": "我點樣可以攞到sink？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sink"
+    }
+  },
+  {
+    "text": "係咪有蜜汁叉烧？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "碗喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "碗"
+    }
+  },
+  {
+    "text": "teddy bear喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "teddy bear"
+    }
+  },
+  {
+    "text": "蜜汁叉烧有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "我點樣可以攞到碗？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "碗"
+    }
+  },
+  {
+    "text": "我今次购物总共花几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "今次购物总共花了几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "今次购物总共要几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到梳化？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "梳化"
+    }
+  },
+  {
+    "text": "我应该用几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "请问梅菜扣肉係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到盆栽？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "盆栽"
+    }
+  },
+  {
+    "text": "我點樣可以攞到雨傘？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "雨傘"
+    }
+  },
+  {
+    "text": "波喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "波"
+    }
+  },
+  {
+    "text": "我點樣可以攞到cake？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "cake"
+    }
+  },
+  {
+    "text": "伞喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "伞"
+    }
+  },
+  {
+    "text": "西兰花附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "西兰花"
+    }
+  },
+  {
+    "text": "西蘭花附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "西蘭花"
+    }
+  },
+  {
+    "text": "请问有冇冰淇淋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "冰淇淋"
+    }
+  },
+  {
+    "text": "可以确认下有冇咖啡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "我哋有冇買蜜汁叉燒？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蜜汁叉燒"
+    }
+  },
+  {
+    "text": "vase附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "vase"
+    }
+  },
+  {
+    "text": "胡萝卜喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "胡萝卜"
+    }
+  },
+  {
+    "text": "鐘喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鐘"
+    }
+  },
+  {
+    "text": "我今次購物一共要花幾多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "厕所喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "厕所"
+    }
+  },
+  {
+    "text": "梅菜扣肉係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "床喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "床"
+    }
+  },
+  {
+    "text": "盆栽喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "盆栽"
+    }
+  },
+  {
+    "text": "我今次购物总共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "toilet附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "toilet"
+    }
+  },
+  {
+    "text": "泰迪熊喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "泰迪熊"
+    }
+  },
+  {
+    "text": "我點樣可以攞到长椅？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "长椅"
+    }
+  },
+  {
+    "text": "请检查下酱油有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "酱油"
+    }
+  },
+  {
+    "text": "可以确认下有冇腊味煲仔饭？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "埋單要幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "腊味煲仔饭嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "手提包喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提包"
+    }
+  },
+  {
+    "text": "我们点咗牙膏未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "我點樣可以攞到蘿蔔？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蘿蔔"
+    }
+  },
+  {
+    "text": "我點樣可以攞到umbrella？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "umbrella"
+    }
+  },
+  {
+    "text": "我點樣可以攞到叉子？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "叉子"
+    }
+  },
+  {
+    "text": "sandwich附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "sandwich"
+    }
+  },
+  {
+    "text": "今次购物花了几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "可以查下白切鸡嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "廁紙嘅價錢係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "廁紙"
+    }
+  },
+  {
+    "text": "咖啡有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "橙子喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "橙子"
+    }
+  },
+  {
+    "text": "刀附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "刀"
+    }
+  },
+  {
+    "text": "tv喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "tv"
+    }
+  },
+  {
+    "text": "我點樣可以攞到sports ball？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sports ball"
+    }
+  },
+  {
+    "text": "可以确认下有冇冰淇淋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "冰淇淋"
+    }
+  },
+  {
+    "text": "我今次购物一共用了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "apple喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "apple"
+    }
+  },
+  {
+    "text": "今次购物埋单花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "白切鸡的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "键盘喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "键盘"
+    }
+  },
+  {
+    "text": "水槽喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "水槽"
+    }
+  },
+  {
+    "text": "我们点咗饼干未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "饼干"
+    }
+  },
+  {
+    "text": "可以查下有冇饼干？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "饼干"
+    }
+  },
+  {
+    "text": "盆栽附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "盆栽"
+    }
+  },
+  {
+    "text": "有冇白切雞？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "白切雞"
+    }
+  },
+  {
+    "text": "长椅附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "长椅"
+    }
+  },
+  {
+    "text": "罐头嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "可以查下有冇腊味煲仔飯？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔飯"
+    }
+  },
+  {
+    "text": "係咪有糯米飯？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糯米飯"
+    }
+  },
+  {
+    "text": "teddy bear喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "teddy bear"
+    }
+  },
+  {
+    "text": "请问咖啡係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "我點樣可以攞到suitcase？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "suitcase"
+    }
+  },
+  {
+    "text": "你可以话我知腊味煲仔饭几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "請檢查下有冇蜂蜜檸檬？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蜂蜜檸檬"
+    }
+  },
+  {
+    "text": "我今次购物总共花咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "热狗喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "热狗"
+    }
+  },
+  {
+    "text": "水槽喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "水槽"
+    }
+  },
+  {
+    "text": "烧鹅要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "咖啡要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "这次购物总共用了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我哋有冇买大米？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "大米"
+    }
+  },
+  {
+    "text": "呢次购物一共要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到oven？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "oven"
+    }
+  },
+  {
+    "text": "沙发附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "沙发"
+    }
+  },
+  {
+    "text": "埋单我付几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "杯子喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "杯子"
+    }
+  },
+  {
+    "text": "你可以话我知龙虾球几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "book喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "book"
+    }
+  },
+  {
+    "text": "我今次购物总共俾几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "钟附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "钟"
+    }
+  },
+  {
+    "text": "油盐酱醋嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "油盐酱醋"
+    }
+  },
+  {
+    "text": "刀喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "刀"
+    }
+  },
+  {
+    "text": "有冇酱油？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "酱油"
+    }
+  },
+  {
+    "text": "可以確認下檸檬茶有冇喺單上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "檸檬茶"
+    }
+  },
+  {
+    "text": "laptop附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "laptop"
+    }
+  },
+  {
+    "text": "泰迪熊喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "泰迪熊"
+    }
+  },
+  {
+    "text": "呢次购物总共要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "可以确认下有冇凤爪？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "冰箱喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "冰箱"
+    }
+  },
+  {
+    "text": "我點樣可以攞到scissors？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "scissors"
+    }
+  },
+  {
+    "text": "bowl喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bowl"
+    }
+  },
+  {
+    "text": "笔记本电脑喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "笔记本电脑"
+    }
+  },
+  {
+    "text": "我哋有冇买凤爪？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "我點樣可以攞到樽？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "樽"
+    }
+  },
+  {
+    "text": "蛋糕附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "蛋糕"
+    }
+  },
+  {
+    "text": "我哋有冇买面包？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "面包"
+    }
+  },
+  {
+    "text": "薯片的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "薯片"
+    }
+  },
+  {
+    "text": "牙刷喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "牙刷"
+    }
+  },
+  {
+    "text": "网球拍喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "网球拍"
+    }
+  },
+  {
+    "text": "请问有冇腊味煲仔饭？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "茶叶要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "茶叶"
+    }
+  },
+  {
+    "text": "我哋有冇買咖啡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "我點樣可以攞到网球拍？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "网球拍"
+    }
+  },
+  {
+    "text": "我们点咗腊味煲仔饭未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "薯片係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "薯片"
+    }
+  },
+  {
+    "text": "我點樣可以攞到水槽？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "水槽"
+    }
+  },
+  {
+    "text": "冰淇淋嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "冰淇淋"
+    }
+  },
+  {
+    "text": "领带附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "领带"
+    }
+  },
+  {
+    "text": "toilet喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toilet"
+    }
+  },
+  {
+    "text": "饼干要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "饼干"
+    }
+  },
+  {
+    "text": "potted plant喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "potted plant"
+    }
+  },
+  {
+    "text": "oven附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "oven"
+    }
+  },
+  {
+    "text": "厕所附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "厕所"
+    }
+  },
+  {
+    "text": "我點樣可以攞到remote？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "remote"
+    }
+  },
+  {
+    "text": "我今次埋单一共用了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "hot dog附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "hot dog"
+    }
+  },
+  {
+    "text": "床喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "床"
+    }
+  },
+  {
+    "text": "cake喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "cake"
+    }
+  },
+  {
+    "text": "carrot喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "carrot"
+    }
+  },
+  {
+    "text": "有冇矿泉水？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "矿泉水"
+    }
+  },
+  {
+    "text": "我點樣可以攞到broccoli？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "broccoli"
+    }
+  },
+  {
+    "text": "手袋附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "手袋"
+    }
+  },
+  {
+    "text": "总共要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "係咪有白切鸡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "scissors附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "scissors"
+    }
+  },
+  {
+    "text": "我點樣可以攞到西兰花？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "西兰花"
+    }
+  },
+  {
+    "text": "烧鹅嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "烧鹅係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "請問白切雞係幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "白切雞"
+    }
+  },
+  {
+    "text": "伞喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "伞"
+    }
+  },
+  {
+    "text": "可以查下有冇黑椒牛柳？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "冰箱附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "冰箱"
+    }
+  },
+  {
+    "text": "donut附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "donut"
+    }
+  },
+  {
+    "text": "泰迪熊附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "泰迪熊"
+    }
+  },
+  {
+    "text": "腊味煲仔饭有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "网球拍附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "网球拍"
+    }
+  },
+  {
+    "text": "領呔喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "領呔"
+    }
+  },
+  {
+    "text": "有冇烧鹅？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "書附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "書"
+    }
+  },
+  {
+    "text": "我點樣可以攞到鐘？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鐘"
+    }
+  },
+  {
+    "text": "我點樣可以攞到牙刷？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "牙刷"
+    }
+  },
+  {
+    "text": "电视喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "电视"
+    }
+  },
+  {
+    "text": "请检查下罐头有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "醬油買到未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "醬油"
+    }
+  },
+  {
+    "text": "可以查下有冇芝士蛋糕？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "芝士蛋糕"
+    }
+  },
+  {
+    "text": "虾饺有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "sandwich喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sandwich"
+    }
+  },
+  {
+    "text": "今次购物总共要几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "糖醋排骨卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "风筝喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "风筝"
+    }
+  },
+  {
+    "text": "apple喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "apple"
+    }
+  },
+  {
+    "text": "我點樣可以攞到spoon？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "spoon"
+    }
+  },
+  {
+    "text": "我點樣可以攞到handbag？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "handbag"
+    }
+  },
+  {
+    "text": "我今次要付幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "suitcase附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "suitcase"
+    }
+  },
+  {
+    "text": "蜜汁叉烧的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "我们点咗茶叶未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "茶叶"
+    }
+  },
+  {
+    "text": "這次購物應該支付幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "係咪有洗发水？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "洗发水"
+    }
+  },
+  {
+    "text": "矿泉水嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "矿泉水"
+    }
+  },
+  {
+    "text": "油盐酱醋要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "油盐酱醋"
+    }
+  },
+  {
+    "text": "我點樣可以攞到fork？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "fork"
+    }
+  },
+  {
+    "text": "黑椒牛柳嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "書包附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "書包"
+    }
+  },
+  {
+    "text": "请问橙汁係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "我需要付幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到backpack？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "backpack"
+    }
+  },
+  {
+    "text": "请检查下糖醋排骨有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "bench喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bench"
+    }
+  },
+  {
+    "text": "有冇牙膏？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "可以确认下有冇糖醋排骨？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "矿泉水要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "矿泉水"
+    }
+  },
+  {
+    "text": "薄餅附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "薄餅"
+    }
+  },
+  {
+    "text": "大米嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "大米"
+    }
+  },
+  {
+    "text": "杯喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "杯"
+    }
+  },
+  {
+    "text": "腊味煲仔饭卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "梅菜扣肉有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "總共要幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "係咪有烧鹅？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "我今次购物总共花了几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "hair drier喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "hair drier"
+    }
+  },
+  {
+    "text": "三文治喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "三文治"
+    }
+  },
+  {
+    "text": "可以確認下有冇炒米粉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "炒米粉"
+    }
+  },
+  {
+    "text": "请问沐浴露係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "沐浴露"
+    }
+  },
+  {
+    "text": "油盐酱醋係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "油盐酱醋"
+    }
+  },
+  {
+    "text": "cup喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "cup"
+    }
+  },
+  {
+    "text": "我點樣可以攞到焗爐？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "焗爐"
+    }
+  },
+  {
+    "text": "有冇記錄到雞尾酒？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "雞尾酒"
+    }
+  },
+  {
+    "text": "scissors喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "scissors"
+    }
+  },
+  {
+    "text": "我今次购物埋单花了几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "吹风机喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "吹风机"
+    }
+  },
+  {
+    "text": "remote附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "remote"
+    }
+  },
+  {
+    "text": "我點樣可以攞到laptop？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "laptop"
+    }
+  },
+  {
+    "text": "我今次购物一共用几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "滑鼠附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "滑鼠"
+    }
+  },
+  {
+    "text": "refrigerator喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "refrigerator"
+    }
+  },
+  {
+    "text": "你知唔知糖醋排骨几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "手提電話附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "手提電話"
+    }
+  },
+  {
+    "text": "烤面包机附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "烤面包机"
+    }
+  },
+  {
+    "text": "泰迪熊喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "泰迪熊"
+    }
+  },
+  {
+    "text": "鼠标附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "鼠标"
+    }
+  },
+  {
+    "text": "我點樣可以攞到瓶子？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "瓶子"
+    }
+  },
+  {
+    "text": "酱油有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "酱油"
+    }
+  },
+  {
+    "text": "你可以話我知梅菜扣肉幾多錢嗎？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "可以查下有冇面包？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "面包"
+    }
+  },
+  {
+    "text": "oven喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "oven"
+    }
+  },
+  {
+    "text": "蘿蔔喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蘿蔔"
+    }
+  },
+  {
+    "text": "我點樣可以攞到microwave？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "microwave"
+    }
+  },
+  {
+    "text": "我點樣可以攞到長凳？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "長凳"
+    }
+  },
+  {
+    "text": "呢次购物我一共花咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到刀？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "刀"
+    }
+  },
+  {
+    "text": "風筒喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "風筒"
+    }
+  },
+  {
+    "text": "toothbrush喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toothbrush"
+    }
+  },
+  {
+    "text": "蛋糕喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蛋糕"
+    }
+  },
+  {
+    "text": "remote喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "remote"
+    }
+  },
+  {
+    "text": "甜甜圈喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "甜甜圈"
+    }
+  },
+  {
+    "text": "泰迪熊附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "泰迪熊"
+    }
+  },
+  {
+    "text": "甜甜圈附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "甜甜圈"
+    }
+  },
+  {
+    "text": "請檢查下有冇糯米雞？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糯米雞"
+    }
+  },
+  {
+    "text": "橙子附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "橙子"
+    }
+  },
+  {
+    "text": "網球拍附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "網球拍"
+    }
+  },
+  {
+    "text": "盆栽喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "盆栽"
+    }
+  },
+  {
+    "text": "遥控器附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "遥控器"
+    }
+  },
+  {
+    "text": "书喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "书"
+    }
+  },
+  {
+    "text": "香蕉喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "香蕉"
+    }
+  },
+  {
+    "text": "芥蘭係幾多錢一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "芥蘭"
+    }
+  },
+  {
+    "text": "我今次购物埋单花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "请检查下梅菜扣肉有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到bed？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bed"
+    }
+  },
+  {
+    "text": "总共消费咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "mouse喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "mouse"
+    }
+  },
+  {
+    "text": "knife喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "knife"
+    }
+  },
+  {
+    "text": "请问有冇梅菜扣肉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "三文治附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "三文治"
+    }
+  },
+  {
+    "text": "凤爪有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "鼠标喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鼠标"
+    }
+  },
+  {
+    "text": "呢次购物一共要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "背包喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "背包"
+    }
+  },
+  {
+    "text": "spoon喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "spoon"
+    }
+  },
+  {
+    "text": "我们点咗卷纸未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "卷纸"
+    }
+  },
+  {
+    "text": "bed喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bed"
+    }
+  },
+  {
+    "text": "係咪有腊味煲仔饭？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "蝦餃買到未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蝦餃"
+    }
+  },
+  {
+    "text": "杯附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "杯"
+    }
+  },
+  {
+    "text": "我们点咗橙汁未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "酒杯喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "酒杯"
+    }
+  },
+  {
+    "text": "我點樣可以攞到酒杯？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "酒杯"
+    }
+  },
+  {
+    "text": "vase喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "vase"
+    }
+  },
+  {
+    "text": "梅菜扣肉嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "遙控喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "遙控"
+    }
+  },
+  {
+    "text": "总共花咗几多钱呀？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "杯子喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "杯子"
+    }
+  },
+  {
+    "text": "这次购物总共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "可以确认下有冇米粉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "我今次购物埋单一共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到水槽？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "水槽"
+    }
+  },
+  {
+    "text": "可以確認下有冇糖不甩？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖不甩"
+    }
+  },
+  {
+    "text": "盆栽喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "盆栽"
+    }
+  },
+  {
+    "text": "我今次购物一共用咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "你可以话我知牙膏几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "cell phone喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "cell phone"
+    }
+  },
+  {
+    "text": "芒果布丁係幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "芒果布丁"
+    }
+  },
+  {
+    "text": "我哋有冇买梅菜扣肉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到比萨？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "比萨"
+    }
+  },
+  {
+    "text": "鸡蛋有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "鸡蛋"
+    }
+  },
+  {
+    "text": "我點樣可以攞到手提電腦？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提電腦"
+    }
+  },
+  {
+    "text": "我今次购物埋单总共用了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到碗？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "碗"
+    }
+  },
+  {
+    "text": "有冇椰汁糕？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "椰汁糕"
+    }
+  },
+  {
+    "text": "凤爪嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "碗喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "碗"
+    }
+  },
+  {
+    "text": "网球拍喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "网球拍"
+    }
+  },
+  {
+    "text": "焗爐喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "焗爐"
+    }
+  },
+  {
+    "text": "我們點咗燒賣未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "燒賣"
+    }
+  },
+  {
+    "text": "可以查下糖醋排骨嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "我點樣可以攞到盆栽？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "盆栽"
+    }
+  },
+  {
+    "text": "请检查下黑椒牛柳有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "請確認下有冇鹹魚雞粒炒飯？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "鹹魚雞粒炒飯"
+    }
+  },
+  {
+    "text": "potted plant喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "potted plant"
+    }
+  },
+  {
+    "text": "鍵盤喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鍵盤"
+    }
+  },
+  {
+    "text": "蘋果喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蘋果"
+    }
+  },
+  {
+    "text": "这次购物总共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "樽喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "樽"
+    }
+  },
+  {
+    "text": "我點樣可以攞到蘋果？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蘋果"
+    }
+  },
+  {
+    "text": "雨傘喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "雨傘"
+    }
+  },
+  {
+    "text": "我點樣可以攞到三明治？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "三明治"
+    }
+  },
+  {
+    "text": "请问有冇龙虾球？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "咖啡係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "碗附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "碗"
+    }
+  },
+  {
+    "text": "椅子附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "椅子"
+    }
+  },
+  {
+    "text": "fork喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "fork"
+    }
+  },
+  {
+    "text": "大米卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "大米"
+    }
+  },
+  {
+    "text": "有冇白切鸡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "我點樣可以攞到薄餅？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "薄餅"
+    }
+  },
+  {
+    "text": "我點樣可以攞到potted plant？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "potted plant"
+    }
+  },
+  {
+    "text": "请问有冇鸡蛋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "鸡蛋"
+    }
+  },
+  {
+    "text": "tennis racket喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "tennis racket"
+    }
+  },
+  {
+    "text": "橙附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "橙"
+    }
+  },
+  {
+    "text": "橙汁嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "請檢查下有冇涼茶？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "涼茶"
+    }
+  },
+  {
+    "text": "我哋有冇买白切鸡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "花瓶喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "花瓶"
+    }
+  },
+  {
+    "text": "你可以话我知罐头几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "可以查下有冇煎堆？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "煎堆"
+    }
+  },
+  {
+    "text": "書包喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "書包"
+    }
+  },
+  {
+    "text": "可以查下有冇凤爪？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "toilet喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toilet"
+    }
+  },
+  {
+    "text": "umbrella喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "umbrella"
+    }
+  },
+  {
+    "text": "我今次购物用咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "香蕉喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "香蕉"
+    }
+  },
+  {
+    "text": "我一共花咗幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "手机喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手机"
+    }
+  },
+  {
+    "text": "你可以话我知糖醋排骨几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "我點樣可以攞到剪刀？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "剪刀"
+    }
+  },
+  {
+    "text": "我埋单总共俾咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "carrot附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "carrot"
+    }
+  },
+  {
+    "text": "遥控器喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "遥控器"
+    }
+  },
+  {
+    "text": "矿泉水卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "矿泉水"
+    }
+  },
+  {
+    "text": "我今次购物一共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "長凳附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "長凳"
+    }
+  },
+  {
+    "text": "我俾埋单几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "可以查下薯片嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "薯片"
+    }
+  },
+  {
+    "text": "黑椒牛柳有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "toaster喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toaster"
+    }
+  },
+  {
+    "text": "umbrella附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "umbrella"
+    }
+  },
+  {
+    "text": "我哋有冇點糖醋排骨？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "这次购物总共花咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "床附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "床"
+    }
+  },
+  {
+    "text": "我點樣可以攞到clock？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "clock"
+    }
+  },
+  {
+    "text": "tie喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "tie"
+    }
+  },
+  {
+    "text": "咖啡嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "烤箱喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "烤箱"
+    }
+  },
+  {
+    "text": "可以查下蜜汁叉烧嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "牛奶有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "sink喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sink"
+    }
+  },
+  {
+    "text": "你可以话我知虾饺几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "椅子喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "椅子"
+    }
+  },
+  {
+    "text": "剪刀喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "剪刀"
+    }
+  },
+  {
+    "text": "我點樣可以攞到鍵盤？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鍵盤"
+    }
+  },
+  {
+    "text": "香蕉喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "香蕉"
+    }
+  },
+  {
+    "text": "书附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "书"
+    }
+  },
+  {
+    "text": "suitcase喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "suitcase"
+    }
+  },
+  {
+    "text": "我今次购物一共花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "電視喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "電視"
+    }
+  },
+  {
+    "text": "有冇記錄到檸檬撻？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "檸檬撻"
+    }
+  },
+  {
+    "text": "面包的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "面包"
+    }
+  },
+  {
+    "text": "牛奶卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "我应该花几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "埋单用咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "你可以话我知洗发水几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "洗发水"
+    }
+  },
+  {
+    "text": "pizza喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "pizza"
+    }
+  },
+  {
+    "text": "pizza喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "pizza"
+    }
+  },
+  {
+    "text": "我要付几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到手提包？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提包"
+    }
+  },
+  {
+    "text": "clock喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "clock"
+    }
+  },
+  {
+    "text": "keyboard喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "keyboard"
+    }
+  },
+  {
+    "text": "我俾咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "冰箱喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "冰箱"
+    }
+  },
+  {
+    "text": "刀附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "刀"
+    }
+  },
+  {
+    "text": "酒杯附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "酒杯"
+    }
+  },
+  {
+    "text": "我今次购物总共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "可以查下有冇腐乳雞？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腐乳雞"
+    }
+  },
+  {
+    "text": "可以查下有冇梅菜扣肉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "龙虾球嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "微波爐喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "微波爐"
+    }
+  },
+  {
+    "text": "白切鸡卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "手提電話喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提電話"
+    }
+  },
+  {
+    "text": "比萨喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "比萨"
+    }
+  },
+  {
+    "text": "橙喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "橙"
+    }
+  },
+  {
+    "text": "鐘喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鐘"
+    }
+  },
+  {
+    "text": "可以查下有冇蜜汁叉烧？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "花瓶附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "花瓶"
+    }
+  },
+  {
+    "text": "凤爪卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "三明治喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "三明治"
+    }
+  },
+  {
+    "text": "handbag附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "handbag"
+    }
+  },
+  {
+    "text": "有冇咖啡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "書喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "書"
+    }
+  },
+  {
+    "text": "牙刷附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "牙刷"
+    }
+  },
+  {
+    "text": "我點樣可以攞到bottle？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bottle"
+    }
+  },
+  {
+    "text": "係咪有糖醋排骨？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "背包附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "背包"
+    }
+  },
+  {
+    "text": "可以查下腊味煲仔饭嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "西兰花喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "西兰花"
+    }
+  },
+  {
+    "text": "苹果附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "苹果"
+    }
+  },
+  {
+    "text": "bed喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bed"
+    }
+  },
+  {
+    "text": "请检查下白切鸡有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "今次购物总共用几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "薯片要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "薯片"
+    }
+  },
+  {
+    "text": "我點樣可以攞到書包？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "書包"
+    }
+  },
+  {
+    "text": "行李箱附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "行李箱"
+    }
+  },
+  {
+    "text": "toothbrush附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "toothbrush"
+    }
+  },
+  {
+    "text": "勺子喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "勺子"
+    }
+  },
+  {
+    "text": "clock附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "clock"
+    }
+  },
+  {
+    "text": "苹果係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "苹果"
+    }
+  },
+  {
+    "text": "遙控附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "遙控"
+    }
+  },
+  {
+    "text": "book附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "book"
+    }
+  },
+  {
+    "text": "米粉嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "米粉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到carrot？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "carrot"
+    }
+  },
+  {
+    "text": "cake喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "cake"
+    }
+  },
+  {
+    "text": "请问黑椒牛柳係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "有冇凤爪？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "我點樣可以攞到香蕉？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "香蕉"
+    }
+  },
+  {
+    "text": "多士爐喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "多士爐"
+    }
+  },
+  {
+    "text": "请检查下茶叶有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "茶叶"
+    }
+  },
+  {
+    "text": "请问有冇虾饺？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "你知唔知蜜汁叉烧几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "请问苹果係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "苹果"
+    }
+  },
+  {
+    "text": "甜甜圈附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "甜甜圈"
+    }
+  },
+  {
+    "text": "豆腐花要幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "豆腐花"
+    }
+  },
+  {
+    "text": "apple附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "apple"
+    }
+  },
+  {
+    "text": "热狗附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "热狗"
+    }
+  },
+  {
+    "text": "我點樣可以攞到书？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "书"
+    }
+  },
+  {
+    "text": "黑椒牛柳的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "我點樣可以攞到網球拍？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "網球拍"
+    }
+  },
+  {
+    "text": "我點樣可以攞到笔记本电脑？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "笔记本电脑"
+    }
+  },
+  {
+    "text": "我點樣可以攞到键盘？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "键盘"
+    }
+  },
+  {
+    "text": "這次購物我應該俾幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "微波炉喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "微波炉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到kite？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "kite"
+    }
+  },
+  {
+    "text": "鍵盤喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鍵盤"
+    }
+  },
+  {
+    "text": "我點樣可以攞到鼠标？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鼠标"
+    }
+  },
+  {
+    "text": "龙虾球的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "我點樣可以攞到剪刀？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "剪刀"
+    }
+  },
+  {
+    "text": "蘿蔔附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "蘿蔔"
+    }
+  },
+  {
+    "text": "banana附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "banana"
+    }
+  },
+  {
+    "text": "我今次购物一共要付几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "fork喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "fork"
+    }
+  },
+  {
+    "text": "请问有冇咖啡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "我點樣可以攞到手机？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手机"
+    }
+  },
+  {
+    "text": "风筝附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "风筝"
+    }
+  },
+  {
+    "text": "我點樣可以攞到雪櫃？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "雪櫃"
+    }
+  },
+  {
+    "text": "香蕉喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "香蕉"
+    }
+  },
+  {
+    "text": "我今次购物埋单总共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我要付几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "bottle附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "bottle"
+    }
+  },
+  {
+    "text": "凤爪要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "苹果嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "苹果"
+    }
+  },
+  {
+    "text": "牙膏卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "刀喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "刀"
+    }
+  },
+  {
+    "text": "我们点咗糖醋排骨未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "有冇鸡蛋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "鸡蛋"
+    }
+  },
+  {
+    "text": "請問有冇豬扒包？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "豬扒包"
+    }
+  },
+  {
+    "text": "罐头的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "罐头"
+    }
+  },
+  {
+    "text": "可以确认下有冇烧鹅？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "钟喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "钟"
+    }
+  },
+  {
+    "text": "有冇椒鹽豆腐？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "椒鹽豆腐"
+    }
+  },
+  {
+    "text": "我點樣可以攞到苹果？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "苹果"
+    }
+  },
+  {
+    "text": "我今次购物总共要几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到椅？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "椅"
+    }
+  },
+  {
+    "text": "請問咖啡係幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "你可以话我知黑椒牛柳几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "hot dog喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "hot dog"
+    }
+  },
+  {
+    "text": "伞附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "伞"
+    }
+  },
+  {
+    "text": "你可以话我知鸡蛋几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "鸡蛋"
+    }
+  },
+  {
+    "text": "我今次埋单总共花几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "剪刀喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "剪刀"
+    }
+  },
+  {
+    "text": "酱油卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "酱油"
+    }
+  },
+  {
+    "text": "有冇記錄到水餃？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "水餃"
+    }
+  },
+  {
+    "text": "我點樣可以攞到床？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "床"
+    }
+  },
+  {
+    "text": "遙控喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "遙控"
+    }
+  },
+  {
+    "text": "我點樣可以攞到领带？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "领带"
+    }
+  },
+  {
+    "text": "碗喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "碗"
+    }
+  },
+  {
+    "text": "bottle喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "bottle"
+    }
+  },
+  {
+    "text": "笔记本电脑附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "笔记本电脑"
+    }
+  },
+  {
+    "text": "係咪有梅菜扣肉？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "鍵盤附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "鍵盤"
+    }
+  },
+  {
+    "text": "donut喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "donut"
+    }
+  },
+  {
+    "text": "我俾咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "hair drier喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "hair drier"
+    }
+  },
+  {
+    "text": "banana喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "banana"
+    }
+  },
+  {
+    "text": "wine glass附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "wine glass"
+    }
+  },
+  {
+    "text": "我點樣可以攞到熱狗？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "熱狗"
+    }
+  },
+  {
+    "text": "我點樣可以攞到三文治？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "三文治"
+    }
+  },
+  {
+    "text": "風箏附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "風箏"
+    }
+  },
+  {
+    "text": "請問有冇糖水？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "糖水"
+    }
+  },
+  {
+    "text": "黑椒牛柳係幾多錢一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "廁所附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "廁所"
+    }
+  },
+  {
+    "text": "我點樣可以攞到风筝？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "风筝"
+    }
+  },
+  {
+    "text": "你知唔知虾饺几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "洗发水的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "洗发水"
+    }
+  },
+  {
+    "text": "我们点咗牛奶未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "泰迪熊喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "泰迪熊"
+    }
+  },
+  {
+    "text": "我點樣可以攞到dining table？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "dining table"
+    }
+  },
+  {
+    "text": "请问龙虾球係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "我应该俾几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我今次购物一共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "potted plant附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "potted plant"
+    }
+  },
+  {
+    "text": "我點樣可以攞到钟？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "钟"
+    }
+  },
+  {
+    "text": "我哋有冇買酸辣湯？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "酸辣湯"
+    }
+  },
+  {
+    "text": "胡萝卜喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "胡萝卜"
+    }
+  },
+  {
+    "text": "我點樣可以攞到橙子？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "橙子"
+    }
+  },
+  {
+    "text": "黑椒牛柳卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "椅子喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "椅子"
+    }
+  },
+  {
+    "text": "虾饺要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "水槽附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "水槽"
+    }
+  },
+  {
+    "text": "埋单一共花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "風箏喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "風箏"
+    }
+  },
+  {
+    "text": "今次購物總共花咗幾多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我们点咗蜜汁叉烧未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "可以查下有冇沐浴露？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "沐浴露"
+    }
+  },
+  {
+    "text": "sink附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "sink"
+    }
+  },
+  {
+    "text": "碗附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "碗"
+    }
+  },
+  {
+    "text": "今次购物总共用几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到甜甜圈？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "甜甜圈"
+    }
+  },
+  {
+    "text": "可以查下面包嘅价钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "面包"
+    }
+  },
+  {
+    "text": "我哋點咗炒飯未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "炒飯"
+    }
+  },
+  {
+    "text": "你知唔知烧鹅几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "我點樣可以攞到运动球？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "运动球"
+    }
+  },
+  {
+    "text": "我哋有冇买龙虾球？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "orange附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "orange"
+    }
+  },
+  {
+    "text": "卷纸有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "卷纸"
+    }
+  },
+  {
+    "text": "雪櫃喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "雪櫃"
+    }
+  },
+  {
+    "text": "凤爪的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "凤爪"
+    }
+  },
+  {
+    "text": "苹果喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "苹果"
+    }
+  },
+  {
+    "text": "toothbrush喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toothbrush"
+    }
+  },
+  {
+    "text": "请检查下橙汁有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "我點樣可以攞到行李箱？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "行李箱"
+    }
+  },
+  {
+    "text": "手提包附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "手提包"
+    }
+  },
+  {
+    "text": "请问有冇白切鸡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "白切鸡"
+    }
+  },
+  {
+    "text": "沙发喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "沙发"
+    }
+  },
+  {
+    "text": "我點樣可以攞到飯枱？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "飯枱"
+    }
+  },
+  {
+    "text": "请问有冇橙汁？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "橙汁"
+    }
+  },
+  {
+    "text": "请问糖醋排骨係几多錢？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "糖醋排骨"
+    }
+  },
+  {
+    "text": "可以查下有冇醬油？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "醬油"
+    }
+  },
+  {
+    "text": "请检查下冰淇淋有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "冰淇淋"
+    }
+  },
+  {
+    "text": "我點樣可以攞到蛋糕？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蛋糕"
+    }
+  },
+  {
+    "text": "这次购物我一共花了几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "书喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "书"
+    }
+  },
+  {
+    "text": "我點樣可以攞到cell phone？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "cell phone"
+    }
+  },
+  {
+    "text": "有冇虾饺？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "匙喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "匙"
+    }
+  },
+  {
+    "text": "可以确认下有冇矿泉水？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "矿泉水"
+    }
+  },
+  {
+    "text": "風筒附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "風筒"
+    }
+  },
+  {
+    "text": "多士爐附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "多士爐"
+    }
+  },
+  {
+    "text": "鼠标喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "鼠标"
+    }
+  },
+  {
+    "text": "雪櫃喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "雪櫃"
+    }
+  },
+  {
+    "text": "couch喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "couch"
+    }
+  },
+  {
+    "text": "燒鵝嘅價錢係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "燒鵝"
+    }
+  },
+  {
+    "text": "埋单总共花咗几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "总共要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "床喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "床"
+    }
+  },
+  {
+    "text": "熱狗喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "熱狗"
+    }
+  },
+  {
+    "text": "牙膏嘅价钱係幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "牙膏"
+    }
+  },
+  {
+    "text": "可以确认下有冇卷纸？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "卷纸"
+    }
+  },
+  {
+    "text": "可以查下有冇魚片？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "魚片"
+    }
+  },
+  {
+    "text": "sports ball附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "sports ball"
+    }
+  },
+  {
+    "text": "花瓶喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "花瓶"
+    }
+  },
+  {
+    "text": "薄餅喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "薄餅"
+    }
+  },
+  {
+    "text": "西蘭花喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "西蘭花"
+    }
+  },
+  {
+    "text": "饼干有买到吗？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "饼干"
+    }
+  },
+  {
+    "text": "蛋糕喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "蛋糕"
+    }
+  },
+  {
+    "text": "我點樣可以攞到refrigerator？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "refrigerator"
+    }
+  },
+  {
+    "text": "埋单总共俾几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "書包喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "書包"
+    }
+  },
+  {
+    "text": "我點樣可以攞到toothbrush？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "toothbrush"
+    }
+  },
+  {
+    "text": "今次购物总共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我點樣可以攞到donut？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "donut"
+    }
+  },
+  {
+    "text": "可以确认下有冇龙虾球？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "龙虾球"
+    }
+  },
+  {
+    "text": "腊味煲仔饭的价格係咩？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "我點樣可以攞到banana？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "banana"
+    }
+  },
+  {
+    "text": "酒杯喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "酒杯"
+    }
+  },
+  {
+    "text": "我點樣可以攞到knife？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "knife"
+    }
+  },
+  {
+    "text": "電視喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "電視"
+    }
+  },
+  {
+    "text": "係咪有咖啡？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "咖啡"
+    }
+  },
+  {
+    "text": "床附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "床"
+    }
+  },
+  {
+    "text": "broccoli附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "broccoli"
+    }
+  },
+  {
+    "text": "酒杯喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "酒杯"
+    }
+  },
+  {
+    "text": "你知唔知綠茶幾多錢一杯？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "綠茶"
+    }
+  },
+  {
+    "text": "樽喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "樽"
+    }
+  },
+  {
+    "text": "我點樣可以攞到牙刷？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "牙刷"
+    }
+  },
+  {
+    "text": "書喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "書"
+    }
+  },
+  {
+    "text": "呢次購物需要付幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "煲仔飯係幾多錢一個？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "煲仔飯"
+    }
+  },
+  {
+    "text": "可以确认下有冇虾饺？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "我今次购物总共要花几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我哋有冇买腊味煲仔饭？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "腊味煲仔饭"
+    }
+  },
+  {
+    "text": "我點樣可以攞到wine glass？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "wine glass"
+    }
+  },
+  {
+    "text": "电视附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "电视"
+    }
+  },
+  {
+    "text": "黑椒牛柳係幾多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "背包喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "背包"
+    }
+  },
+  {
+    "text": "这次购物总共花了几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "可以查下有冇油盐酱醋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "油盐酱醋"
+    }
+  },
+  {
+    "text": "可以查下有冇魚香肉絲？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "魚香肉絲"
+    }
+  },
+  {
+    "text": "行李箱附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "行李箱"
+    }
+  },
+  {
+    "text": "係咪有牛奶？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "牛奶"
+    }
+  },
+  {
+    "text": "梅菜扣肉要几多钱？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "梅菜扣肉"
+    }
+  },
+  {
+    "text": "请检查下虾饺有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "虾饺"
+    }
+  },
+  {
+    "text": "你可以话我知蜜汁叉烧几多钱吗？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "蜜汁叉烧"
+    }
+  },
+  {
+    "text": "我一共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "我呢次购物一共花咗几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "sports ball喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "sports ball"
+    }
+  },
+  {
+    "text": "我點樣可以攞到couch？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "couch"
+    }
+  },
+  {
+    "text": "我點樣可以攞到沙发？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "沙发"
+    }
+  },
+  {
+    "text": "我今次购物总共要付几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "有冇蝦餃？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "蝦餃"
+    }
+  },
+  {
+    "text": "backpack附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "backpack"
+    }
+  },
+  {
+    "text": "三文治喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "三文治"
+    }
+  },
+  {
+    "text": "我今次购物埋单总共用几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "呢次购物总共俾几多钱？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "vase喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "vase"
+    }
+  },
+  {
+    "text": "波喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "波"
+    }
+  },
+  {
+    "text": "refrigerator喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "refrigerator"
+    }
+  },
+  {
+    "text": "backpack喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "backpack"
+    }
+  },
+  {
+    "text": "请问有冇油盐酱醋？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "油盐酱醋"
+    }
+  },
+  {
+    "text": "tv附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "tv"
+    }
+  },
+  {
+    "text": "请问有冇黑椒牛柳？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "烧鹅卖几多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "烧鹅"
+    }
+  },
+  {
+    "text": "我點樣可以攞到cup？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "cup"
+    }
+  },
+  {
+    "text": "有冇買到豆漿？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "豆漿"
+    }
+  },
+  {
+    "text": "我點樣可以攞到手提電話？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "手提電話"
+    }
+  },
+  {
+    "text": "我點樣可以攞到風筒？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "風筒"
+    }
+  },
+  {
+    "text": "甜甜圈喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "甜甜圈"
+    }
+  },
+  {
+    "text": "比萨附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "比萨"
+    }
+  },
+  {
+    "text": "运动球喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "运动球"
+    }
+  },
+  {
+    "text": "请检查下鸡蛋有没有在单上？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "鸡蛋"
+    }
+  },
+  {
+    "text": "匙附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "匙"
+    }
+  },
+  {
+    "text": "我點樣可以攞到滑鼠？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "滑鼠"
+    }
+  },
+  {
+    "text": "醋溜魚卖幾多？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "醋溜魚"
+    }
+  },
+  {
+    "text": "香蕉附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "香蕉"
+    }
+  },
+  {
+    "text": "我點樣可以攞到mouse？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "mouse"
+    }
+  },
+  {
+    "text": "係咪有酱油？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "酱油"
+    }
+  },
+  {
+    "text": "比萨喺邊？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "比萨"
+    }
+  },
+  {
+    "text": "我需要支付幾多錢？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "瓶子喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "瓶子"
+    }
+  },
+  {
+    "text": "microwave附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "microwave"
+    }
+  },
+  {
+    "text": "胡萝卜附近有冇其他物體？",
+    "domain": "object",
+    "intent": "ask_near",
+    "slots": {
+      "object": "胡萝卜"
+    }
+  },
+  {
+    "text": "我们点咗黑椒牛柳未？",
+    "domain": "receipt",
+    "intent": "ask_exist",
+    "slots": {
+      "item": "黑椒牛柳"
+    }
+  },
+  {
+    "text": "热狗喺我手嘅邊個方向？",
+    "domain": "object",
+    "intent": "find_position",
+    "slots": {
+      "object": "热狗"
+    }
+  },
+  {
+    "text": "这次购物一共花了几多？",
+    "domain": "receipt",
+    "intent": "ask_total_price",
+    "slots": {}
+  },
+  {
+    "text": "你知唔知凤爪几多钱一份？",
+    "domain": "receipt",
+    "intent": "ask_price",
+    "slots": {
+      "item": "凤爪"
+    }
+  }
+]

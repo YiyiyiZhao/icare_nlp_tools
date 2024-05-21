@@ -1,0 +1,7 @@
+[PAD]
+[UNK]
+[O]
+I_object
+B_object
+I_item
+B_item

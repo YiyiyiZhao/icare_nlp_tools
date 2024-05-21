@@ -25,6 +25,8 @@ for test_item in test_data:
 print(pred_list)
 print(gt_list)
 
+print(len(pred_list))
+
 import evaluate
 precision_metric = evaluate.load('precision')
 recall_metric = evaluate.load('recall')

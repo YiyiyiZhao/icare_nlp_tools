@@ -1,0 +1,3836 @@
+[
+  {
+    "obj_detect": [
+      {
+        "position": [
+          398,
+          486,
+          185,
+          96
+        ],
+        "text": "carrot"
+      },
+      {
+        "position": [
+          483,
+          421,
+          219,
+          107
+        ],
+        "text": "carrot"
+      },
+      {
+        "position": [
+          801,
+          300,
+          86,
+          164
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          227,
+          182,
+          99,
+          52
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          829,
+          606,
+          306,
+          222
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          610,
+          420,
+          1220,
+          589
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          665,
+          60,
+          232,
+          121
+        ],
+        "text": "tv"
+      }
+    ],
+    "description": "而家眼前嘅景象有2根蘿蔔, 1瓶樽, 1把椅, 1隻手, 1張飯枱, 1台電視.視線左上角嘅場景有1把椅。視線右上角嘅場景有1瓶樽，1台電視。視線左下角嘅場景有2根蘿蔔，1張飯枱。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1, \"position correctness\": 1, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          878,
+          359,
+          802,
+          704
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          125,
+          369,
+          251,
+          450
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          428,
+          152,
+          202,
+          278
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          900,
+          369,
+          357,
+          230
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          979,
+          233,
+          126,
+          46
+        ],
+        "text": "banana"
+      },
+      {
+        "position": [
+          280,
+          67,
+          138,
+          135
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有3把椅, 1張飯枱, 1台笔记本電腦, 1根香蕉.視線左上角嘅場景有2把椅。視線右上角嘅場景有1張飯枱，1根香蕉。視線左下角嘅場景有1把椅。視線右下角嘅場景有1台笔记本電腦。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          321,
+          352,
+          113,
+          192
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          958,
+          452,
+          134,
+          130
+        ],
+        "text": "banana"
+      },
+      {
+        "position": [
+          229,
+          569,
+          458,
+          287
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          853,
+          116,
+          138,
+          118
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          120,
+          349,
+          193,
+          266
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          853,
+          116,
+          136,
+          115
+        ],
+        "text": "bowl"
+      }
+    ],
+    "description": "而家眼前嘅景象有2瓶樽, 1根香蕉, 1台笔记本電腦, 1個杯, 1個碗.視線左上角嘅場景有2瓶樽。視線右上角嘅場景有1個杯，1個碗。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1根香蕉。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          232,
+          450,
+          465,
+          523
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          616,
+          225,
+          240,
+          140
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          874,
+          474,
+          805,
+          457
+        ],
+        "text": "bed"
+      }
+    ],
+    "description": "而家眼前嘅景象有2把椅, 1張床.視線左上角嘅場景有1把椅。視線左下角嘅場景有1把椅。視線右下角嘅場景有1張床。",
+    "scores": "{\"object correctness\": 0.67, \"position correctness\": 1, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          278,
+          522,
+          557,
+          380
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          1056,
+          572,
+          389,
+          289
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          724,
+          328,
+          48,
+          102
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1214,
+          212,
+          96,
+          62
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          876,
+          360,
+          794,
+          373
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          929,
+          172,
+          63,
+          31
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有3把椅, 1隻手, 1瓶樽, 1張飯枱.視線右上角嘅場景有1瓶樽，2把椅。視線左下角嘅場景有1隻手。視線右下角嘅場景有1把椅，1張飯枱。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          739,
+          169,
+          328,
+          326
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1088,
+          501,
+          381,
+          339
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1146,
+          305,
+          264,
+          172
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有3把椅.視線右上角嘅場景有2把椅。視線右下角嘅場景有1把椅。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          171,
+          123,
+          343,
+          242
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          942,
+          471,
+          177,
+          280
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          992,
+          171,
+          280,
+          198
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          806,
+          329,
+          78,
+          49
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          614,
+          453,
+          348,
+          435
+        ],
+        "text": "backpack"
+      },
+      {
+        "position": [
+          615,
+          452,
+          347,
+          434
+        ],
+        "text": "suitcase"
+      }
+    ],
+    "description": "而家眼前嘅景象有2台電視, 2把椅, 1個書包, 1個行李箱.視線左上角嘅場景有1台電視。視線右上角嘅場景有1台電視，1把椅。視線左下角嘅場景有1個書包，1個行李箱。視線右下角嘅場景有1把椅。",
+    "scores": "{\n  \"object correctness\": 0.5,\n  \"position correctness\": 1,\n  \"language\": 1\n}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          644,
+          368,
+          83,
+          170
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          461,
+          602,
+          288,
+          226
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          549,
+          249,
+          44,
+          30
+        ],
+        "text": "mouse"
+      },
+      {
+        "position": [
+          1068,
+          557,
+          423,
+          309
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          780,
+          398,
+          985,
+          538
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          589,
+          152,
+          122,
+          45
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          718,
+          108,
+          107,
+          102
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有3把椅, 1瓶樽, 1隻手, 1個滑鼠, 1張飯枱.視線左上角嘅場景有1個滑鼠，1把椅。視線右上角嘅場景有1把椅。視線左下角嘅場景有1隻手。視線右下角嘅場景有1瓶樽，1把椅，1張飯枱。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          675,
+          591,
+          472,
+          243
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          823,
+          289,
+          135,
+          274
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          309,
+          350,
+          111,
+          110
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          94,
+          163,
+          159,
+          53
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          418,
+          372,
+          117,
+          105
+        ],
+        "text": "orange"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1瓶樽, 1個蘋果, 1把椅, 1個橙.視線左上角嘅場景有1個蘋果，1把椅。視線右上角嘅場景有1瓶樽。視線左下角嘅場景有1個橙。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          663,
+          575,
+          137,
+          94
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1116,
+          662,
+          231,
+          95
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          799,
+          645,
+          940,
+          140
+        ],
+        "text": "dining table"
+      }
+    ],
+    "description": "而家眼前嘅景象有2把椅, 1張飯枱.視線右下角嘅場景有2把椅，1張飯枱。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          954,
+          547,
+          631,
+          335
+        ],
+        "text": "couch"
+      },
+      {
+        "position": [
+          231,
+          344,
+          462,
+          424
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有1張梳化, 1隻手.視線左上角嘅場景有1隻手。視線右下角嘅場景有1張梳化。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          473,
+          609,
+          216,
+          111
+        ],
+        "text": "carrot"
+      },
+      {
+        "position": [
+          283,
+          260,
+          93,
+          58
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          893,
+          348,
+          92,
+          184
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1066,
+          292,
+          204,
+          201
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          623,
+          516,
+          124,
+          123
+        ],
+        "text": "carrot"
+      },
+      {
+        "position": [
+          476,
+          45,
+          203,
+          88
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          637,
+          448,
+          1269,
+          531
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          519,
+          520,
+          156,
+          68
+        ],
+        "text": "carrot"
+      },
+      {
+        "position": [
+          702,
+          72,
+          220,
+          140
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          562,
+          516,
+          246,
+          126
+        ],
+        "text": "carrot"
+      }
+    ],
+    "description": "而家眼前嘅景象有4根蘿蔔, 2把椅, 2台電視, 1瓶樽, 1張飯枱.視線左上角嘅場景有1把椅，1台電視。視線右上角嘅場景有1瓶樽，1把椅，1台電視。視線左下角嘅場景有4根蘿蔔，1張飯枱。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          785,
+          382,
+          985,
+          642
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          849,
+          114,
+          76,
+          101
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          369,
+          572,
+          188,
+          280
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1081,
+          501,
+          397,
+          328
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          882,
+          326,
+          132,
+          53
+        ],
+        "text": "banana"
+      },
+      {
+        "position": [
+          508,
+          38,
+          110,
+          68
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          209,
+          203,
+          248,
+          322
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有4把椅, 1張飯枱, 1隻手, 1根香蕉.視線左上角嘅場景有2把椅。視線右上角嘅場景有1把椅，1根香蕉。視線左下角嘅場景有1把椅。視線右下角嘅場景有1張飯枱，1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          874,
+          62,
+          106,
+          75
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          807,
+          344,
+          267,
+          178
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          390,
+          636,
+          779,
+          153
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有1把椅, 1台笔记本電腦, 1隻手.視線右上角嘅場景有1把椅，1台笔记本電腦。視線左下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          925,
+          301,
+          85,
+          196
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          141,
+          441,
+          211,
+          188
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          987,
+          383,
+          84,
+          155
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          883,
+          245,
+          58,
+          182
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          985,
+          257,
+          61,
+          166
+        ],
+        "text": "bottle"
+      }
+    ],
+    "description": "而家眼前嘅景象有4瓶樽, 1個杯.視線右上角嘅場景有3瓶樽。視線左下角嘅場景有1個杯。視線右下角嘅場景有1瓶樽。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          788,
+          263,
+          87,
+          62
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          648,
+          479,
+          245,
+          134
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          624,
+          332,
+          48,
+          37
+        ],
+        "text": "cell phone"
+      },
+      {
+        "position": [
+          759,
+          644,
+          287,
+          142
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          904,
+          358,
+          40,
+          21
+        ],
+        "text": "mouse"
+      }
+    ],
+    "description": "而家眼前嘅景象有2把椅, 1台笔记本電腦, 1部電話, 1個滑鼠.視線左上角嘅場景有1部電話。視線右上角嘅場景有1把椅，1個滑鼠。視線右下角嘅場景有1台笔记本電腦，1把椅。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          193,
+          575,
+          107,
+          90
+        ],
+        "text": "mouse"
+      },
+      {
+        "position": [
+          939,
+          574,
+          675,
+          277
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          179,
+          275,
+          97,
+          70
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          642,
+          389,
+          59,
+          150
+        ],
+        "text": "remote"
+      },
+      {
+        "position": [
+          737,
+          408,
+          74,
+          141
+        ],
+        "text": "bottle"
+      }
+    ],
+    "description": "而家眼前嘅景象有1個滑鼠, 1隻手, 1把椅, 1個遙控, 1瓶樽.視線左上角嘅場景有1把椅。視線左下角嘅場景有1個滑鼠。視線右下角嘅場景有1隻手，1個遙控，1瓶樽。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          996,
+          350,
+          204,
+          254
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          222,
+          65,
+          430,
+          126
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          101,
+          535,
+          177,
+          269
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          72,
+          326,
+          145,
+          59
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          873,
+          221,
+          78,
+          49
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          697,
+          612,
+          537,
+          207
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          1012,
+          589,
+          210,
+          255
+        ],
+        "text": "handbag"
+      },
+      {
+        "position": [
+          1101,
+          89,
+          347,
+          167
+        ],
+        "text": "tv"
+      }
+    ],
+    "description": "而家眼前嘅景象有3把椅, 2台電視, 1個杯, 1隻手, 1個手袋.視線左上角嘅場景有1台電視，1把椅。視線右上角嘅場景有2把椅，1台電視。視線左下角嘅場景有1個杯。視線右下角嘅場景有1隻手，1個手袋。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          403,
+          427,
+          767,
+          568
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          144,
+          479,
+          288,
+          385
+        ],
+        "text": "laptop"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1台笔记本電腦.視線左下角嘅場景有1隻手，1台笔记本電腦。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          480,
+          158,
+          107,
+          107
+        ],
+        "text": "orange"
+      },
+      {
+        "position": [
+          445,
+          492,
+          883,
+          438
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          344,
+          198,
+          120,
+          100
+        ],
+        "text": "orange"
+      },
+      {
+        "position": [
+          957,
+          427,
+          169,
+          150
+        ],
+        "text": "mouse"
+      },
+      {
+        "position": [
+          152,
+          552,
+          304,
+          297
+        ],
+        "text": "cell phone"
+      }
+    ],
+    "description": "而家眼前嘅景象有2個橙, 1隻手, 1個滑鼠, 1部電話.視線左上角嘅場景有2個橙。視線左下角嘅場景有1隻手，1部電話。視線右下角嘅場景有1個滑鼠。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          780,
+          111,
+          184,
+          212
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1105,
+          473,
+          348,
+          445
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          48,
+          34,
+          95,
+          64
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          367,
+          250,
+          732,
+          426
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          694,
+          403,
+          583,
+          390
+        ],
+        "text": "umbrella"
+      }
+    ],
+    "description": "而家眼前嘅景象有3把椅, 1張飯枱, 1把雨傘.視線左上角嘅場景有1把椅，1張飯枱。視線右上角嘅場景有1把椅。視線右下角嘅場景有1把椅，1把雨傘。",
+    "scores": "{\"object correctness\": 0.6, \"position correctness\": 0.75, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          360,
+          550,
+          712,
+          314
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          641,
+          122,
+          78,
+          64
+        ],
+        "text": "remote"
+      },
+      {
+        "position": [
+          908,
+          61,
+          64,
+          103
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          752,
+          424,
+          327,
+          296
+        ],
+        "text": "laptop"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1個遙控, 1瓶樽, 1台笔记本電腦.視線右上角嘅場景有1個遙控，1瓶樽。視線左下角嘅場景有1隻手。視線右下角嘅場景有1台笔记本電腦。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          590,
+          312,
+          59,
+          46
+        ],
+        "text": "remote"
+      },
+      {
+        "position": [
+          631,
+          520,
+          330,
+          213
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          1010,
+          429,
+          109,
+          55
+        ],
+        "text": "remote"
+      },
+      {
+        "position": [
+          323,
+          629,
+          645,
+          167
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          757,
+          238,
+          94,
+          64
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          380,
+          199,
+          259,
+          260
+        ],
+        "text": "backpack"
+      },
+      {
+        "position": [
+          1010,
+          429,
+          106,
+          54
+        ],
+        "text": "cell phone"
+      },
+      {
+        "position": [
+          834,
+          264,
+          41,
+          85
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1081,
+          596,
+          303,
+          238
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有2個遙控, 2把椅, 1台笔记本電腦, 1隻手, 1個書包, 1部電話, 1瓶樽.視線左上角嘅場景有1個遙控，1個書包。視線右上角嘅場景有1把椅，1瓶樽。視線左下角嘅場景有1台笔记本電腦，1隻手。視線右下角嘅場景有1個遙控，1部電話，1把椅。",
+    "scores": "{\"object correctness\": 0.75, \"position correctness\": 0.75, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          391,
+          558,
+          626,
+          308
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          1047,
+          307,
+          462,
+          372
+        ],
+        "text": "sink"
+      },
+      {
+        "position": [
+          631,
+          325,
+          87,
+          101
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          742,
+          260,
+          74,
+          142
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          785,
+          203,
+          74,
+          178
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          658,
+          213,
+          91,
+          237
+        ],
+        "text": "bottle"
+      }
+    ],
+    "description": "而家眼前嘅景象有3瓶樽, 1台笔记本電腦, 1個水槽, 1個杯.視線左上角嘅場景有1個杯。視線右上角嘅場景有1個水槽，3瓶樽。視線左下角嘅場景有1台笔记本電腦。",
+    "scores": "{\"object correctness\": 0.8, \"position correctness\": 1, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          387,
+          467,
+          774,
+          479
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          498,
+          138,
+          386,
+          265
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          776,
+          310,
+          225,
+          110
+        ],
+        "text": "cell phone"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1台笔记本電腦, 1部電話.視線左上角嘅場景有1台笔记本電腦。視線右上角嘅場景有1部電話。視線左下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          997,
+          465,
+          561,
+          486
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          321,
+          62,
+          193,
+          122
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          764,
+          73,
+          195,
+          144
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有2把椅, 1隻手.視線左上角嘅場景有1把椅。視線右上角嘅場景有1把椅。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          192,
+          437,
+          383,
+          546
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1008,
+          503,
+          443,
+          415
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          943,
+          91,
+          163,
+          144
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          318,
+          271,
+          293,
+          356
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1168,
+          559,
+          221,
+          303
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          720,
+          238,
+          634,
+          350
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          607,
+          112,
+          70,
+          42
+        ],
+        "text": "remote"
+      }
+    ],
+    "description": "而家眼前嘅景象有4把椅, 1隻手, 1張飯枱, 1個遙控.視線左上角嘅場景有1把椅，1個遙控。視線右上角嘅場景有1把椅，1張飯枱。視線左下角嘅場景有1把椅。視線右下角嘅場景有1把椅，1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          311,
+          548,
+          615,
+          330
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          1065,
+          506,
+          262,
+          234
+        ],
+        "text": "pizza"
+      },
+      {
+        "position": [
+          247,
+          301,
+          141,
+          200
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          830,
+          60,
+          166,
+          120
+        ],
+        "text": "cup"
+      }
+    ],
+    "description": "而家眼前嘅景象有1台電視, 1片薄餅, 1瓶樽, 1個杯.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1個杯。視線左下角嘅場景有1台電視。視線右下角嘅場景有1片薄餅。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          962,
+          543,
+          632,
+          333
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手.視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          430,
+          466,
+          503,
+          427
+        ],
+        "text": "handbag"
+      }
+    ],
+    "description": "而家眼前嘅景象有1個手袋.視線左下角嘅場景有1個手袋。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          905,
+          334,
+          281,
+          318
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          391,
+          388,
+          781,
+          648
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          274,
+          116,
+          143,
+          89
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          231,
+          392,
+          76,
+          64
+        ],
+        "text": "orange"
+      },
+      {
+        "position": [
+          127,
+          413,
+          90,
+          66
+        ],
+        "text": "orange"
+      },
+      {
+        "position": [
+          691,
+          82,
+          96,
+          95
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          326,
+          79,
+          56,
+          70
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          424,
+          234,
+          213,
+          153
+        ],
+        "text": "cell phone"
+      }
+    ],
+    "description": "而家眼前嘅景象有4把椅, 2個橙, 1張飯枱, 1部電話.視線左上角嘅場景有2把椅，1部電話。視線右上角嘅場景有2把椅。視線左下角嘅場景有1張飯枱，2個橙。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1027,
+          512,
+          501,
+          393
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          846,
+          294,
+          256,
+          193
+        ],
+        "text": "banana"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1根香蕉.視線右上角嘅場景有1根香蕉。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 0.5, \"position correctness\": 1, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1023,
+          470,
+          186,
+          79
+        ],
+        "text": "carrot"
+      },
+      {
+        "position": [
+          1023,
+          197,
+          140,
+          252
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          362,
+          515,
+          624,
+          393
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          958,
+          119,
+          116,
+          226
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1102,
+          600,
+          188,
+          237
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          620,
+          294,
+          251,
+          260
+        ],
+        "text": "bowl"
+      },
+      {
+        "position": [
+          1007,
+          154,
+          74,
+          133
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1175,
+          124,
+          106,
+          180
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1208,
+          226,
+          141,
+          223
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1121,
+          383,
+          128,
+          124
+        ],
+        "text": "bottle"
+      }
+    ],
+    "description": "而家眼前嘅景象有6瓶樽, 1根蘿蔔, 1台笔记本電腦, 1隻手, 1個碗.視線左上角嘅場景有1個碗。視線右上角嘅場景有5瓶樽。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1根蘿蔔，1隻手，1瓶樽。",
+    "scores": "{\"object correctness\": 0.8, \"position correctness\": 1, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          891,
+          239,
+          136,
+          265
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1012,
+          165,
+          147,
+          259
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          836,
+          193,
+          71,
+          222
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          768,
+          131,
+          56,
+          215
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1045,
+          264,
+          96,
+          129
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          289,
+          546,
+          578,
+          329
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          1073,
+          648,
+          158,
+          141
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          291,
+          110,
+          282,
+          219
+        ],
+        "text": "bowl"
+      }
+    ],
+    "description": "而家眼前嘅景象有5瓶樽, 1台電視, 1隻手, 1個碗.視線左上角嘅場景有1個碗。視線右上角嘅場景有5瓶樽。視線左下角嘅場景有1台電視。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          693,
+          323,
+          141,
+          113
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          350,
+          571,
+          644,
+          280
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          1090,
+          568,
+          372,
+          290
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          865,
+          186,
+          94,
+          211
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          808,
+          256,
+          81,
+          165
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          714,
+          190,
+          113,
+          255
+        ],
+        "text": "bottle"
+      }
+    ],
+    "description": "而家眼前嘅景象有3瓶樽, 1個杯, 1台笔记本電腦, 1隻手.視線右上角嘅場景有1個杯，3瓶樽。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          500,
+          349,
+          242,
+          240
+        ],
+        "text": "bowl"
+      }
+    ],
+    "description": "而家眼前嘅景象有1個碗.視線左上角嘅場景有1個碗。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1195,
+          350,
+          167,
+          172
+        ],
+        "text": "broccoli"
+      },
+      {
+        "position": [
+          1116,
+          565,
+          326,
+          299
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          258,
+          518,
+          517,
+          385
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          354,
+          258,
+          168,
+          184
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          682,
+          395,
+          505,
+          490
+        ],
+        "text": "sink"
+      }
+    ],
+    "description": "而家眼前嘅景象有1棵西蘭花, 1隻手, 1台笔记本電腦, 1瓶樽, 1個水槽.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1棵西蘭花。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1隻手，1個水槽。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1199,
+          352,
+          159,
+          176
+        ],
+        "text": "broccoli"
+      },
+      {
+        "position": [
+          1090,
+          570,
+          376,
+          287
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          259,
+          519,
+          519,
+          381
+        ],
+        "text": "tv"
+      }
+    ],
+    "description": "而家眼前嘅景象有1棵西蘭花, 1隻手, 1台電視.視線右上角嘅場景有1棵西蘭花。視線左下角嘅場景有1台電視。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          381,
+          245,
+          174,
+          189
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1217,
+          380,
+          124,
+          176
+        ],
+        "text": "broccoli"
+      },
+      {
+        "position": [
+          258,
+          504,
+          517,
+          374
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          1029,
+          632,
+          498,
+          162
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有1瓶樽, 1棵西蘭花, 1台笔记本電腦, 1隻手.視線左上角嘅場景有1瓶樽。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1棵西蘭花，1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1213,
+          371,
+          132,
+          178
+        ],
+        "text": "broccoli"
+      },
+      {
+        "position": [
+          262,
+          514,
+          524,
+          378
+        ],
+        "text": "laptop"
+      }
+    ],
+    "description": "而家眼前嘅景象有1棵西蘭花, 1台笔记本電腦.視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1棵西蘭花。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 0.75, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1134,
+          573,
+          290,
+          279
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          251,
+          275,
+          211,
+          188
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          231,
+          527,
+          463,
+          369
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          229,
+          528,
+          457,
+          368
+        ],
+        "text": "tv"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1瓶樽, 1台笔记本電腦, 1台電視.視線左上角嘅場景有1瓶樽。視線左下角嘅場景有1台笔记本電腦，1台電視。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1156,
+          571,
+          245,
+          287
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          643,
+          413,
+          519,
+          466
+        ],
+        "text": "sink"
+      },
+      {
+        "position": [
+          1165,
+          321,
+          208,
+          170
+        ],
+        "text": "broccoli"
+      },
+      {
+        "position": [
+          292,
+          263,
+          206,
+          188
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          247,
+          522,
+          494,
+          378
+        ],
+        "text": "tv"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1個水槽, 1棵西蘭花, 1瓶樽, 1台電視.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1棵西蘭花。視線左下角嘅場景有1台電視。視線右下角嘅場景有1隻手，1個水槽。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1140,
+          506,
+          277,
+          414
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          395,
+          101,
+          393,
+          199
+        ],
+        "text": "bowl"
+      },
+      {
+        "position": [
+          267,
+          358,
+          203,
+          171
+        ],
+        "text": "bottle"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1個碗, 1瓶樽.視線左上角嘅場景有1個碗，1瓶樽。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          235,
+          503,
+          469,
+          414
+        ],
+        "text": "sink"
+      },
+      {
+        "position": [
+          381,
+          77,
+          166,
+          116
+        ],
+        "text": "bowl"
+      },
+      {
+        "position": [
+          754,
+          476,
+          468,
+          469
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有1個水槽, 1個碗, 1隻手.視線左上角嘅場景有1個碗。視線左下角嘅場景有1個水槽。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          618,
+          253,
+          341,
+          243
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          379,
+          546,
+          744,
+          329
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          855,
+          417,
+          213,
+          116
+        ],
+        "text": "cell phone"
+      }
+    ],
+    "description": "而家眼前嘅景象有1台笔记本電腦, 1隻手, 1部電話.視線左上角嘅場景有1台笔记本電腦。視線左下角嘅場景有1隻手。視線右下角嘅場景有1部電話。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          439,
+          561,
+          584,
+          301
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          761,
+          330,
+          139,
+          111
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          790,
+          213,
+          95,
+          252
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1140,
+          620,
+          278,
+          192
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          938,
+          229,
+          84,
+          166
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          873,
+          277,
+          79,
+          155
+        ],
+        "text": "bottle"
+      }
+    ],
+    "description": "而家眼前嘅景象有3瓶樽, 1台笔记本電腦, 1個杯, 1隻手.視線右上角嘅場景有1個杯，3瓶樽。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          914,
+          460,
+          730,
+          493
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          465,
+          262,
+          356,
+          140
+        ],
+        "text": "fork"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1支叉.視線左上角嘅場景有1支叉。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          684,
+          637,
+          252,
+          155
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手.視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1170,
+          97,
+          219,
+          123
+        ],
+        "text": "cell phone"
+      },
+      {
+        "position": [
+          999,
+          86,
+          149,
+          76
+        ],
+        "text": "mouse"
+      }
+    ],
+    "description": "而家眼前嘅景象有1部電話, 1個滑鼠.視線右上角嘅場景有1部電話，1個滑鼠。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 0.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          243,
+          255,
+          132,
+          60
+        ],
+        "text": "mouse"
+      },
+      {
+        "position": [
+          644,
+          473,
+          304,
+          195
+        ],
+        "text": "remote"
+      },
+      {
+        "position": [
+          434,
+          61,
+          198,
+          86
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1103,
+          538,
+          351,
+          340
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          635,
+          366,
+          1270,
+          702
+        ],
+        "text": "dining table"
+      }
+    ],
+    "description": "而家眼前嘅景象有1個滑鼠, 1個遙控, 1把椅, 1隻手, 1張飯枱.視線左上角嘅場景有1個滑鼠，1把椅。視線左下角嘅場景有1張飯枱。視線右下角嘅場景有1個遙控，1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          280,
+          573,
+          561,
+          280
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          934,
+          62,
+          184,
+          122
+        ],
+        "text": "cup"
+      }
+    ],
+    "description": "而家眼前嘅景象有1台電視, 1個杯.視線右上角嘅場景有1個杯。視線左下角嘅場景有1台電視。",
+    "scores": "{\"object correctness\": 1, \"position correctness\": 0, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          398,
+          357,
+          104,
+          149
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          325,
+          555,
+          633,
+          315
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          867,
+          51,
+          157,
+          98
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          323,
+          555,
+          633,
+          316
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          1067,
+          349,
+          134,
+          117
+        ],
+        "text": "broccoli"
+      },
+      {
+        "position": [
+          697,
+          486,
+          484,
+          409
+        ],
+        "text": "sink"
+      }
+    ],
+    "description": "而家眼前嘅景象有1瓶樽, 1台笔记本電腦, 1個杯, 1台電視, 1棵西蘭花, 1個水槽.視線左上角嘅場景有1瓶樽。視線右上角嘅場景有1個杯，1棵西蘭花。視線左下角嘅場景有1台笔记本電腦，1台電視。視線右下角嘅場景有1個水槽。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 0.75, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          696,
+          412,
+          319,
+          237
+        ],
+        "text": "handbag"
+      }
+    ],
+    "description": "而家眼前嘅景象有1個手袋.視線右下角嘅場景有1個手袋。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1068,
+          517,
+          421,
+          390
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          232,
+          419,
+          458,
+          587
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          594,
+          325,
+          62,
+          43
+        ],
+        "text": "mouse"
+      },
+      {
+        "position": [
+          323,
+          342,
+          278,
+          435
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          742,
+          423,
+          859,
+          436
+        ],
+        "text": "dining table"
+      }
+    ],
+    "description": "而家眼前嘅景象有2把椅, 1隻手, 1個滑鼠, 1張飯枱.視線左上角嘅場景有1個滑鼠，1把椅。視線左下角嘅場景有1把椅。視線右下角嘅場景有1隻手，1張飯枱。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          643,
+          235,
+          209,
+          194
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          1062,
+          647,
+          273,
+          137
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          644,
+          487,
+          50,
+          115
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          360,
+          157,
+          377,
+          287
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          1049,
+          567,
+          179,
+          69
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          1195,
+          527,
+          167,
+          130
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          764,
+          563,
+          761,
+          296
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          1217,
+          315,
+          123,
+          142
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          1083,
+          443,
+          75,
+          46
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          30,
+          450,
+          59,
+          360
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          656,
+          397,
+          66,
+          54
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有5把椅, 4台電視, 1瓶樽, 1張飯枱.視線左上角嘅場景有1台電視。視線右上角嘅場景有2台電視。視線左下角嘅場景有1台電視。視線右下角嘅場景有5把椅，1瓶樽，1張飯枱。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 0.75}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1150,
+          581,
+          258,
+          267
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          198,
+          388,
+          152,
+          52
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          957,
+          186,
+          235,
+          172
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          162,
+          507,
+          94,
+          163
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1130,
+          399,
+          213,
+          131
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          278,
+          129,
+          309,
+          232
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          868,
+          385,
+          125,
+          163
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          576,
+          608,
+          445,
+          210
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          785,
+          309,
+          57,
+          36
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          862,
+          545,
+          120,
+          177
+        ],
+        "text": "handbag"
+      },
+      {
+        "position": [
+          357,
+          336,
+          83,
+          71
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          619,
+          341,
+          155,
+          176
+        ],
+        "text": "suitcase"
+      }
+    ],
+    "description": "而家眼前嘅景象有7把椅, 2台電視, 1瓶樽, 1個手袋, 1個行李箱.視線左上角嘅場景有1台電視，1把椅，1個行李箱。視線右上角嘅場景有1台電視，1把椅。視線左下角嘅場景有2把椅，1瓶樽。視線右下角嘅場景有3把椅，1個手袋。",
+    "scores": "{\"object correctness\": 0.9, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          429,
+          567,
+          579,
+          290
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          733,
+          345,
+          126,
+          108
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          758,
+          227,
+          95,
+          253
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          840,
+          289,
+          77,
+          146
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1133,
+          632,
+          292,
+          162
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有2瓶樽, 1台笔记本電腦, 1個杯, 1隻手.視線右上角嘅場景有1個杯，2瓶樽。視線左下角嘅場景有1台笔记本電腦。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          674,
+          290,
+          210,
+          74
+        ],
+        "text": "remote"
+      },
+      {
+        "position": [
+          303,
+          268,
+          171,
+          291
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          975,
+          533,
+          590,
+          355
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          451,
+          79,
+          164,
+          60
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          639,
+          377,
+          1255,
+          667
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          833,
+          261,
+          74,
+          46
+        ],
+        "text": "mouse"
+      }
+    ],
+    "description": "而家眼前嘅景象有1個遙控, 1瓶樽, 1隻手, 1把椅, 1張飯枱, 1個滑鼠.視線左上角嘅場景有1瓶樽，1把椅。視線右上角嘅場景有1個遙控，1個滑鼠。視線左下角嘅場景有1張飯枱。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          304,
+          452,
+          607,
+          519
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          931,
+          431,
+          696,
+          521
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          1108,
+          396,
+          340,
+          281
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          722,
+          183,
+          245,
+          174
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          783,
+          439,
+          86,
+          112
+        ],
+        "text": "cake"
+      }
+    ],
+    "description": "而家眼前嘅景象有2把椅, 1張飯枱, 1隻手, 1塊蛋糕.視線右上角嘅場景有1把椅。視線左下角嘅場景有1把椅。視線右下角嘅場景有1張飯枱，1隻手，1塊蛋糕。",
+    "scores": "{\"object correctness\": 0.6, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          966,
+          469,
+          624,
+          479
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          868,
+          189,
+          158,
+          64
+        ],
+        "text": "cell phone"
+      },
+      {
+        "position": [
+          498,
+          272,
+          336,
+          137
+        ],
+        "text": "spoon"
+      },
+      {
+        "position": [
+          750,
+          185,
+          98,
+          49
+        ],
+        "text": "mouse"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1部電話, 1把匙, 1個滑鼠.視線左上角嘅場景有1把匙。視線右上角嘅場景有1部電話，1個滑鼠。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          927,
+          480,
+          632,
+          452
+        ],
+        "text": "couch"
+      },
+      {
+        "position": [
+          1007,
+          579,
+          524,
+          270
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有1張梳化, 1把椅.視線右下角嘅場景有1張梳化，1把椅。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 0.5, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          114,
+          328,
+          168,
+          132
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          730,
+          395,
+          73,
+          142
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          253,
+          490,
+          86,
+          65
+        ],
+        "text": "mouse"
+      },
+      {
+        "position": [
+          1023,
+          613,
+          225,
+          200
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          689,
+          64,
+          226,
+          129
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          491,
+          432,
+          979,
+          548
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          258,
+          248,
+          83,
+          59
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          122,
+          417,
+          66,
+          49
+        ],
+        "text": "mouse"
+      },
+      {
+        "position": [
+          458,
+          430,
+          54,
+          58
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          958,
+          313,
+          238,
+          194
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有4把椅, 2個滑鼠, 1瓶樽, 1台電視, 1張飯枱, 1個蘋果.視線左上角嘅場景有2把椅。視線右上角嘅場景有1台電視，1把椅。視線左下角嘅場景有2個滑鼠，1張飯枱，1個蘋果。視線右下角嘅場景有1瓶樽，1把椅。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          450,
+          488,
+          728,
+          428
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手.視線左下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1144,
+          165,
+          114,
+          109
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          741,
+          125,
+          106,
+          59
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          920,
+          425,
+          716,
+          570
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          607,
+          624,
+          155,
+          186
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          557,
+          402,
+          113,
+          237
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          120,
+          563,
+          240,
+          295
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          334,
+          143,
+          160,
+          275
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          500,
+          295,
+          162,
+          260
+        ],
+        "text": "chair"
+      }
+    ],
+    "description": "而家眼前嘅景象有7把椅, 1張飯枱.視線左上角嘅場景有2把椅。視線右上角嘅場景有2把椅。視線左下角嘅場景有3把椅。視線右下角嘅場景有1張飯枱。",
+    "scores": "{\"object correctness\": 0.875, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          398,
+          535,
+          795,
+          358
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          923,
+          386,
+          711,
+          653
+        ],
+        "text": "dining table"
+      },
+      {
+        "position": [
+          1200,
+          79,
+          136,
+          140
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          756,
+          53,
+          116,
+          78
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          339,
+          120,
+          172,
+          234
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          520,
+          271,
+          181,
+          283
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          952,
+          487,
+          146,
+          165
+        ],
+        "text": "broccoli"
+      }
+    ],
+    "description": "而家眼前嘅景象有4把椅, 1隻手, 1張飯枱, 1棵西蘭花.視線左上角嘅場景有2把椅。視線右上角嘅場景有2把椅。視線左下角嘅場景有1隻手。視線右下角嘅場景有1張飯枱，1棵西蘭花。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          565,
+          324,
+          96,
+          247
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          228,
+          415,
+          258,
+          218
+        ],
+        "text": "bowl"
+      },
+      {
+        "position": [
+          1118,
+          508,
+          145,
+          131
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          437,
+          295,
+          164,
+          164
+        ],
+        "text": "bowl"
+      },
+      {
+        "position": [
+          650,
+          534,
+          96,
+          108
+        ],
+        "text": "orange"
+      },
+      {
+        "position": [
+          578,
+          206,
+          44,
+          112
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1111,
+          621,
+          334,
+          177
+        ],
+        "text": "tv"
+      }
+    ],
+    "description": "而家眼前嘅景象有2瓶樽, 2個碗, 1個杯, 1個橙, 1台電視.視線左上角嘅場景有2瓶樽，1個碗。視線左下角嘅場景有1個碗。視線右下角嘅場景有1個杯，1個橙，1台電視。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          557,
+          350,
+          106,
+          274
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1191,
+          568,
+          176,
+          163
+        ],
+        "text": "cup"
+      },
+      {
+        "position": [
+          166,
+          455,
+          312,
+          252
+        ],
+        "text": "bowl"
+      },
+      {
+        "position": [
+          624,
+          274,
+          57,
+          189
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          489,
+          246,
+          45,
+          138
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          407,
+          313,
+          181,
+          181
+        ],
+        "text": "bowl"
+      },
+      {
+        "position": [
+          672,
+          281,
+          81,
+          245
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          1192,
+          680,
+          173,
+          75
+        ],
+        "text": "cell phone"
+      }
+    ],
+    "description": "而家眼前嘅景象有4瓶樽, 2個碗, 1個杯, 1部電話.視線左上角嘅場景有3瓶樽，1個碗。視線右上角嘅場景有1瓶樽。視線左下角嘅場景有1個碗。視線右下角嘅場景有1個杯，1部電話。",
+    "scores": "{\"object correctness\": 0.875, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          426,
+          177,
+          175,
+          63
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          269,
+          324,
+          111,
+          47
+        ],
+        "text": "mouse"
+      },
+      {
+        "position": [
+          608,
+          462,
+          193,
+          102
+        ],
+        "text": "remote"
+      },
+      {
+        "position": [
+          786,
+          573,
+          330,
+          279
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          617,
+          111,
+          94,
+          80
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          871,
+          115,
+          90,
+          39
+        ],
+        "text": "chair"
+      },
+      {
+        "position": [
+          130,
+          486,
+          259,
+          365
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          631,
+          414,
+          1263,
+          595
+        ],
+        "text": "dining table"
+      }
+    ],
+    "description": "而家眼前嘅景象有3把椅, 1個滑鼠, 1個遙控, 1隻手, 1瓶樽, 1張飯枱.視線左上角嘅場景有2把椅，1個滑鼠。視線右上角嘅場景有1把椅。視線左下角嘅場景有1個遙控，1瓶樽，1張飯枱。視線右下角嘅場景有1隻手。",
+    "scores": "{\"object correctness\": 0.8571428571428571, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1046,
+          492,
+          466,
+          437
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          482,
+          394,
+          80,
+          87
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          419,
+          451,
+          87,
+          88
+        ],
+        "text": "apple"
+      }
+    ],
+    "description": "而家眼前嘅景象有2個蘋果, 1台笔记本電腦.視線左下角嘅場景有2個蘋果。視線右下角嘅場景有1台笔记本電腦。",
+    "scores": "{\"object correctness\": 0.5, \"position correctness\": 1, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1031,
+          494,
+          497,
+          438
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          376,
+          456,
+          94,
+          96
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          441,
+          395,
+          85,
+          91
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          342,
+          616,
+          181,
+          203
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有2個蘋果, 1台笔记本電腦, 1隻手.視線左下角嘅場景有2個蘋果，1隻手。視線右下角嘅場景有1台笔记本電腦。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          966,
+          360,
+          72,
+          72
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          896,
+          381,
+          73,
+          75
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          616,
+          606,
+          639,
+          219
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          725,
+          223,
+          207,
+          268
+        ],
+        "text": "toaster"
+      },
+      {
+        "position": [
+          315,
+          359,
+          627,
+          709
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有2個蘋果, 2隻手, 1台多士爐.視線左上角嘅場景有1隻手。視線右上角嘅場景有1台多士爐。視線左下角嘅場景有1隻手。視線右下角嘅場景有2個蘋果。",
+    "scores": "{\"object correctness\": 0.75, \"position correctness\": 0.75, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          189,
+          551,
+          374,
+          325
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          973,
+          477,
+          611,
+          465
+        ],
+        "text": "laptop"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1台笔记本電腦.視線左下角嘅場景有1隻手。視線右下角嘅場景有1台笔记本電腦。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          179,
+          565,
+          357,
+          294
+        ],
+        "text": "hand"
+      },
+      {
+        "position": [
+          993,
+          496,
+          572,
+          428
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          1033,
+          504,
+          493,
+          410
+        ],
+        "text": "tv"
+      }
+    ],
+    "description": "而家眼前嘅景象有1隻手, 1台笔记本電腦, 1台電視.視線左下角嘅場景有1隻手。視線右下角嘅場景有1台笔记本電腦，1台電視。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          682,
+          329,
+          68,
+          76
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          1101,
+          517,
+          356,
+          385
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          622,
+          364,
+          73,
+          77
+        ],
+        "text": "apple"
+      }
+    ],
+    "description": "而家眼前嘅景象有2個蘋果, 1台笔记本電腦.視線右上角嘅場景有1個蘋果。視線左下角嘅場景有1個蘋果。視線右下角嘅場景有1台笔记本電腦。",
+    "scores": "{\"object correctness\": 0.5, \"position correctness\": 1, \"language\": 1}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          939,
+          483,
+          676,
+          457
+        ],
+        "text": "laptop"
+      }
+    ],
+    "description": "而家眼前嘅景象有1台笔记本電腦.視線右下角嘅場景有1台笔记本電腦。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 0.5, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          1085,
+          503,
+          386,
+          417
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          636,
+          331,
+          68,
+          79
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          575,
+          370,
+          77,
+          83
+        ],
+        "text": "apple"
+      },
+      {
+        "position": [
+          1143,
+          622,
+          272,
+          178
+        ],
+        "text": "keyboard"
+      },
+      {
+        "position": [
+          477,
+          214,
+          191,
+          285
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          804,
+          217,
+          184,
+          223
+        ],
+        "text": "cup"
+      }
+    ],
+    "description": "而家眼前嘅景象有2個蘋果, 1台笔记本電腦, 1把鍵盤, 1瓶樽, 1個杯.視線左上角嘅場景有1個蘋果，1瓶樽。視線右上角嘅場景有1個杯。視線左下角嘅場景有1個蘋果。視線右下角嘅場景有1台笔记本電腦，1把鍵盤。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          310,
+          564,
+          619,
+          296
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          1102,
+          457,
+          318,
+          250
+        ],
+        "text": "pizza"
+      },
+      {
+        "position": [
+          335,
+          105,
+          394,
+          206
+        ],
+        "text": "bowl"
+      },
+      {
+        "position": [
+          184,
+          374,
+          206,
+          191
+        ],
+        "text": "bottle"
+      },
+      {
+        "position": [
+          978,
+          631,
+          236,
+          169
+        ],
+        "text": "hand"
+      }
+    ],
+    "description": "而家眼前嘅景象有1台笔记本電腦, 1片薄餅, 1個碗, 1瓶樽, 1隻手.視線左上角嘅場景有1個碗。視線左下角嘅場景有1台笔记本電腦，1瓶樽。視線右下角嘅場景有1片薄餅，1隻手。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  },
+  {
+    "obj_detect": [
+      {
+        "position": [
+          305,
+          567,
+          609,
+          292
+        ],
+        "text": "tv"
+      },
+      {
+        "position": [
+          1114,
+          440,
+          331,
+          264
+        ],
+        "text": "pizza"
+      },
+      {
+        "position": [
+          305,
+          566,
+          608,
+          289
+        ],
+        "text": "laptop"
+      },
+      {
+        "position": [
+          289,
+          106,
+          427,
+          207
+        ],
+        "text": "bowl"
+      }
+    ],
+    "description": "而家眼前嘅景象有1台電視, 1片薄餅, 1台笔记本電腦, 1個碗.視線左上角嘅場景有1個碗。視線左下角嘅場景有1台電視，1台笔记本電腦。視線右下角嘅場景有1片薄餅。",
+    "scores": "{\"object correctness\": 1.0, \"position correctness\": 1.0, \"language\": 1.0}"
+  }
+]

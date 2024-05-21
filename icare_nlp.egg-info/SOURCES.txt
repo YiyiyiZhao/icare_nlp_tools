@@ -134,6 +134,8 @@ icare_nlp/resources/__init__.py
 icare_nlp/resources/category_emb_tensor.pt
 icare_nlp/resources/category_tactile_description.json
 icare_nlp/resources/desc_words.json
+icare_nlp/resources/intent_labels.txt
 icare_nlp/resources/inv_yolo_obj_class_def.json
 icare_nlp/resources/rev_yolo_obj_class_def.json
+icare_nlp/resources/slot_labels.txt
 icare_nlp/resources/yolo_obj_class_def.json

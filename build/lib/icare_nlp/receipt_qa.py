@@ -1,7 +1,6 @@
-import requests
-import json
 import os
 import openai
+import random
 
 
 class ReceiptQA(object):
@@ -37,8 +36,17 @@ class ReceiptQA(object):
             'stop': None,
         }
 
+
     def form_response(self, ocr_text, user_query):
-        openai.api_key = os.environ.get("OPENAI_API_KEY")
+        keys = os.getenv("OPENAI_API_KEYS").split(',')
+        current_key = os.getenv("OPENAI_API_KEY")
+        if current_key in keys:
+            keys.remove(current_key)
+        if keys:
+            new_key = random.choice(keys)
+            openai.api_key = new_key
+        else:
+            openai.api_key = os.environ.get("OPENAI_API_KEY")
         response = openai.ChatCompletion.create(
             model=self.parameters['engine'],
             messages=[
