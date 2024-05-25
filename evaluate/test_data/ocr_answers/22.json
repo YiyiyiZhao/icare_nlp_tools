@@ -1,0 +1,44 @@
+[
+  {
+    "index": 22,
+    "question_type": "ask_exist",
+    "question": "請問有冇港式咖啡？",
+    "answer": "Answer: 有"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_exist",
+    "question": "Benefit Industrial Building有冇賣嘢？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_exist",
+    "question": "Benefit Industrial Building有冇雙拼出前一丁餐？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_price",
+    "question": "雙拼出前一丁餐要幾多錢？",
+    "answer": "answer: 嘅價錢可能係34.00."
+  },
+  {
+    "index": 22,
+    "question_type": "ask_price",
+    "question": "速港式咖啡價錢幾多？",
+    "answer": "answer: 嘅價錢可能係3.00."
+  },
+  {
+    "index": 22,
+    "question_type": "ask_price",
+    "question": "我要買Benefit Industrial Building嘅東西需要幾多錢？",
+    "answer": "answer: 咰個帳單入面似乎冇Benefit Industrial Building嘅產品。"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_total_price",
+    "question": "今次購物總共用幾多錢？",
+    "answer": "answer: 37.00"
+  }
+]

@@ -93,40 +93,39 @@ with open(markdown_file_path, 'w') as md_file:
             img_path = os.path.join(image_directory, filename)
             ocr_text, img_anno = ocr_detect(img_path)
             if img_anno is not None:
-                rc_desc_res = receipt_desc.form_response(ocr_text)
-                annotated_filename = f"annotated_{filename}"
-                annotated_img_path = os.path.join(annotated_image_directory, annotated_filename)
-                cv2.imwrite(annotated_img_path, img_anno)
+                # rc_desc_res = receipt_desc.form_response(ocr_text)
+                # annotated_filename = f"annotated_{filename}"
+                # annotated_img_path = os.path.join(annotated_image_directory, annotated_filename)
+                # cv2.imwrite(annotated_img_path, img_anno)
                 md_file.write(f"***********{filename}****************:\n {ocr_text}\n\n")
+                #
+                # receipt_desc_res=receipt_desc.form_response(ocr_text)
+                # receipt_desc_res_list.append({"filename":filename, "desc":receipt_desc_res})
+                #
+                # keys = os.getenv("OPENAI_API_KEYS").split(',')
+                # openai.api_key = keys[ii%5]
+                # response = openai.ChatCompletion.create(
+                #     model=parameters['engine'],
+                #     messages=[
+                #         {"role": "system", "content": system},
+                #         {"role": "user", "content": user.format(ocr_text, receipt_desc_res)}
+                #     ],
+                #     max_tokens=parameters['max_tokens'],
+                #     stop=parameters['stop'],
+                # )
+                # resp = f"{response['choices'][0]['message']['content']}"
+                # print(resp)
+                # time.sleep(15)
+                # scores.append({"ocr_text": ocr_text, "description": receipt_desc_res, "scores": resp.strip()})
 
-                receipt_desc_res=receipt_desc.form_response(ocr_text)
-                receipt_desc_res_list.append({"filename":filename, "desc":receipt_desc_res})
-
-                keys = os.getenv("OPENAI_API_KEYS").split(',')
-                current_key = os.getenv("OPENAI_API_KEY")
-                openai.api_key = keys[ii%6]
-                response = openai.ChatCompletion.create(
-                    model=parameters['engine'],
-                    messages=[
-                        {"role": "system", "content": system},
-                        {"role": "user", "content": user.format(ocr_text, receipt_desc_res)}
-                    ],
-                    max_tokens=parameters['max_tokens'],
-                    stop=parameters['stop'],
-                )
-                resp = f"{response['choices'][0]['message']['content']}"
-                print(resp)
-                time.sleep(15)
-                scores.append({"ocr_text": ocr_text, "description": receipt_desc_res, "scores": resp.strip()})
-
-filename = './test_data/can_receipts/scores.json'
-
-# 使用with语句打开文件，确保正确关闭文件
-with open(filename, 'w') as f:
-    # 将字典转换为JSON格式并写入文件
-    json.dump(scores, f, indent=2, ensure_ascii=False)
-
-with open("receipt_description.json", 'w', encoding="utf-8") as f:
-    # 将字典转换为JSON格式并写入文件
-    json.dump(receipt_desc_res_list, f, indent=2, ensure_ascii=False)
+# filename = 'test_data/can_receipts/scores.json'
+#
+# # 使用with语句打开文件，确保正确关闭文件
+# with open(filename, 'w') as f:
+#     # 将字典转换为JSON格式并写入文件
+#     json.dump(scores, f, indent=2, ensure_ascii=False)
+#
+# with open("receipt_description.json", 'w', encoding="utf-8") as f:
+#     # 将字典转换为JSON格式并写入文件
+#     json.dump(receipt_desc_res_list, f, indent=2, ensure_ascii=False)
 

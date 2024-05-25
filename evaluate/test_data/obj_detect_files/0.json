@@ -1,0 +1,65 @@
+[
+  {
+    "position": [
+      398,
+      486,
+      185,
+      96
+    ],
+    "text": "carrot"
+  },
+  {
+    "position": [
+      483,
+      421,
+      219,
+      107
+    ],
+    "text": "carrot"
+  },
+  {
+    "position": [
+      801,
+      300,
+      86,
+      164
+    ],
+    "text": "bottle"
+  },
+  {
+    "position": [
+      227,
+      182,
+      99,
+      52
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      829,
+      606,
+      306,
+      222
+    ],
+    "text": "hand"
+  },
+  {
+    "position": [
+      610,
+      420,
+      1220,
+      589
+    ],
+    "text": "dining table"
+  },
+  {
+    "position": [
+      665,
+      60,
+      232,
+      121
+    ],
+    "text": "tv"
+  }
+]

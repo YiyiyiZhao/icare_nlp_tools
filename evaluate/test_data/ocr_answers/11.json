@@ -1,0 +1,44 @@
+[
+  {
+    "index": 11,
+    "question_type": "ask_exist",
+    "question": "樓上有冇皇叉燒-中呢？",
+    "answer": "有"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_exist",
+    "question": "有冇湯菜苗皎-大賣？",
+    "answer": "有"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_exist",
+    "question": "呢度有冇茶可以飲？",
+    "answer": "Answer: 有"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_price",
+    "question": "皮蛋牛肉腸-特幾多錢？",
+    "answer": "The answer is: 嘅價錢可能係44.0."
+  },
+  {
+    "index": 11,
+    "question_type": "ask_price",
+    "question": "沙茶蒸鱼唇-特價格係幾多？",
+    "answer": "嘅價錢可能係44.0."
+  },
+  {
+    "index": 11,
+    "question_type": "ask_price",
+    "question": "杏汁撞蛋白要多少錢？",
+    "answer": "嘅價錢可能係114.0."
+  },
+  {
+    "index": 11,
+    "question_type": "ask_total_price",
+    "question": "我今次购物總共用了幾多錢？",
+    "answer": "answer: 490.00"
+  }
+]

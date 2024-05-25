@@ -1,0 +1,38 @@
+[
+  {
+    "index": 0,
+    "question_type": "ask_exist",
+    "question": "請問有冇司盛合?",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_exist",
+    "question": "菜單上有冇清物盛合?",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_exist",
+    "question": "有無豚肉野菜沙律?",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_price",
+    "question": "清物盛合幾錢?",
+    "answer": "Answer: 嘅價錢可能係488.0."
+  },
+  {
+    "index": 0,
+    "question_type": "ask_price",
+    "question": "冷冰見烏冬幾多錢?",
+    "answer": "answer: 嘅價錢可能係78.0."
+  },
+  {
+    "index": 0,
+    "question_type": "ask_total_price",
+    "question": "今次嘅總消費係幾多?",
+    "answer": "answer: 1034.0"
+  }
+]

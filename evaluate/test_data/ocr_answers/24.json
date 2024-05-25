@@ -1,0 +1,32 @@
+[
+  {
+    "index": 24,
+    "question_type": "ask_exist",
+    "question": "有無Tropical punch？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 24,
+    "question_type": "ask_exist",
+    "question": "係咪有Chilled Juice - Tomato？",
+    "answer": "有"
+  },
+  {
+    "index": 24,
+    "question_type": "ask_price",
+    "question": "Tropical punch幾錢？",
+    "answer": "嘅價錢可能係58.0."
+  },
+  {
+    "index": 24,
+    "question_type": "ask_price",
+    "question": "Chilled Juice - Tomato賣幾多錢？",
+    "answer": "嘅價錢可能係33.0."
+  },
+  {
+    "index": 24,
+    "question_type": "ask_total_price",
+    "question": "今次購物總共要幾多錢？",
+    "answer": "答案是: 729.3"
+  }
+]

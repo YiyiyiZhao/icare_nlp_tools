@@ -1,0 +1,44 @@
+[
+  {
+    "index": 10,
+    "question_type": "ask_exist",
+    "question": "請問有冇咖啡？",
+    "answer": "没有"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_exist",
+    "question": "係咪有唐心糯蛋？",
+    "answer": "有"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_exist",
+    "question": "嗰度賣紫薯金沙球唔？",
+    "answer": "输出: 有"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_price",
+    "question": "壹拐摩要幾多錢？",
+    "answer": "answer: 嘅價錢可能係78.00."
+  },
+  {
+    "index": 10,
+    "question_type": "ask_price",
+    "question": "咖非唐心糯蛋幾錢一份？",
+    "answer": "咖非唐心糯蛋嘅價錢可能係78.00."
+  },
+  {
+    "index": 10,
+    "question_type": "ask_price",
+    "question": "京果陳醋咕肉賣幾錢？",
+    "answer": "嘅價錢可能係168.00."
+  },
+  {
+    "index": 10,
+    "question_type": "ask_total_price",
+    "question": "今次購物一共花咗幾多錢？",
+    "answer": "總金额：$1,030.70"
+  }
+]

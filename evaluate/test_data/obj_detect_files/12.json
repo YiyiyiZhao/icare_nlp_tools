@@ -1,0 +1,56 @@
+[
+  {
+    "position": [
+      278,
+      522,
+      557,
+      380
+    ],
+    "text": "hand"
+  },
+  {
+    "position": [
+      1056,
+      572,
+      389,
+      289
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      724,
+      328,
+      48,
+      102
+    ],
+    "text": "bottle"
+  },
+  {
+    "position": [
+      1214,
+      212,
+      96,
+      62
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      876,
+      360,
+      794,
+      373
+    ],
+    "text": "dining table"
+  },
+  {
+    "position": [
+      929,
+      172,
+      63,
+      31
+    ],
+    "text": "chair"
+  }
+]

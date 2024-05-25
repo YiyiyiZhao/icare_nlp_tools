@@ -26,7 +26,7 @@ Given an OCR result like this: """
 suffix="""what questions might you ask? Please return 1-3 Cantonese questions for each category. The response format should be in JSON format, for example: [{"ask_exist": [q1, q2, q3], "ask_price":[q1, q2, q3], "ask_total_price": [q1]}]"""
 
 gen_questions=[]
-for ii in range(78):
+for ii in range(3,4):
     with open(os.path.join(ocr_detect_dir, f"{ii}.json"), "r", encoding="utf-8") as f:
         data=json.load(f)
     text=data["text"]

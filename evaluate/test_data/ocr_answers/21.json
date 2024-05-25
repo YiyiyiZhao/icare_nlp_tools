@@ -1,0 +1,44 @@
+[
+  {
+    "index": 21,
+    "question_type": "ask_exist",
+    "question": "一點心有冇名茶？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_exist",
+    "question": "一點心有冇餐包？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_exist",
+    "question": "一點心有冇蟹皇热？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_price",
+    "question": "一點心名茶幾錢？",
+    "answer": "嘅價錢可能係5.0."
+  },
+  {
+    "index": 21,
+    "question_type": "ask_price",
+    "question": "一點心蜜汁叉包幾錢？",
+    "answer": "answer: 嘅價錢可能係16.0."
+  },
+  {
+    "index": 21,
+    "question_type": "ask_price",
+    "question": "一點心北菇棉難幾錢？",
+    "answer": "answer: 嘅價錢可能係27.0."
+  },
+  {
+    "index": 21,
+    "question_type": "ask_total_price",
+    "question": "我買咗一點心嘅嘢一共要幾多錢？",
+    "answer": "answer: 183.00"
+  }
+]

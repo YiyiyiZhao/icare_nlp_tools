@@ -1,0 +1,44 @@
+[
+  {
+    "index": 20,
+    "question_type": "ask_exist",
+    "question": "有冇七夕素？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_exist",
+    "question": "有冇七味香葱牛肉鳥冬？",
+    "answer": "Answer: 有"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_exist",
+    "question": "有冇黑麻油濃厚猪骨拉麵？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_price",
+    "question": "七夕素要幾多錢？",
+    "answer": "answer: 嘅價錢可能係79.00."
+  },
+  {
+    "index": 20,
+    "question_type": "ask_price",
+    "question": "七味香葱牛肉鳥冬價錢係幾多？",
+    "answer": "嘅價錢可能係59.00."
+  },
+  {
+    "index": 20,
+    "question_type": "ask_price",
+    "question": "黑麻油濃厚猪骨拉麵售價多少？",
+    "answer": "answer: 嘅價錢可能係69.00."
+  },
+  {
+    "index": 20,
+    "question_type": "ask_total_price",
+    "question": "今次購物總共要幾多錢？",
+    "answer": "答案是: 454.30"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "index": 2,
+    "question_type": "ask_exist",
+    "question": "泰美味有冇海南飯？",
+    "answer": "output: 有"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_exist",
+    "question": "泰美味有無冬公汤粉？",
+    "answer": "有"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_exist",
+    "question": "泰美味賣唔賣牛腩飯？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_price",
+    "question": "海南飯喺泰美味幾多錢？",
+    "answer": "嘅價錢可能係58.0."
+  },
+  {
+    "index": 2,
+    "question_type": "ask_price",
+    "question": "冬公汤粉係泰美味幾多錢？",
+    "answer": "answer: 嘅價錢可能係55.0."
+  },
+  {
+    "index": 2,
+    "question_type": "ask_price",
+    "question": "泰美味嗰碟牛腩飯要幾多錢？",
+    "answer": "answer: 嘅價錢可能係$68.00."
+  },
+  {
+    "index": 2,
+    "question_type": "ask_total_price",
+    "question": "我係泰美味嗰次購物總共用幾多錢？",
+    "answer": "答案是: $194.0"
+  }
+]

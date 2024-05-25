@@ -1,0 +1,44 @@
+[
+  {
+    "index": 7,
+    "question_type": "ask_exist",
+    "question": "请问有冇芝士吞拿鱼焗薯皮？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_exist",
+    "question": "天水图天一商城有无香脆流心芝士條？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_exist",
+    "question": "想知道有没有經典汉堡配薯條？",
+    "answer": "有"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_price",
+    "question": "芝士吞拿鱼焗薯皮多少钱？",
+    "answer": "嘅價錢可能係38.00."
+  },
+  {
+    "index": 7,
+    "question_type": "ask_price",
+    "question": "香脆流心芝士條售价是多少？",
+    "answer": "answer: 嘅價錢可能係36.00."
+  },
+  {
+    "index": 7,
+    "question_type": "ask_price",
+    "question": "經典汉堡（配薯條）要几多钱？",
+    "answer": "嘅價錢可能係56.00."
+  },
+  {
+    "index": 7,
+    "question_type": "ask_total_price",
+    "question": "请问我今次购物一共用几多钱？",
+    "answer": "答案是：272.00"
+  }
+]

@@ -1,0 +1,1 @@
+"[\n    {\n        \"find_position\": [\n            \"laptop喺邊？\",\n            \"手喺邊？\",\n            \"瓶嘅位置係點？\"\n        ],\n        \"ask_near\": [\n            \"laptop附近有冇其他物體？\"\n        ]\n    }\n]"

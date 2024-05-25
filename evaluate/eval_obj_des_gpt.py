@@ -64,6 +64,9 @@ with open(markdown_file_path, 'w') as md_file:
 
             obj_detect=cv_utils.form_cv_json(results)
 
+            with open(os.path.join("./test_data/obj_detect_files/", filename.replace(".jpg", ".json")), "w") as f:
+                json.dump(obj_detect, f, ensure_ascii=False, indent=2)
+
             description=obj_desc.form_response(obj_detect)
             keys = os.getenv("OPENAI_API_KEYS").split(',')
             current_key = os.getenv("OPENAI_API_KEY")

@@ -1,0 +1,1017 @@
+[
+  {
+    "index": 0,
+    "question_type": "ask_exist",
+    "question": "請問有冇司盛合?",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_exist",
+    "question": "菜單上有冇清物盛合?",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_exist",
+    "question": "有無豚肉野菜沙律?",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_price",
+    "question": "清物盛合幾錢?",
+    "answer": "Answer: 嘅價錢可能係488.0.",
+    "score": "1"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_price",
+    "question": "冷冰見烏冬幾多錢?",
+    "answer": "answer: 嘅價錢可能係78.0.",
+    "score": "1"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_total_price",
+    "question": "今次嘅總消費係幾多?",
+    "answer": "answer: 1034.0",
+    "score": "1"
+  },
+  {
+    "index": 1,
+    "question_type": "ask_total_price",
+    "question": "這次購物在熱贴站心專門店一共花了多少錢？",
+    "answer": "answer: 104",
+    "score": "1"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_exist",
+    "question": "泰美味有冇海南飯？",
+    "answer": "output: 有",
+    "score": "1"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_exist",
+    "question": "泰美味有無冬公汤粉？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_exist",
+    "question": "泰美味賣唔賣牛腩飯？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_price",
+    "question": "海南飯喺泰美味幾多錢？",
+    "answer": "嘅價錢可能係58.0.",
+    "score": "1"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_price",
+    "question": "冬公汤粉係泰美味幾多錢？",
+    "answer": "answer: 嘅價錢可能係55.0.",
+    "score": "1"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_price",
+    "question": "泰美味嗰碟牛腩飯要幾多錢？",
+    "answer": "answer: 嘅價錢可能係$68.00.",
+    "score": "1"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_total_price",
+    "question": "我係泰美味嗰次購物總共用幾多錢？",
+    "answer": "答案是: $194.0",
+    "score": "1"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_exist",
+    "question": "有没有黄金皇?",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_exist",
+    "question": "有没有原双明燒皇?",
+    "answer": "回答: 有",
+    "score": "1"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_exist",
+    "question": "有没有蜜汁叉燒粉?",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_price",
+    "question": "黄金皇的价格是多少?",
+    "answer": "answer: 嘅價錢可能係38.00.",
+    "score": "1"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_price",
+    "question": "四寶滑扎的价格是多少?",
+    "answer": "answer: 嘅價錢可能係53.00.",
+    "score": "1"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_total_price",
+    "question": "这次购物一共花了多少钱?",
+    "answer": "答案是: 491.00",
+    "score": "1"
+  },
+  {
+    "index": 4,
+    "question_type": "ask_price",
+    "question": "仲夏宴的价格是多少？",
+    "answer": "answer: 嘅價錢可能係1688.00.",
+    "score": "1"
+  },
+  {
+    "index": 5,
+    "question_type": "ask_exist",
+    "question": "请问有谭仔三哥米线吗？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 5,
+    "question_type": "ask_total_price",
+    "question": "购买谭仔三哥米线一共需要几多钱？",
+    "answer": "answer: 嘅價錢可能係153.00.",
+    "score": "1"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_exist",
+    "question": "今晚有冇供應蟹柳配法多？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_exist",
+    "question": "有冇可供應的脆炸软殼蟹同牛果漢堡拼蕃？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_exist",
+    "question": "仲有冇馨條可以訂購？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_price",
+    "question": "蟹柳配法多係幾多錢？",
+    "answer": "answer: 嘅價錢可能係88.0.",
+    "score": "1"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_price",
+    "question": "软殼蟹同牛果漢堡拼蕃要幾多錢？",
+    "answer": "Soft-shell crab and beef pastrami burger combo is priced at 178.0.",
+    "score": "1"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_price",
+    "question": "馨條嘅價錢係幾多？",
+    "answer": "answer: 嘅價錢可能係158.0.",
+    "score": "1"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_total_price",
+    "question": "今次購物一共需要付幾多錢？",
+    "answer": "answer: 467.0",
+    "score": "1"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_exist",
+    "question": "请问有冇芝士吞拿鱼焗薯皮？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_exist",
+    "question": "天水图天一商城有无香脆流心芝士條？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_exist",
+    "question": "想知道有没有經典汉堡配薯條？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_price",
+    "question": "芝士吞拿鱼焗薯皮多少钱？",
+    "answer": "嘅價錢可能係38.00.",
+    "score": "1"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_price",
+    "question": "香脆流心芝士條售价是多少？",
+    "answer": "answer: 嘅價錢可能係36.00.",
+    "score": "1"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_price",
+    "question": "經典汉堡（配薯條）要几多钱？",
+    "answer": "嘅價錢可能係56.00.",
+    "score": "1"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_total_price",
+    "question": "请问我今次购物一共用几多钱？",
+    "answer": "答案是：272.00",
+    "score": "1"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_exist",
+    "question": "新蜜餐廰有冇Bortsch？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_exist",
+    "question": "新蜜餐廰有冇Veal Set？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_exist",
+    "question": "新蜜餐廰有冇Pork Chop？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_price",
+    "question": "Bortsch要幾多錢？",
+    "answer": "answer: 嘅價錢可能係52.00.",
+    "score": "1"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_price",
+    "question": "Veal Set幾錢？",
+    "answer": "answer: 嘅價錢可能係258.00.",
+    "score": "1"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_price",
+    "question": "Pork Chop價錢係幾多？",
+    "answer": "请问有冇Pork Chop？\n有\n\nPork Chop價錢可能係135.00.",
+    "score": "1"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_total_price",
+    "question": "我今次購買嘢一共要幾多錢？",
+    "answer": "answer: 490.00",
+    "score": "1"
+  },
+  {
+    "index": 9,
+    "question_type": "ask_exist",
+    "question": "呢度有冇椒羊魚？",
+    "answer": "Answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 9,
+    "question_type": "ask_price",
+    "question": "椒羊魚價錢幾多？",
+    "answer": "嘅價錢可能係216.00.",
+    "score": "1"
+  },
+  {
+    "index": 9,
+    "question_type": "ask_price",
+    "question": "老火例易每份多少錢？",
+    "answer": "answer: 嘅價錢可能係98.",
+    "score": "1"
+  },
+  {
+    "index": 9,
+    "question_type": "ask_total_price",
+    "question": "今次購物總共花費多少錢？",
+    "answer": "答案是: 1,438.",
+    "score": "1"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_exist",
+    "question": "請問有冇咖啡？",
+    "answer": "没有",
+    "score": "1"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_exist",
+    "question": "係咪有唐心糯蛋？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_exist",
+    "question": "嗰度賣紫薯金沙球唔？",
+    "answer": "输出: 有",
+    "score": "1"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_price",
+    "question": "咖非唐心糯蛋幾錢一份？",
+    "answer": "咖非唐心糯蛋嘅價錢可能係78.00.",
+    "score": "1"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_price",
+    "question": "京果陳醋咕肉賣幾錢？",
+    "answer": "嘅價錢可能係168.00.",
+    "score": "1"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_total_price",
+    "question": "今次購物一共花咗幾多錢？",
+    "answer": "總金额：$1,030.70",
+    "score": "1"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_exist",
+    "question": "樓上有冇皇叉燒-中呢？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_exist",
+    "question": "有冇湯菜苗皎-大賣？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_exist",
+    "question": "呢度有冇茶可以飲？",
+    "answer": "Answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_price",
+    "question": "皮蛋牛肉腸-特幾多錢？",
+    "answer": "The answer is: 嘅價錢可能係44.0.",
+    "score": "1"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_price",
+    "question": "沙茶蒸鱼唇-特價格係幾多？",
+    "answer": "嘅價錢可能係44.0.",
+    "score": "1"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_price",
+    "question": "杏汁撞蛋白要多少錢？",
+    "answer": "嘅價錢可能係114.0.",
+    "score": "1"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_total_price",
+    "question": "我今次购物總共用了幾多錢？",
+    "answer": "answer: 490.00",
+    "score": "1"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_exist",
+    "question": "有冇古琴红烧八寶鸭?",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_exist",
+    "question": "有冇精美四小拼?",
+    "answer": "答案是: 有",
+    "score": "1"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_exist",
+    "question": "有冇帶子赛螃蟹?",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_price",
+    "question": "古琴红烧八寶鸭要幾多錢?",
+    "answer": "answer: 嘅價錢可能係338.00.",
+    "score": "1"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_price",
+    "question": "精美四小拼幾多錢?",
+    "answer": "answer: 嘅價錢可能係0.00.",
+    "score": "1"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_price",
+    "question": "帶子赛螃蟹價錢係幾多?",
+    "answer": "answer: 嘅價錢可能係$138.00.",
+    "score": "1"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_total_price",
+    "question": "今次嘅點菜總數係幾多錢?",
+    "answer": "answer: 今次嘅點菜總數係$1,470.00。",
+    "score": "1"
+  },
+  {
+    "index": 13,
+    "question_type": "ask_exist",
+    "question": "这家餐厅有没有午市超值孖寶？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 13,
+    "question_type": "ask_exist",
+    "question": "他们有卖原鲜肠粉吗？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 13,
+    "question_type": "ask_exist",
+    "question": "这家店有没有头腩蒸饭？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 13,
+    "question_type": "ask_price",
+    "question": "午市超值孖寶（清湯腩/斑腩）要多少钱？",
+    "answer": "答案是: 嘅價錢可能係118.00.",
+    "score": "1"
+  },
+  {
+    "index": 13,
+    "question_type": "ask_price",
+    "question": "原鲜肠粉要多少钱一份？",
+    "answer": "输出: 嘅價錢可能係26.80.",
+    "score": "1"
+  },
+  {
+    "index": 13,
+    "question_type": "ask_total_price",
+    "question": "我今次购物一共用了多少钱？",
+    "answer": "答案是: 總金额$188.00",
+    "score": "1"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_exist",
+    "question": "呢度有冇午市10位餐？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_exist",
+    "question": "餐廳有冇金腿扒津白？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_exist",
+    "question": "係唔係有填*餐？",
+    "answer": "答案是：有",
+    "score": "1"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_price",
+    "question": "午市10位餐要幾多錢？",
+    "answer": "answer: 嘅價錢可能係1480.",
+    "score": "1"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_total_price",
+    "question": "我今次食嘢總共需支付幾多？",
+    "answer": "答案是: 嘅價錢可能係1480.00.",
+    "score": "1"
+  },
+  {
+    "index": 15,
+    "question_type": "ask_exist",
+    "question": "请问有冇名茶？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 15,
+    "question_type": "ask_exist",
+    "question": "鲜菜苗胶有冇得賣？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 15,
+    "question_type": "ask_price",
+    "question": "名茶一杯要幾多錢？",
+    "answer": "answer: 嘅價錢可能係5.0.",
+    "score": "1"
+  },
+  {
+    "index": 15,
+    "question_type": "ask_price",
+    "question": "香芒奶皇卷係幾錢？",
+    "answer": "answer: 嘅價錢可能係26.0.",
+    "score": "1"
+  },
+  {
+    "index": 15,
+    "question_type": "ask_total_price",
+    "question": "今次購物一共要幾多錢？",
+    "answer": "answer: 200.0",
+    "score": "0"
+  },
+  {
+    "index": 16,
+    "question_type": "ask_exist",
+    "question": "请问有京都肉排吗？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 16,
+    "question_type": "ask_exist",
+    "question": "有没有瓜章鱼唐排？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 16,
+    "question_type": "ask_price",
+    "question": "京都肉排要多少钱？",
+    "answer": "嘅價錢可能係58.0.",
+    "score": "1"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_exist",
+    "question": "請問有冇士多梨蛋糕脆脆梦旋風？",
+    "answer": "输出答案: 有",
+    "score": "1"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_exist",
+    "question": "這裡有Strawberry Cake Crunch McFlurry嗎？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_exist",
+    "question": "有冇漠堡？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_price",
+    "question": "士多梨蛋糕脆脆梦旋風要幾錢？",
+    "answer": "answer: 嘅價錢可能係10.00.",
+    "score": "1"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_price",
+    "question": "Strawberry Cake Crunch McFlurry幾多錢？",
+    "answer": "answer: 嘅價錢可能係10.00.",
+    "score": "1"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_price",
+    "question": "漠堡價錢係點？",
+    "answer": "漠堡的價錢可能係10.50.",
+    "score": "1"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_exist",
+    "question": "请问有木须肉炒蘭州炒麺吗？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_exist",
+    "question": "这里有招牌小龙包吗？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_exist",
+    "question": "请问有黄金仁炒饭吗？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_price",
+    "question": "木须肉炒蘭州炒麺要多少钱？",
+    "answer": "answer: 嘅價錢可能係126.00.",
+    "score": "0"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_price",
+    "question": "招牌小龙包（4件）的价钱是多少？",
+    "answer": "嘅價錢可能係126.00.",
+    "score": "1"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_price",
+    "question": "镇江肴肉的价格是多少？",
+    "answer": "answer: 嘅價錢可能係82.00.",
+    "score": "1"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_total_price",
+    "question": "这次购物一共要多少钱？",
+    "answer": "答案是: 543.40",
+    "score": "1"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_exist",
+    "question": "請問有冇Chuck Steak Set？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_exist",
+    "question": "百味閣餐廳有無蒜蓉包？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_exist",
+    "question": "喺百味閣餐廳可以食炒雜菜嗎？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_price",
+    "question": "Chuck Steak Set幾多錢？",
+    "answer": "嗰件嘢似乎唔喺單據入面。",
+    "score": "0"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_price",
+    "question": "蒜蓉包（六片）幾多錢一份？",
+    "answer": "answer: 嘅價錢可能係20.00.",
+    "score": "1"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_price",
+    "question": "炒雜菜價錢係幾多？",
+    "answer": "answer: 嘅價錢可能係48.00.",
+    "score": "1"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_total_price",
+    "question": "我今次買單一共要幾多錢？",
+    "answer": "272.00",
+    "score": "0"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_exist",
+    "question": "有冇七夕素？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_exist",
+    "question": "有冇七味香葱牛肉鳥冬？",
+    "answer": "Answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_exist",
+    "question": "有冇黑麻油濃厚猪骨拉麵？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_price",
+    "question": "七夕素要幾多錢？",
+    "answer": "answer: 嘅價錢可能係79.00.",
+    "score": "1"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_price",
+    "question": "七味香葱牛肉鳥冬價錢係幾多？",
+    "answer": "嘅價錢可能係59.00.",
+    "score": "1"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_price",
+    "question": "黑麻油濃厚猪骨拉麵售價多少？",
+    "answer": "answer: 嘅價錢可能係69.00.",
+    "score": "1"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_total_price",
+    "question": "今次購物總共要幾多錢？",
+    "answer": "答案是: 454.30",
+    "score": "1"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_exist",
+    "question": "一點心有冇名茶？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_exist",
+    "question": "一點心有冇餐包？",
+    "answer": "answer: 有",
+    "score": "0"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_exist",
+    "question": "一點心有冇蟹皇热？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_price",
+    "question": "一點心名茶幾錢？",
+    "answer": "嘅價錢可能係5.0.",
+    "score": "1"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_price",
+    "question": "一點心蜜汁叉包幾錢？",
+    "answer": "answer: 嘅價錢可能係16.0.",
+    "score": "1"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_price",
+    "question": "一點心北菇棉難幾錢？",
+    "answer": "answer: 嘅價錢可能係27.0.",
+    "score": "1"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_total_price",
+    "question": "我買咗一點心嘅嘢一共要幾多錢？",
+    "answer": "answer: 183.00",
+    "score": "1"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_exist",
+    "question": "請問有冇港式咖啡？",
+    "answer": "Answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_exist",
+    "question": "Benefit Industrial Building有冇雙拼出前一丁餐？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_price",
+    "question": "雙拼出前一丁餐要幾多錢？",
+    "answer": "answer: 嘅價錢可能係34.00.",
+    "score": "1"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_price",
+    "question": "速港式咖啡價錢幾多？",
+    "answer": "answer: 嘅價錢可能係3.00.",
+    "score": "1"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_total_price",
+    "question": "今次購物總共用幾多錢？",
+    "answer": "answer: 37.00",
+    "score": "1"
+  },
+  {
+    "index": 23,
+    "question_type": "ask_exist",
+    "question": "请问有玉桂乳鸽吗？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 23,
+    "question_type": "ask_exist",
+    "question": "有无红酒牛肋骨？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 23,
+    "question_type": "ask_exist",
+    "question": "他们有龙芥兰吗？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 23,
+    "question_type": "ask_price",
+    "question": "玉桂乳鸽多少钱？",
+    "answer": "玉桂乳鸽的价格可能是$39.0.",
+    "score": "1"
+  },
+  {
+    "index": 23,
+    "question_type": "ask_price",
+    "question": "红酒牛肋骨售价是多少？",
+    "answer": "answer: 嘅價錢可能係168.0.",
+    "score": "1"
+  },
+  {
+    "index": 23,
+    "question_type": "ask_price",
+    "question": "龙芥兰价格是？",
+    "answer": "answer: 嘅價錢可能係88.0.",
+    "score": "1"
+  },
+  {
+    "index": 23,
+    "question_type": "ask_total_price",
+    "question": "这次购物一共需要多少钱？",
+    "answer": "答案是: 521.0",
+    "score": "1"
+  },
+  {
+    "index": 24,
+    "question_type": "ask_exist",
+    "question": "有無Tropical punch？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 24,
+    "question_type": "ask_exist",
+    "question": "係咪有Chilled Juice - Tomato？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 24,
+    "question_type": "ask_price",
+    "question": "Tropical punch幾錢？",
+    "answer": "嘅價錢可能係58.0.",
+    "score": "1"
+  },
+  {
+    "index": 24,
+    "question_type": "ask_price",
+    "question": "Chilled Juice - Tomato賣幾多錢？",
+    "answer": "嘅價錢可能係33.0.",
+    "score": "1"
+  },
+  {
+    "index": 24,
+    "question_type": "ask_total_price",
+    "question": "今次購物總共要幾多錢？",
+    "answer": "答案是: 729.3",
+    "score": "1"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_exist",
+    "question": "單據內有無茶品？",
+    "answer": "answer: 有",
+    "score": "1"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_exist",
+    "question": "有冇魚一口鳯眼？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_exist",
+    "question": "油麻地分店賣唔賣金蒜海鲷魚仔蒸飯？",
+    "answer": "有",
+    "score": "1"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_price",
+    "question": "生滚鲍累片粥幾多錢？",
+    "answer": "生滚鲍累片粥的價錢可能係36.00.",
+    "score": "1"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_price",
+    "question": "脆皮罐萄糕唔鍾意幾錢？",
+    "answer": "嘅價錢可能係$19.00.",
+    "score": "1"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_price",
+    "question": "阿華田網紅沙皮狗要幾多錢？",
+    "answer": "answer: 嘅價錢可能係$30.00.",
+    "score": "1"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_total_price",
+    "question": "點菜總數係幾多錢？",
+    "answer": "答案: 嘅價錢可能係272.00.",
+    "score": "1"
+  }
+]

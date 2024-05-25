@@ -1,0 +1,44 @@
+[
+  {
+    "index": 25,
+    "question_type": "ask_exist",
+    "question": "單據內有無茶品？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_exist",
+    "question": "有冇魚一口鳯眼？",
+    "answer": "有"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_exist",
+    "question": "油麻地分店賣唔賣金蒜海鲷魚仔蒸飯？",
+    "answer": "有"
+  },
+  {
+    "index": 25,
+    "question_type": "ask_price",
+    "question": "生滚鲍累片粥幾多錢？",
+    "answer": "生滚鲍累片粥的價錢可能係36.00."
+  },
+  {
+    "index": 25,
+    "question_type": "ask_price",
+    "question": "脆皮罐萄糕唔鍾意幾錢？",
+    "answer": "嘅價錢可能係$19.00."
+  },
+  {
+    "index": 25,
+    "question_type": "ask_price",
+    "question": "阿華田網紅沙皮狗要幾多錢？",
+    "answer": "answer: 嘅價錢可能係$30.00."
+  },
+  {
+    "index": 25,
+    "question_type": "ask_total_price",
+    "question": "點菜總數係幾多錢？",
+    "answer": "答案: 嘅價錢可能係272.00."
+  }
+]

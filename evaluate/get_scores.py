@@ -1,6 +1,6 @@
 import json
 
-# with open("scores.json", "r") as f:
+# with open("scores_run1.json", "r") as f:
 #     data=json.load(f)
 #
 # obj_sc=[]
@@ -21,7 +21,7 @@ import json
 # print(sum(pos_sc)/len(pos_sc))
 # print(sum(lan_sc)/len(lan_sc))
 
-with open("./test_data/can_receipts/scores.json", "r") as f:
+with open("test_data/can_receipts/scores_run1.json", "r") as f:
     data=json.load(f)
 
 ocr_sc=[]

@@ -1,0 +1,32 @@
+[
+  {
+    "index": 16,
+    "question_type": "ask_exist",
+    "question": "请问有京都肉排吗？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 16,
+    "question_type": "ask_exist",
+    "question": "有没有瓜章鱼唐排？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 16,
+    "question_type": "ask_price",
+    "question": "京都肉排要多少钱？",
+    "answer": "嘅價錢可能係58.0."
+  },
+  {
+    "index": 16,
+    "question_type": "ask_price",
+    "question": "瓜章鱼唐排售价是多少？",
+    "answer": "answer: 嘅價錢可能係60.0."
+  },
+  {
+    "index": 16,
+    "question_type": "ask_total_price",
+    "question": "购买以上商品一共需要多少钱？",
+    "answer": "18.5"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "index": 4,
+    "question_type": "ask_exist",
+    "question": "鲤鸿天下有什么特色菜品？",
+    "answer": "answer: 咁喺「鲤鸿天下」度，特色菜品係「仲夏宴」，價錢係$1688.00。"
+  },
+  {
+    "index": 4,
+    "question_type": "ask_exist",
+    "question": "富临酒家有供应海鲜吗？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 4,
+    "question_type": "ask_exist",
+    "question": "这家餐厅有供应素食吗？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 4,
+    "question_type": "ask_price",
+    "question": "仲夏宴的价格是多少？",
+    "answer": "answer: 嘅價錢可能係1688.00."
+  },
+  {
+    "index": 4,
+    "question_type": "ask_price",
+    "question": "鲤鸿天下地下5号铺的招牌菜是什么价格？",
+    "answer": "answer: 嘅價錢可能係1688.00."
+  },
+  {
+    "index": 4,
+    "question_type": "ask_price",
+    "question": "單號28227的消费金额为多少？",
+    "answer": "answer: 嘅價錢可能係1688.00."
+  },
+  {
+    "index": 4,
+    "question_type": "ask_total_price",
+    "question": "07/07/2020这次购物的总数是多少？",
+    "answer": "answer: 1688.00"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "position": [
+      304,
+      452,
+      607,
+      519
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      931,
+      431,
+      696,
+      521
+    ],
+    "text": "dining table"
+  },
+  {
+    "position": [
+      1108,
+      396,
+      340,
+      281
+    ],
+    "text": "hand"
+  },
+  {
+    "position": [
+      722,
+      183,
+      245,
+      174
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      783,
+      439,
+      86,
+      112
+    ],
+    "text": "cake"
+  }
+]

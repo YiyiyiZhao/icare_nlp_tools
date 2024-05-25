@@ -1,0 +1,47 @@
+[
+  {
+    "position": [
+      243,
+      255,
+      132,
+      60
+    ],
+    "text": "mouse"
+  },
+  {
+    "position": [
+      644,
+      473,
+      304,
+      195
+    ],
+    "text": "remote"
+  },
+  {
+    "position": [
+      434,
+      61,
+      198,
+      86
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      1103,
+      538,
+      351,
+      340
+    ],
+    "text": "hand"
+  },
+  {
+    "position": [
+      635,
+      366,
+      1270,
+      702
+    ],
+    "text": "dining table"
+  }
+]

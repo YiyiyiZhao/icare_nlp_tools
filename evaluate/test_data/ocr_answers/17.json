@@ -1,0 +1,44 @@
+[
+  {
+    "index": 17,
+    "question_type": "ask_exist",
+    "question": "請問有冇士多梨蛋糕脆脆梦旋風？",
+    "answer": "输出答案: 有"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_exist",
+    "question": "這裡有Strawberry Cake Crunch McFlurry嗎？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_exist",
+    "question": "有冇漠堡？",
+    "answer": "有"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_price",
+    "question": "士多梨蛋糕脆脆梦旋風要幾錢？",
+    "answer": "answer: 嘅價錢可能係10.00."
+  },
+  {
+    "index": 17,
+    "question_type": "ask_price",
+    "question": "Strawberry Cake Crunch McFlurry幾多錢？",
+    "answer": "answer: 嘅價錢可能係10.00."
+  },
+  {
+    "index": 17,
+    "question_type": "ask_price",
+    "question": "漠堡價錢係點？",
+    "answer": "漠堡的價錢可能係10.50."
+  },
+  {
+    "index": 17,
+    "question_type": "ask_total_price",
+    "question": "我今次買嘢一共要幾多錢？",
+    "answer": "答案是：46.00"
+  }
+]

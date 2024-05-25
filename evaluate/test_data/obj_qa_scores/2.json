@@ -1,0 +1,9 @@
+[
+  {
+    "index": 2,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 banana,dining table,chair.banana喺chair嘅右下方.dining table喺chair嘅左下方.chair喺chair嘅左上方.. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。",
+    "score": "XG"
+  }
+]

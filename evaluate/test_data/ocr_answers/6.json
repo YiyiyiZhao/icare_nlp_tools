@@ -1,0 +1,44 @@
+[
+  {
+    "index": 6,
+    "question_type": "ask_exist",
+    "question": "今晚有冇供應蟹柳配法多？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_exist",
+    "question": "有冇可供應的脆炸软殼蟹同牛果漢堡拼蕃？",
+    "answer": "有"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_exist",
+    "question": "仲有冇馨條可以訂購？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_price",
+    "question": "蟹柳配法多係幾多錢？",
+    "answer": "answer: 嘅價錢可能係88.0."
+  },
+  {
+    "index": 6,
+    "question_type": "ask_price",
+    "question": "软殼蟹同牛果漢堡拼蕃要幾多錢？",
+    "answer": "Soft-shell crab and beef pastrami burger combo is priced at 178.0."
+  },
+  {
+    "index": 6,
+    "question_type": "ask_price",
+    "question": "馨條嘅價錢係幾多？",
+    "answer": "answer: 嘅價錢可能係158.0."
+  },
+  {
+    "index": 6,
+    "question_type": "ask_total_price",
+    "question": "今次購物一共需要付幾多錢？",
+    "answer": "answer: 467.0"
+  }
+]

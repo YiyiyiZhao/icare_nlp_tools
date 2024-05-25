@@ -1,0 +1,32 @@
+[
+  {
+    "index": 15,
+    "question_type": "ask_exist",
+    "question": "请问有冇名茶？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 15,
+    "question_type": "ask_exist",
+    "question": "鲜菜苗胶有冇得賣？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 15,
+    "question_type": "ask_price",
+    "question": "名茶一杯要幾多錢？",
+    "answer": "answer: 嘅價錢可能係5.0."
+  },
+  {
+    "index": 15,
+    "question_type": "ask_price",
+    "question": "香芒奶皇卷係幾錢？",
+    "answer": "answer: 嘅價錢可能係26.0."
+  },
+  {
+    "index": 15,
+    "question_type": "ask_total_price",
+    "question": "今次購物一共要幾多錢？",
+    "answer": "answer: 200.0"
+  }
+]

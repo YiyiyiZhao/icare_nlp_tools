@@ -1,0 +1,44 @@
+[
+  {
+    "index": 18,
+    "question_type": "ask_exist",
+    "question": "请问有木须肉炒蘭州炒麺吗？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_exist",
+    "question": "这里有招牌小龙包吗？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_exist",
+    "question": "请问有黄金仁炒饭吗？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 18,
+    "question_type": "ask_price",
+    "question": "木须肉炒蘭州炒麺要多少钱？",
+    "answer": "answer: 嘅價錢可能係126.00."
+  },
+  {
+    "index": 18,
+    "question_type": "ask_price",
+    "question": "招牌小龙包（4件）的价钱是多少？",
+    "answer": "嘅價錢可能係126.00."
+  },
+  {
+    "index": 18,
+    "question_type": "ask_price",
+    "question": "镇江肴肉的价格是多少？",
+    "answer": "answer: 嘅價錢可能係82.00."
+  },
+  {
+    "index": 18,
+    "question_type": "ask_total_price",
+    "question": "这次购物一共要多少钱？",
+    "answer": "答案是: 543.40"
+  }
+]

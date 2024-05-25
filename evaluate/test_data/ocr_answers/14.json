@@ -1,0 +1,44 @@
+[
+  {
+    "index": 14,
+    "question_type": "ask_exist",
+    "question": "呢度有冇午市10位餐？",
+    "answer": "有"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_exist",
+    "question": "餐廳有冇金腿扒津白？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_exist",
+    "question": "係唔係有填*餐？",
+    "answer": "答案是：有"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_price",
+    "question": "午市10位餐要幾多錢？",
+    "answer": "answer: 嘅價錢可能係1480."
+  },
+  {
+    "index": 14,
+    "question_type": "ask_price",
+    "question": "金腿扒津白幾多錢一份？",
+    "answer": "嘅價錢可能係1480.00."
+  },
+  {
+    "index": 14,
+    "question_type": "ask_price",
+    "question": "填*餐價錢係點？",
+    "answer": "嘅價錢可能係1480.00."
+  },
+  {
+    "index": 14,
+    "question_type": "ask_total_price",
+    "question": "我今次食嘢總共需支付幾多？",
+    "answer": "答案是: 嘅價錢可能係1480.00."
+  }
+]

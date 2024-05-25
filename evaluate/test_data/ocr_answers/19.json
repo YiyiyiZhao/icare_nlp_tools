@@ -1,0 +1,44 @@
+[
+  {
+    "index": 19,
+    "question_type": "ask_exist",
+    "question": "請問有冇Chuck Steak Set？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_exist",
+    "question": "百味閣餐廳有無蒜蓉包？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_exist",
+    "question": "喺百味閣餐廳可以食炒雜菜嗎？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_price",
+    "question": "Chuck Steak Set幾多錢？",
+    "answer": "嗰件嘢似乎唔喺單據入面。"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_price",
+    "question": "蒜蓉包（六片）幾多錢一份？",
+    "answer": "answer: 嘅價錢可能係20.00."
+  },
+  {
+    "index": 19,
+    "question_type": "ask_price",
+    "question": "炒雜菜價錢係幾多？",
+    "answer": "answer: 嘅價錢可能係48.00."
+  },
+  {
+    "index": 19,
+    "question_type": "ask_total_price",
+    "question": "我今次買單一共要幾多錢？",
+    "answer": "272.00"
+  }
+]

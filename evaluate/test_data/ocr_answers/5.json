@@ -1,0 +1,32 @@
+[
+  {
+    "index": 5,
+    "question_type": "ask_exist",
+    "question": "请问有谭仔三哥米线吗？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 5,
+    "question_type": "ask_exist",
+    "question": "有冇谭仔三哥米线？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 5,
+    "question_type": "ask_price",
+    "question": "谭仔三哥米线要几多钱？",
+    "answer": "answer: 嘅價錢可能係56.0."
+  },
+  {
+    "index": 5,
+    "question_type": "ask_price",
+    "question": "谭仔三哥米线嘅价钱係几多？",
+    "answer": "answer: 嘅價錢可能係56.0."
+  },
+  {
+    "index": 5,
+    "question_type": "ask_total_price",
+    "question": "购买谭仔三哥米线一共需要几多钱？",
+    "answer": "answer: 嘅價錢可能係153.00."
+  }
+]

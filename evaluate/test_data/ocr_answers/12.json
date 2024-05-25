@@ -1,0 +1,44 @@
+[
+  {
+    "index": 12,
+    "question_type": "ask_exist",
+    "question": "有冇古琴红烧八寶鸭?",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_exist",
+    "question": "有冇精美四小拼?",
+    "answer": "答案是: 有"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_exist",
+    "question": "有冇帶子赛螃蟹?",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_price",
+    "question": "古琴红烧八寶鸭要幾多錢?",
+    "answer": "answer: 嘅價錢可能係338.00."
+  },
+  {
+    "index": 12,
+    "question_type": "ask_price",
+    "question": "精美四小拼幾多錢?",
+    "answer": "answer: 嘅價錢可能係0.00."
+  },
+  {
+    "index": 12,
+    "question_type": "ask_price",
+    "question": "帶子赛螃蟹價錢係幾多?",
+    "answer": "answer: 嘅價錢可能係$138.00."
+  },
+  {
+    "index": 12,
+    "question_type": "ask_total_price",
+    "question": "今次嘅點菜總數係幾多錢?",
+    "answer": "answer: 今次嘅點菜總數係$1,470.00。"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "index": 3,
+    "question_type": "ask_exist",
+    "question": "有没有黄金皇?",
+    "answer": "有"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_exist",
+    "question": "有没有原双明燒皇?",
+    "answer": "回答: 有"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_exist",
+    "question": "有没有蜜汁叉燒粉?",
+    "answer": "有"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_price",
+    "question": "黄金皇的价格是多少?",
+    "answer": "answer: 嘅價錢可能係38.00."
+  },
+  {
+    "index": 3,
+    "question_type": "ask_price",
+    "question": "四寶滑扎的价格是多少?",
+    "answer": "answer: 嘅價錢可能係53.00."
+  },
+  {
+    "index": 3,
+    "question_type": "ask_total_price",
+    "question": "这次购物一共花了多少钱?",
+    "answer": "答案是: 491.00"
+  }
+]

@@ -1,0 +1,1580 @@
+[
+  {
+    "index": 0,
+    "question_type": "find_position",
+    "question": "手喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 0,
+    "question_type": "find_position",
+    "question": "椅子係我手嘅邊邊？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 0,
+    "question_type": "find_position",
+    "question": "電視機係邊邊？",
+    "answer": "tv喺手嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 0,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 bottle,dining table,carrot.bottle喺tv嘅右下方.dining table喺tv嘅下方.carrot喺tv嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 1,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺中心點嘅右方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 1,
+    "question_type": "find_position",
+    "question": "電視機喺我手嘅邊個方向？",
+    "answer": "banana喺中心點嘅右上方. 香蕉長且略呈弧形，外層柔軟，可撕開。"
+  },
+  {
+    "index": 1,
+    "question_type": "ask_near",
+    "question": "laptop附近有冇其他物體？",
+    "answer": "laptop最近嘅物件系 dining table,banana,chair.dining table同laptop区域重合.banana喺laptop嘅上方.chair喺laptop嘅左上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 2,
+    "question_type": "find_position",
+    "question": "手喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 2,
+    "question_type": "find_position",
+    "question": "香蕉喺我嘅邊度？",
+    "answer": "banana喺手嘅左上方. 香蕉長且略呈弧形，外層柔軟，可撕開。"
+  },
+  {
+    "index": 2,
+    "question_type": "find_position",
+    "question": "餐枱在邊邊？",
+    "answer": "你已經掂到dining table. 飯桌大而平坦，通常由堅硬嘅木頭或金屬製成。"
+  },
+  {
+    "index": 2,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 banana,dining table,chair.banana喺chair嘅右下方.dining table同chair区域重合.chair喺chair嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 3,
+    "question_type": "find_position",
+    "question": "杯仔喺我手嘅邊個方向？",
+    "answer": "cup同中心點重合. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 3,
+    "question_type": "find_position",
+    "question": "噴水器附近有冇其他物體？",
+    "answer": "sink最近嘅物件系 bottle,bottle,bottle.bottle喺sink嘅左上方.bottle喺sink嘅左方.bottle喺sink嘅左上方. 洗碗槽通常係堅硬嘅，由金屬或陶瓷製成，表面光滑且凹陷。"
+  },
+  {
+    "index": 3,
+    "question_type": "ask_near",
+    "question": "laptop附近有冇其他物體？",
+    "answer": "laptop最近嘅物件系 cup,bottle,bottle.cup喺laptop嘅上方.bottle喺laptop嘅上方.bottle喺laptop嘅右上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 4,
+    "question_type": "find_position",
+    "question": "杯喺我手嘅邊個方向？",
+    "answer": "cup喺手嘅左上方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 4,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 bottle,bottle,cup.bottle喺hand嘅左上方.bottle喺hand嘅左上方.cup喺hand嘅左上方."
+  },
+  {
+    "index": 4,
+    "question_type": "ask_near",
+    "question": "水樽附近有冇其他物體？",
+    "answer": "cup最近嘅物件系 bottle,bottle,bottle.bottle喺cup嘅右上方.bottle喺cup嘅右上方.bottle喺cup嘅右上方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 5,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺手嘅左上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 5,
+    "question_type": "find_position",
+    "question": "手附近有冇laptop？",
+    "answer": "hand最近嘅物件系 bottle,bottle,cup.bottle喺hand嘅左上方.bottle喺hand嘅左上方.cup喺hand嘅左上方."
+  },
+  {
+    "index": 5,
+    "question_type": "ask_near",
+    "question": "laptop周圍有冇其他物體？",
+    "answer": "laptop最近嘅物件系 cup,bottle,bottle.cup喺laptop嘅右上方.bottle喺laptop嘅右上方.bottle喺laptop嘅右上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 6,
+    "question_type": "find_position",
+    "question": "手喺邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 6,
+    "question_type": "find_position",
+    "question": "laptop喺我手嘅邊個方向？",
+    "answer": "laptop喺手嘅左上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 6,
+    "question_type": "ask_near",
+    "question": "laptop附近有冇其他物體？",
+    "answer": "laptop最近嘅物件系 cup,bottle,bottle.cup喺laptop嘅右上方.bottle喺laptop嘅右上方.bottle喺laptop嘅右上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 7,
+    "question_type": "find_position",
+    "question": "mouse喺邊度？",
+    "answer": "mouse喺手嘅左上方. 滑鼠小，塑料製，表面光滑且呈曲線形以適合手部休息。"
+  },
+  {
+    "index": 7,
+    "question_type": "find_position",
+    "question": "遙控器係哪度？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 7,
+    "question_type": "ask_near",
+    "question": "mouse附近有冇其他物件？",
+    "answer": "mouse最近嘅物件系 bottle,chair,remote.bottle喺mouse嘅左下方.chair喺mouse嘅右上方.remote喺mouse嘅右下方. 滑鼠小，塑料製，表面光滑且呈曲線形以適合手部休息。"
+  },
+  {
+    "index": 8,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺手嘅左上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 8,
+    "question_type": "find_position",
+    "question": "bowl攞唔攞到？",
+    "answer": "bowl喺手嘅左上方. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_near",
+    "question": "laptop附近有其他物體？",
+    "answer": "laptop最近嘅物件系 bottle,bowl,hand.bottle喺laptop嘅上方.bowl喺laptop嘅上方.hand喺laptop嘅右下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 9,
+    "question_type": "find_position",
+    "question": "電視喺邊度？",
+    "answer": "tv喺中心點嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 9,
+    "question_type": "find_position",
+    "question": "我手向左邊嘅位置有冇電視？",
+    "answer": "tv喺中心點嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 9,
+    "question_type": "find_position",
+    "question": "電視機係唔係喺我手指嘅正對角？",
+    "answer": "bowl喺中心點嘅左上方. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 9,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 laptop,bowl,pizza.laptop同tv区域重合.bowl喺tv嘅上方.pizza喺tv嘅右上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 10,
+    "question_type": "find_position",
+    "question": "樽係邊度？",
+    "answer": "bottle喺中心點嘅左方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 10,
+    "question_type": "find_position",
+    "question": "香蕉點樣樣可以攞到？",
+    "answer": "banana喺中心點嘅右下方. 香蕉長且略呈弧形，外層柔軟，可撕開。"
+  },
+  {
+    "index": 10,
+    "question_type": "find_position",
+    "question": "筆記簿電腦係邊邊？",
+    "answer": "laptop喺中心點嘅左下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 10,
+    "question_type": "ask_near",
+    "question": "樽附近有冇其他物體？",
+    "answer": "bottle最近嘅物件系 bottle,laptop,cup.bottle喺bottle嘅左方.laptop喺bottle嘅下方.cup喺bottle嘅右上方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 11,
+    "question_type": "find_position",
+    "question": "椅子係邊度？",
+    "answer": "chair喺中心點嘅左下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 11,
+    "question_type": "find_position",
+    "question": "我手機嘅位置係點？",
+    "answer": "chair喺中心點嘅左下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 11,
+    "question_type": "find_position",
+    "question": "床喺邊個方向？",
+    "answer": "bed喺中心點嘅右下方. 床很大，有一個柔軟嘅床墊和通常係堅硬嘅框架。"
+  },
+  {
+    "index": 11,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 chair,bed.chair喺chair嘅右上方.bed喺chair嘅右方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 12,
+    "question_type": "find_position",
+    "question": "餐桌喺我手個方向係邊邊？",
+    "answer": "dining table喺手嘅右上方. 飯桌大而平坦，通常由堅硬嘅木頭或金屬製成。"
+  },
+  {
+    "index": 12,
+    "question_type": "find_position",
+    "question": "椅子點樣攞到？",
+    "answer": "chair喺手嘅右下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 12,
+    "question_type": "ask_near",
+    "question": "餐桌附近有冇其他物體？",
+    "answer": "dining table最近嘅物件系 bottle,chair,chair.bottle同dining table区域重合.chair喺dining table嘅上方.chair喺dining table嘅下方. 飯桌大而平坦，通常由堅硬嘅木頭或金屬製成。"
+  },
+  {
+    "index": 13,
+    "question_type": "find_position",
+    "question": "椅子喺邊？",
+    "answer": "chair喺中心點嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 13,
+    "question_type": "find_position",
+    "question": "攞到椅子點樣走？",
+    "answer": "chair喺中心點嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 13,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 chair,chair.chair喺chair嘅右下方.chair喺chair嘅右下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 14,
+    "question_type": "find_position",
+    "question": "第一台電視喺邊度？",
+    "answer": "tv喺中心點嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 14,
+    "question_type": "find_position",
+    "question": "第二台電視喺我手邊個方向？",
+    "answer": "tv喺中心點嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 14,
+    "question_type": "find_position",
+    "question": "椅子點樣攞到？",
+    "answer": "chair喺中心點嘅右下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 14,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 backpack,suitcase,chair.backpack喺tv嘅右下方.suitcase喺tv嘅右下方.chair喺tv嘅右下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 15,
+    "question_type": "find_position",
+    "question": "椅子喺邊度？",
+    "answer": "chair喺手嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 15,
+    "question_type": "find_position",
+    "question": "手喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 15,
+    "question_type": "find_position",
+    "question": "電視機喺點？",
+    "answer": "chair喺手嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 15,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 dining table,bottle,chair.dining table喺chair嘅左上方.bottle喺chair嘅左上方.chair喺chair嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 16,
+    "question_type": "find_position",
+    "question": "手掌應該朝向邊個方向？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 16,
+    "question_type": "find_position",
+    "question": "椅子喺邊邊？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 16,
+    "question_type": "find_position",
+    "question": "橙喺邊度？",
+    "answer": "orange喺手嘅左上方. 橙子圓形，堅實，表面有質感，可剝皮。"
+  },
+  {
+    "index": 16,
+    "question_type": "ask_near",
+    "question": "樽附近有冇其他物體？",
+    "answer": "bottle最近嘅物件系 hand,orange,apple.hand喺bottle嘅下方.orange喺bottle嘅左方.apple喺bottle嘅左方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 17,
+    "question_type": "find_position",
+    "question": "我應該點樣可以攞到椅子？",
+    "answer": "chair喺中心點嘅下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 17,
+    "question_type": "find_position",
+    "question": "椅子喺個方向？",
+    "answer": "chair喺中心點嘅下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 17,
+    "question_type": "find_position",
+    "question": "你係邊邊度見到椅子？",
+    "answer": "chair喺中心點嘅下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 17,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 dining table,chair.dining table喺chair嘅下方.chair喺chair嘅右下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 18,
+    "question_type": "find_position",
+    "question": "梳發係邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 18,
+    "question_type": "find_position",
+    "question": "手喺邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 18,
+    "question_type": "ask_near",
+    "question": "梳發附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 couch.couch喺hand嘅右下方."
+  },
+  {
+    "index": 19,
+    "question_type": "find_position",
+    "question": "點樣搵到胡蘿蔔？",
+    "answer": "bottle喺中心點嘅右方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 19,
+    "question_type": "find_position",
+    "question": "張椅喺邊度？",
+    "answer": "chair喺中心點嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 19,
+    "question_type": "find_position",
+    "question": "邊度有電視？",
+    "answer": "tv喺中心點嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 19,
+    "question_type": "ask_near",
+    "question": "胡蘿蔔附近有冇其他物件？",
+    "answer": "bottle最近嘅物件系 chair,dining table,carrot.chair喺bottle嘅右上方.dining table同bottle区域重合.carrot喺bottle嘅左下方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 20,
+    "question_type": "find_position",
+    "question": "椅子喺邊？",
+    "answer": "chair喺手嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 20,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 laptop,hand.laptop喺chair嘅下方.hand喺chair嘅左下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 21,
+    "question_type": "find_position",
+    "question": "樽樽係邊？",
+    "answer": "cup喺中心點嘅左下方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 21,
+    "question_type": "find_position",
+    "question": "杯杯喺邊度？",
+    "answer": "cup喺中心點嘅左下方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 21,
+    "question_type": "ask_near",
+    "question": "樽樽附近有冇其他物體？",
+    "answer": "cup最近嘅物件系 bottle,bottle,bottle.bottle喺cup嘅右上方.bottle喺cup嘅右上方.bottle喺cup嘅右上方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 22,
+    "question_type": "find_position",
+    "question": "椅子喺邊啊？",
+    "answer": "chair喺中心點嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 22,
+    "question_type": "find_position",
+    "question": "手提電腦係邊度？",
+    "answer": "mouse喺中心點嘅右方. 滑鼠小，塑料製，表面光滑且呈曲線形以適合手部休息。"
+  },
+  {
+    "index": 22,
+    "question_type": "find_position",
+    "question": "手機喺嗰度？",
+    "answer": "cell phone同中心點重合. 手機小而矩形，有一個堅硬嘅、光滑嘅玻璃屏幕。"
+  },
+  {
+    "index": 22,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 mouse,cell phone,laptop.mouse喺chair嘅右下方.cell phone喺chair嘅左下方.laptop喺chair嘅左下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 23,
+    "question_type": "find_position",
+    "question": "手喺邊個方向？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 23,
+    "question_type": "find_position",
+    "question": "椅子點樣可以攞到？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 23,
+    "question_type": "ask_near",
+    "question": "遙控器附近有冇其他物體？",
+    "answer": "remote最近嘅物件系 bottle,hand,chair.bottle喺remote嘅右下方.hand喺remote嘅下方.chair喺remote嘅左上方. 遙控器小，堅硬，表面光滑並有多個按鈕。"
+  },
+  {
+    "index": 24,
+    "question_type": "find_position",
+    "question": "椅子喺邊？",
+    "answer": "chair喺手嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 24,
+    "question_type": "find_position",
+    "question": "電視喺我手嘅邊個方向？",
+    "answer": "tv喺手嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 24,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 chair,cup,chair.chair喺tv嘅左下方.cup喺tv嘅下方.chair喺tv嘅右下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 25,
+    "question_type": "find_position",
+    "question": "手掣係邊邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 25,
+    "question_type": "find_position",
+    "question": "筆電喺邊邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 25,
+    "question_type": "ask_near",
+    "question": "手掣附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 laptop.laptop喺hand嘅左方."
+  },
+  {
+    "index": 26,
+    "question_type": "find_position",
+    "question": "橙色物體喺邊？",
+    "answer": "orange喺手嘅上方. 橙子圓形，堅實，表面有質感，可剝皮。"
+  },
+  {
+    "index": 26,
+    "question_type": "find_position",
+    "question": "橙色物體同滑鼠係邊個方向？",
+    "answer": "orange喺手嘅上方. 橙子圓形，堅實，表面有質感，可剝皮。"
+  },
+  {
+    "index": 26,
+    "question_type": "find_position",
+    "question": "隻手喺橙色物體嘅邊邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 26,
+    "question_type": "ask_near",
+    "question": "橙色物體附近有冇其他物體？",
+    "answer": "orange最近嘅物件系 orange,hand,cell phone.orange喺orange嘅左下方.hand喺orange嘅下方.cell phone喺orange嘅左下方. 橙子圓形，堅實，表面有質感，可剝皮。"
+  },
+  {
+    "index": 27,
+    "question_type": "find_position",
+    "question": "我手入邊有椅子？",
+    "answer": "chair喺中心點嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 27,
+    "question_type": "find_position",
+    "question": "椅子係邊一邊？",
+    "answer": "chair喺中心點嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 27,
+    "question_type": "find_position",
+    "question": "椅子離我幾遠？",
+    "answer": "chair喺中心點嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 27,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物件？",
+    "answer": "chair最近嘅物件系 umbrella,dining table,chair.umbrella喺chair嘅下方.dining table喺chair嘅左下方.chair喺chair嘅右下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 28,
+    "question_type": "find_position",
+    "question": "手喺邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 28,
+    "question_type": "find_position",
+    "question": "遙控器係邊度？",
+    "answer": "remote喺手嘅右上方. 遙控器小，堅硬，表面光滑並有多個按鈕。"
+  },
+  {
+    "index": 28,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 laptop,remote,bottle.laptop喺hand嘅右上方.remote喺hand嘅上方.bottle喺hand嘅右上方."
+  },
+  {
+    "index": 29,
+    "question_type": "find_position",
+    "question": "手度邊有椅子？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 29,
+    "question_type": "find_position",
+    "question": "相機喺邊度？",
+    "answer": "chair喺手嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 29,
+    "question_type": "find_position",
+    "question": "手到電視機嘅方向係邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 29,
+    "question_type": "ask_near",
+    "question": "相機附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 bottle,remote,laptop.bottle喺chair嘅右下方.remote喺chair嘅左下方.laptop喺chair嘅左下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 30,
+    "question_type": "find_position",
+    "question": "手喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 30,
+    "question_type": "find_position",
+    "question": "筆電喺邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 30,
+    "question_type": "find_position",
+    "question": "手指向手機係邊邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 30,
+    "question_type": "ask_near",
+    "question": "手機附近有冇其他嘢？",
+    "answer": "hand最近嘅物件系 laptop,cell phone.laptop喺hand嘅上方.cell phone喺hand嘅右方."
+  },
+  {
+    "index": 31,
+    "question_type": "find_position",
+    "question": "我手喺邊度？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 31,
+    "question_type": "find_position",
+    "question": "椅子係我手嘅邊度？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 31,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 chair,chair.chair喺hand嘅左上方.chair喺hand嘅左上方."
+  },
+  {
+    "index": 32,
+    "question_type": "find_position",
+    "question": "我手到椅子係邊度？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 32,
+    "question_type": "find_position",
+    "question": "椅子同我手嘅方向有幾遠？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 32,
+    "question_type": "find_position",
+    "question": "椅子係我手嘅邊個方向？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 32,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 chair,remote,dining table.chair喺chair嘅右上方.remote喺chair嘅右上方.dining table喺chair嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 33,
+    "question_type": "find_position",
+    "question": "電視喺邊度？",
+    "answer": "tv喺中心點嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 33,
+    "question_type": "find_position",
+    "question": "電視機向邊度？",
+    "answer": "tv喺中心點嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 33,
+    "question_type": "find_position",
+    "question": "電視機喺我手嘅邊個位置？",
+    "answer": "tv喺中心點嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 33,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 bottle,cup,pizza.bottle喺tv嘅上方.cup喺tv嘅右上方.pizza喺tv嘅右方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 34,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "冇检测到其他物体.."
+  },
+  {
+    "index": 35,
+    "question_type": "find_position",
+    "question": "手袋喺邊？",
+    "answer": "handbag喺中心點嘅左下方. 手袋嘅大小各異，由軟皮革至硬合成材料製成。"
+  },
+  {
+    "index": 35,
+    "question_type": "find_position",
+    "question": "手袋係邊個方向？",
+    "answer": "handbag喺中心點嘅左下方. 手袋嘅大小各異，由軟皮革至硬合成材料製成。"
+  },
+  {
+    "index": 35,
+    "question_type": "ask_near",
+    "question": "手袋附近有冇其他物體？",
+    "answer": "冇检测到其他物体.. 手袋嘅大小各異，由軟皮革至硬合成材料製成。"
+  },
+  {
+    "index": 36,
+    "question_type": "find_position",
+    "question": "椅子喺邊啊？",
+    "answer": "chair喺中心點嘅右方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 36,
+    "question_type": "find_position",
+    "question": "飯枱係咩位置？",
+    "answer": "dining table喺中心點嘅左方. 飯桌大而平坦，通常由堅硬嘅木頭或金屬製成。"
+  },
+  {
+    "index": 36,
+    "question_type": "find_position",
+    "question": "手機擺喺邊度？",
+    "answer": "cell phone喺中心點嘅左上方. 手機小而矩形，有一個堅硬嘅、光滑嘅玻璃屏幕。"
+  },
+  {
+    "index": 36,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他嘢？",
+    "answer": "chair最近嘅物件系 chair,cell phone,dining table.chair喺chair嘅左上方.cell phone喺chair嘅左上方.dining table喺chair嘅左方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 37,
+    "question_type": "find_position",
+    "question": "香蕉喺邊個方向？",
+    "answer": "banana喺手嘅左上方. 香蕉長且略呈弧形，外層柔軟，可撕開。"
+  },
+  {
+    "index": 37,
+    "question_type": "ask_near",
+    "question": "香蕉附近有冇其他物體？",
+    "answer": "banana最近嘅物件系 hand.hand喺banana嘅右下方. 香蕉長且略呈弧形，外層柔軟，可撕開。"
+  },
+  {
+    "index": 38,
+    "question_type": "find_position",
+    "question": "樽樽喺邊度？",
+    "answer": "bowl喺手嘅左上方. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 38,
+    "question_type": "find_position",
+    "question": "手係邊個方向有樽樽？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 38,
+    "question_type": "find_position",
+    "question": "樽樽係我手嘅邊邊？",
+    "answer": "bowl喺手嘅左上方. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 38,
+    "question_type": "ask_near",
+    "question": "樽樽附近有冇其他嘢？",
+    "answer": "bowl最近嘅物件系 laptop,bottle,bottle.laptop喺bowl嘅左下方.bottle喺bowl嘅右上方.bottle喺bowl嘅右上方. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 39,
+    "question_type": "find_position",
+    "question": "手部附近有冇冇飲樽？",
+    "answer": "hand最近嘅物件系 bottle,bottle,bottle.bottle喺hand嘅上方.bottle喺hand嘅左上方.bottle喺hand嘅左上方."
+  },
+  {
+    "index": 39,
+    "question_type": "find_position",
+    "question": "電視喺邊？",
+    "answer": "tv喺中心點嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 39,
+    "question_type": "find_position",
+    "question": "手指向電視喺邊度？",
+    "answer": "bowl喺中心點嘅左上方. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 39,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 bowl,bottle,bottle.bowl喺tv嘅上方.bottle喺tv嘅右上方.bottle喺tv嘅右上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 40,
+    "question_type": "find_position",
+    "question": "碗喺边？",
+    "answer": "bowl喺中心點嘅左方. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 40,
+    "question_type": "ask_near",
+    "question": "碗附近有冇其他物體？",
+    "answer": "冇检测到其他物体.. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 41,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺手嘅左上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 41,
+    "question_type": "find_position",
+    "question": "broccoli喺邊？",
+    "answer": "broccoli喺手嘅右上方. 西蘭花中等大小，莖部堅實，頂部粗糙似樹梢。"
+  },
+  {
+    "index": 41,
+    "question_type": "ask_near",
+    "question": "laptop附近有冇其他物體？",
+    "answer": "laptop最近嘅物件系 bottle,sink,hand.bottle喺laptop嘅上方.sink喺laptop嘅右上方.hand喺laptop嘅右下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 42,
+    "question_type": "find_position",
+    "question": "電視喺哪度？",
+    "answer": "tv喺手嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 42,
+    "question_type": "find_position",
+    "question": "手係咩方向？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 42,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 hand,broccoli.hand喺tv嘅右下方.broccoli喺tv嘅右上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 43,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺手嘅左上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 43,
+    "question_type": "find_position",
+    "question": "手喺邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 43,
+    "question_type": "find_position",
+    "question": "瓶嘅位置係點？",
+    "answer": "bottle喺手嘅左上方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 43,
+    "question_type": "ask_near",
+    "question": "laptop附近有冇其他物體？",
+    "answer": "laptop最近嘅物件系 bottle,hand,broccoli.bottle喺laptop嘅上方.hand喺laptop嘅右下方.broccoli喺laptop嘅右上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 44,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺中心點嘅左下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 44,
+    "question_type": "find_position",
+    "question": "broccoli點樣可以攞到？",
+    "answer": "broccoli喺中心點嘅右方. 西蘭花中等大小，莖部堅實，頂部粗糙似樹梢。"
+  },
+  {
+    "index": 44,
+    "question_type": "ask_near",
+    "question": "broccoli附近有冇其他物體？",
+    "answer": "broccoli最近嘅物件系 laptop.laptop喺broccoli嘅左下方. 西蘭花中等大小，莖部堅實，頂部粗糙似樹梢。"
+  },
+  {
+    "index": 45,
+    "question_type": "find_position",
+    "question": "電視機喺我手嘅邊個方向？",
+    "answer": "tv喺手嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 45,
+    "question_type": "find_position",
+    "question": "手機喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 45,
+    "question_type": "find_position",
+    "question": "筆喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 45,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 laptop,bottle,hand.laptop喺tv嘅上方.bottle喺tv嘅上方.hand喺tv嘅右方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 46,
+    "question_type": "find_position",
+    "question": "手部喺啲物件嘅位置係點？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 46,
+    "question_type": "find_position",
+    "question": "椅子喺手部嘅方向係邊邊？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 46,
+    "question_type": "find_position",
+    "question": "樽喺我手嘅邊度？",
+    "answer": "bottle喺手嘅左上方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 46,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 bottle,sink,hand.bottle喺tv嘅上方.sink喺tv嘅右上方.hand喺tv嘅右下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 47,
+    "question_type": "find_position",
+    "question": "碗係邊度？",
+    "answer": "bowl喺手嘅左上方. 碗寬而開口，由陶瓷或玻璃等堅硬材料製成。"
+  },
+  {
+    "index": 47,
+    "question_type": "find_position",
+    "question": "樽係邊個方向？",
+    "answer": "bottle喺手嘅左上方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 47,
+    "question_type": "ask_near",
+    "question": "樽附近有冇其他物體？",
+    "answer": "bottle最近嘅物件系 bowl,hand.bowl喺bottle嘅右上方.hand喺bottle嘅右下方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 48,
+    "question_type": "find_position",
+    "question": "手喺邊邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 48,
+    "question_type": "find_position",
+    "question": "水槽係點樣位置？",
+    "answer": "sink喺手嘅左方. 洗碗槽通常係堅硬嘅，由金屬或陶瓷製成，表面光滑且凹陷。"
+  },
+  {
+    "index": 48,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 sink,bowl.sink喺hand嘅左方.bowl喺hand嘅左上方."
+  },
+  {
+    "index": 49,
+    "question_type": "find_position",
+    "question": "手向左定向右？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 49,
+    "question_type": "find_position",
+    "question": "laptop喺手嘅邊個方向？",
+    "answer": "laptop喺手嘅右上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 49,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 laptop,cell phone.laptop喺hand嘅右上方.cell phone喺hand嘅右上方."
+  },
+  {
+    "index": 50,
+    "question_type": "find_position",
+    "question": "手喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 50,
+    "question_type": "find_position",
+    "question": "叉係點方向？",
+    "answer": "fork喺手嘅左上方. 叉子小，由金屬製成，有尖銳嘅叉子，堅硬且光滑。"
+  },
+  {
+    "index": 50,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 fork.fork喺hand嘅左上方."
+  },
+  {
+    "index": 51,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "冇检测到其他物体.."
+  },
+  {
+    "index": 52,
+    "question_type": "find_position",
+    "question": "手機係邊度？",
+    "answer": "cell phone喺中心點嘅右上方. 手機小而矩形，有一個堅硬嘅、光滑嘅玻璃屏幕。"
+  },
+  {
+    "index": 52,
+    "question_type": "find_position",
+    "question": "滑鼠喺邊？",
+    "answer": "mouse喺中心點嘅右上方. 滑鼠小，塑料製，表面光滑且呈曲線形以適合手部休息。"
+  },
+  {
+    "index": 52,
+    "question_type": "ask_near",
+    "question": "手機附近有冇其他物體？",
+    "answer": "cell phone最近嘅物件系 mouse.mouse喺cell phone嘅左方. 手機小而矩形，有一個堅硬嘅、光滑嘅玻璃屏幕。"
+  },
+  {
+    "index": 53,
+    "question_type": "find_position",
+    "question": "手喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 53,
+    "question_type": "find_position",
+    "question": "椅子喺我手嘅邊個方向？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 53,
+    "question_type": "find_position",
+    "question": "桌上嘅鼠標同遙控器喺我手嘅邊個位置？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 53,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 remote,dining table,chair.remote喺hand嘅左方.dining table喺hand嘅左方.chair喺hand嘅左上方."
+  },
+  {
+    "index": 54,
+    "question_type": "find_position",
+    "question": "電視喺我手嘅邊個方向？",
+    "answer": "tv喺中心點嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 54,
+    "question_type": "find_position",
+    "question": "螢幕向邊度？",
+    "answer": "cup喺中心點嘅右上方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 54,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 cup.cup喺tv嘅右上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 55,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺中心點嘅左下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 55,
+    "question_type": "find_position",
+    "question": "電視喺我手嘅哪邊？",
+    "answer": "tv喺中心點嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 55,
+    "question_type": "ask_near",
+    "question": "tv附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 laptop,bottle,sink.laptop喺tv嘅右方.bottle喺tv嘅上方.sink喺tv嘅右上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 56,
+    "question_type": "find_position",
+    "question": "手袋喺邊？",
+    "answer": "handbag喺中心點嘅右下方. 手袋嘅大小各異，由軟皮革至硬合成材料製成。"
+  },
+  {
+    "index": 56,
+    "question_type": "find_position",
+    "question": "手袋向我手嘅方向係邊度？",
+    "answer": "handbag喺中心點嘅右下方. 手袋嘅大小各異，由軟皮革至硬合成材料製成。"
+  },
+  {
+    "index": 56,
+    "question_type": "find_position",
+    "question": "手袋位置係點？",
+    "answer": "handbag喺中心點嘅右下方. 手袋嘅大小各異，由軟皮革至硬合成材料製成。"
+  },
+  {
+    "index": 56,
+    "question_type": "ask_near",
+    "question": "手袋附近有冇其他物體？",
+    "answer": "冇检测到其他物体.. 手袋嘅大小各異，由軟皮革至硬合成材料製成。"
+  },
+  {
+    "index": 57,
+    "question_type": "find_position",
+    "question": "手喺邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 57,
+    "question_type": "find_position",
+    "question": "椅子係邊度？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 57,
+    "question_type": "find_position",
+    "question": "電視係我手嘅邊度？",
+    "answer": "tv喺手嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 57,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物體？",
+    "answer": "chair最近嘅物件系 chair,mouse,dining table.chair喺chair嘅右上方.mouse喺chair嘅右方.dining table喺chair嘅右方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 58,
+    "question_type": "find_position",
+    "question": "電視喺邊度？",
+    "answer": "tv喺中心點嘅上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 58,
+    "question_type": "find_position",
+    "question": "椅子喺邊啊？",
+    "answer": "chair喺中心點嘅右下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 58,
+    "question_type": "find_position",
+    "question": "酒樽喺哪度？",
+    "answer": "bottle喺中心點嘅下方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 58,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 chair,bottle,tv.chair喺tv嘅下方.bottle喺tv嘅下方.tv喺tv嘅左上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 58,
+    "question_type": "ask_near",
+    "question": "椅子附近有冇其他物件？",
+    "answer": "chair最近嘅物件系 chair,chair,chair.chair喺chair嘅上方.chair喺chair嘅右上方.chair喺chair嘅上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 58,
+    "question_type": "ask_near",
+    "question": "酒樽附近有冇其他東西？",
+    "answer": "bottle最近嘅物件系 chair,dining table,chair.chair喺bottle嘅右上方.dining table同bottle区域重合.chair喺bottle嘅右下方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 59,
+    "question_type": "find_position",
+    "question": "椅子喺邊？",
+    "answer": "chair喺中心點嘅右下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 59,
+    "question_type": "find_position",
+    "question": "電視機係邊個方向？",
+    "answer": "tv喺中心點嘅右上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 59,
+    "question_type": "find_position",
+    "question": "手提袋喺我手嘅邊邊？",
+    "answer": "handbag喺中心點嘅右下方. 手袋嘅大小各異，由軟皮革至硬合成材料製成。"
+  },
+  {
+    "index": 59,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 chair,chair,chair.chair喺tv嘅左下方.chair喺tv嘅左下方.chair喺tv嘅右下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 60,
+    "question_type": "find_position",
+    "question": "電視機喺我手嘅邊個方向？",
+    "answer": "remote喺手嘅左上方. 遙控器小，堅硬，表面光滑並有多個按鈕。"
+  },
+  {
+    "index": 60,
+    "question_type": "find_position",
+    "question": "椅子係嗰度？",
+    "answer": "chair喺手嘅左上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 60,
+    "question_type": "find_position",
+    "question": "遙控器點樣可以攞到？",
+    "answer": "remote喺手嘅左上方. 遙控器小，堅硬，表面光滑並有多個按鈕。"
+  },
+  {
+    "index": 60,
+    "question_type": "ask_near",
+    "question": "遙控器附近有冇其他物體？",
+    "answer": "remote最近嘅物件系 dining table,mouse,chair.dining table同remote区域重合.mouse喺remote嘅右上方.chair喺remote嘅左上方. 遙控器小，堅硬，表面光滑並有多個按鈕。"
+  },
+  {
+    "index": 61,
+    "question_type": "find_position",
+    "question": "我手度有乜嘢？",
+    "answer": "hand最近嘅物件系 dining table,cake,chair.dining table同hand区域重合.cake喺hand嘅左方.chair喺hand嘅左上方."
+  },
+  {
+    "index": 61,
+    "question_type": "find_position",
+    "question": "椅子喺邊？",
+    "answer": "chair喺中心點嘅左下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 61,
+    "question_type": "find_position",
+    "question": "你可以攞到桌仔唔？",
+    "answer": "chair喺中心點嘅左下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 61,
+    "question_type": "ask_near",
+    "question": "椅子附近有咩其他嘢？",
+    "answer": "chair最近嘅物件系 cake,chair,dining table.cake喺chair嘅右方.chair喺chair嘅右上方.dining table喺chair嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 62,
+    "question_type": "find_position",
+    "question": "手喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 62,
+    "question_type": "find_position",
+    "question": "手同電話有咩位置關係？",
+    "answer": "hand最近嘅物件系 cell phone,mouse,spoon.cell phone喺hand嘅上方.mouse喺hand嘅上方.spoon喺hand嘅左上方."
+  },
+  {
+    "index": 62,
+    "question_type": "find_position",
+    "question": "勺子同滑鼠係邊度？",
+    "answer": "spoon喺中心點嘅左上方. 匙子小，頭部圓形凹陷，由光滑堅硬嘅金屬製成。"
+  },
+  {
+    "index": 63,
+    "question_type": "find_position",
+    "question": "梳化喺邊度？",
+    "answer": "couch喺中心點嘅右下方. 沙發大，表面係柔軟嘅坐墊，框架結實。"
+  },
+  {
+    "index": 63,
+    "question_type": "find_position",
+    "question": "椅子嘅位置係邊度？",
+    "answer": "chair喺中心點嘅右下方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 63,
+    "question_type": "ask_near",
+    "question": "梳化附近有冇其他物件？",
+    "answer": "couch最近嘅物件系 chair.chair喺couch嘅右下方. 沙發大，表面係柔軟嘅坐墊，框架結實。"
+  },
+  {
+    "index": 64,
+    "question_type": "find_position",
+    "question": "我手上有冇電視？",
+    "answer": "tv喺中心點嘅右上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 64,
+    "question_type": "find_position",
+    "question": "桌面有冇椅子？",
+    "answer": "dining table最近嘅物件系 apple,bottle,mouse.apple同dining table区域重合.bottle同dining table区域重合.mouse同dining table区域重合. 飯桌大而平坦，通常由堅硬嘅木頭或金屬製成。"
+  },
+  {
+    "index": 64,
+    "question_type": "find_position",
+    "question": "我手邊有無蘋果？",
+    "answer": "bottle喺中心點嘅右方. 瓶子通常係圓柱形嘅，由堅硬嘅塑料或玻璃製成。"
+  },
+  {
+    "index": 64,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 bottle,chair,apple.bottle喺tv嘅下方.chair喺tv嘅右下方.apple喺tv嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 65,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "冇检测到其他物体.."
+  },
+  {
+    "index": 66,
+    "question_type": "find_position",
+    "question": "攞到邊個椅子？",
+    "answer": "chair喺中心點嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 66,
+    "question_type": "find_position",
+    "question": "梳化喺邊度？",
+    "answer": "couch喺中心點嘅左上方. 沙發大，表面係柔軟嘅坐墊，框架結實。"
+  },
+  {
+    "index": 66,
+    "question_type": "find_position",
+    "question": "電視機喺邊一張檯度？",
+    "answer": "chair喺中心點嘅右上方. 椅子有一個堅硬嘅框架，通常由木頭或金屬製成，座位和背部軟。"
+  },
+  {
+    "index": 67,
+    "question_type": "find_position",
+    "question": "手係邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 67,
+    "question_type": "find_position",
+    "question": "餐桌喺邊度？",
+    "answer": "dining table喺手嘅右上方. 飯桌大而平坦，通常由堅硬嘅木頭或金屬製成。"
+  },
+  {
+    "index": 67,
+    "question_type": "ask_near",
+    "question": "手附近有冇椅子？",
+    "answer": "hand最近嘅物件系 chair,chair,dining table.chair喺hand嘅上方.chair喺hand嘅上方.dining table喺hand嘅右上方."
+  },
+  {
+    "index": 68,
+    "question_type": "find_position",
+    "question": "我手入邊有冇茶杯？",
+    "answer": "cup喺中心點嘅右下方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 68,
+    "question_type": "find_position",
+    "question": "橙喺邊？",
+    "answer": "orange喺中心點嘅下方. 橙子圓形，堅實，表面有質感，可剝皮。"
+  },
+  {
+    "index": 68,
+    "question_type": "find_position",
+    "question": "電視喺我手嘅邊個方向？",
+    "answer": "tv喺中心點嘅右下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 68,
+    "question_type": "ask_near",
+    "question": "橙附近有冇其他物體？",
+    "answer": "orange最近嘅物件系 bottle,bowl,bottle.bottle喺orange嘅左上方.bowl喺orange嘅左上方.bottle喺orange嘅左上方. 橙子圓形，堅實，表面有質感，可剝皮。"
+  },
+  {
+    "index": 69,
+    "question_type": "find_position",
+    "question": "個鏡頭喺邊？",
+    "answer": "cup喺中心點嘅右下方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 69,
+    "question_type": "find_position",
+    "question": "我手機向邊？",
+    "answer": "cell phone喺中心點嘅右下方. 手機小而矩形，有一個堅硬嘅、光滑嘅玻璃屏幕。"
+  },
+  {
+    "index": 69,
+    "question_type": "find_position",
+    "question": "飲杯係邊度？",
+    "answer": "cup喺中心點嘅右下方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 69,
+    "question_type": "ask_near",
+    "question": "飲杯附近有冇其他物體？",
+    "answer": "cup最近嘅物件系 cell phone,bottle,bottle.cell phone喺cup嘅下方.bottle喺cup嘅左上方.bottle喺cup嘅左上方. 杯子小，通常係圓柱形嘅，由堅硬或略帶彈性嘅材料製成。"
+  },
+  {
+    "index": 70,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺中心點嘅右下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 70,
+    "question_type": "find_position",
+    "question": "蘋果係邊度？",
+    "answer": "apple喺中心點嘅左方. 蘋果圓形，觸感堅實，表面光滑略帶蠟質。"
+  },
+  {
+    "index": 70,
+    "question_type": "find_position",
+    "question": "蘋果喺我手嘅邊個方向？",
+    "answer": "apple喺中心點嘅左方. 蘋果圓形，觸感堅實，表面光滑略帶蠟質。"
+  },
+  {
+    "index": 70,
+    "question_type": "ask_near",
+    "question": "蘋果附近有冇其他物體？",
+    "answer": "apple最近嘅物件系 apple,laptop.apple喺apple嘅左下方.laptop喺apple嘅右方. 蘋果圓形，觸感堅實，表面光滑略帶蠟質。"
+  },
+  {
+    "index": 71,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺手嘅右上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 71,
+    "question_type": "find_position",
+    "question": "手喺邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 71,
+    "question_type": "find_position",
+    "question": "蘋果喺我手嘅邊個方向？",
+    "answer": "apple喺手嘅上方. 蘋果圓形，觸感堅實，表面光滑略帶蠟質。"
+  },
+  {
+    "index": 71,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 apple,apple,laptop.apple喺hand嘅上方.apple喺hand嘅右上方.laptop喺hand嘅右上方."
+  },
+  {
+    "index": 72,
+    "question_type": "find_position",
+    "question": "手喺邊？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 72,
+    "question_type": "find_position",
+    "question": "手向邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 72,
+    "question_type": "ask_near",
+    "question": "手附近有冇其他物體？",
+    "answer": "hand最近嘅物件系 apple,hand,toaster.apple喺hand嘅上方.hand喺hand嘅左上方.toaster喺hand嘅上方."
+  },
+  {
+    "index": 73,
+    "question_type": "find_position",
+    "question": "laptop係边？",
+    "answer": "laptop喺手嘅右上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 73,
+    "question_type": "ask_near",
+    "question": "laptop附近有冇其他物體？",
+    "answer": "laptop最近嘅物件系 hand.hand喺laptop嘅左下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 74,
+    "question_type": "find_position",
+    "question": "手喺邊度？",
+    "answer": "你已經掂到hand."
+  },
+  {
+    "index": 74,
+    "question_type": "find_position",
+    "question": "電視機係邊度？",
+    "answer": "tv喺手嘅右上方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 74,
+    "question_type": "ask_near",
+    "question": "電視機附近有冇其他物體？",
+    "answer": "tv最近嘅物件系 laptop,hand.laptop同tv区域重合.hand喺tv嘅左下方. 電視係矩形嘅，有一個堅硬嘅、平坦嘅屏幕和窄嘅深度。"
+  },
+  {
+    "index": 75,
+    "question_type": "find_position",
+    "question": "蘋果係邊度？",
+    "answer": "apple喺中心點嘅右方. 蘋果圓形，觸感堅實，表面光滑略帶蠟質。"
+  },
+  {
+    "index": 75,
+    "question_type": "find_position",
+    "question": "手機喺邊邊？",
+    "answer": "apple喺中心點嘅右方. 蘋果圓形，觸感堅實，表面光滑略帶蠟質。"
+  },
+  {
+    "index": 75,
+    "question_type": "find_position",
+    "question": "筆記本電腦位置係點？",
+    "answer": "laptop喺中心點嘅右下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 75,
+    "question_type": "ask_near",
+    "question": "蘋果附近有冇其他物件？",
+    "answer": "apple最近嘅物件系 apple,laptop.apple喺apple嘅左下方.laptop喺apple嘅右下方. 蘋果圓形，觸感堅實，表面光滑略帶蠟質。"
+  },
+  {
+    "index": 76,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺中心點嘅右下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 76,
+    "question_type": "find_position",
+    "question": "我手嘅邊有冇laptop？",
+    "answer": "laptop喺中心點嘅右下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 76,
+    "question_type": "find_position",
+    "question": "可以攞到laptop嘅方向係邊度？",
+    "answer": "laptop喺中心點嘅右下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 76,
+    "question_type": "ask_near",
+    "question": "laptop附近有冇其他物體？",
+    "answer": "冇检测到其他物体.. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 77,
+    "question_type": "find_position",
+    "question": "laptop喺邊？",
+    "answer": "laptop喺中心點嘅右下方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  },
+  {
+    "index": 77,
+    "question_type": "find_position",
+    "question": "keyboard喺邊？",
+    "answer": "keyboard喺中心點嘅右下方. 鍵盤係矩形平板，有許多小嘅、堅硬嘅鍵位於光滑嘅底座上。"
+  },
+  {
+    "index": 77,
+    "question_type": "ask_near",
+    "question": "laptop附近有冇其他物體？",
+    "answer": "laptop最近嘅物件系 keyboard,cup,apple.keyboard喺laptop嘅右方.cup喺laptop嘅左上方.apple喺laptop嘅左上方. 笔记本電腦，外殼堅硬，屏幕光滑可折疊。"
+  }
+]

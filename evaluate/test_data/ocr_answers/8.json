@@ -1,0 +1,44 @@
+[
+  {
+    "index": 8,
+    "question_type": "ask_exist",
+    "question": "新蜜餐廰有冇Bortsch？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_exist",
+    "question": "新蜜餐廰有冇Veal Set？",
+    "answer": "有"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_exist",
+    "question": "新蜜餐廰有冇Pork Chop？",
+    "answer": "answer: 有"
+  },
+  {
+    "index": 8,
+    "question_type": "ask_price",
+    "question": "Bortsch要幾多錢？",
+    "answer": "answer: 嘅價錢可能係52.00."
+  },
+  {
+    "index": 8,
+    "question_type": "ask_price",
+    "question": "Veal Set幾錢？",
+    "answer": "answer: 嘅價錢可能係258.00."
+  },
+  {
+    "index": 8,
+    "question_type": "ask_price",
+    "question": "Pork Chop價錢係幾多？",
+    "answer": "请问有冇Pork Chop？\n有\n\nPork Chop價錢可能係135.00."
+  },
+  {
+    "index": 8,
+    "question_type": "ask_total_price",
+    "question": "我今次購買嘢一共要幾多錢？",
+    "answer": "answer: 490.00"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "position": [
+      192,
+      437,
+      383,
+      546
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      1008,
+      503,
+      443,
+      415
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      943,
+      91,
+      163,
+      144
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      318,
+      271,
+      293,
+      356
+    ],
+    "text": "chair"
+  },
+  {
+    "position": [
+      1168,
+      559,
+      221,
+      303
+    ],
+    "text": "hand"
+  },
+  {
+    "position": [
+      720,
+      238,
+      634,
+      350
+    ],
+    "text": "dining table"
+  },
+  {
+    "position": [
+      607,
+      112,
+      70,
+      42
+    ],
+    "text": "remote"
+  }
+]
