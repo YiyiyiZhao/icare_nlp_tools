@@ -39,6 +39,7 @@ task_disp.intent_classify(user_query)
 ***Receipt Description and QA***
 ![](./examples/figs/receipt_0516.gif)
 ##### 2.1 Object_Desc: 输入object detection list, 输出场景播报
+![](./examples/figs/object_desc_demo.gif)
 ~~~
 import json
 from icare_nlp.object_desc import ObjectDesc
@@ -56,6 +57,7 @@ print(obj_desc_res)
 ~~~
 
 ##### 2.2 Object_QA: 输入object detection list 和 Question, 输出场景有关的Answer
+![](./examples/figs/object_desc_qa.gif)
 ~~~
 import json
 from icare_nlp.object_qa import ObjectQA
@@ -83,6 +85,7 @@ print(obj_desc_res)
 ~~~
 
 ##### 2.3 Receipt_Desc: 输入Receipt的OCR识别文本, 输出Receipt描述
+![](./examples/figs/receipt_desc_demo.gif)
 ~~~
 import json
 from icare_nlp.receipt_desc import ReceiptDesc
@@ -102,6 +105,7 @@ print(rec_desc_res)
 ~~~
 
 ##### 2.4 Receipt_QA: 输入Receipt的OCR识别文本 和 Question, 输出Answer [GPT-3.5 assisted]
+![](./examples/figs/receipt_qa_demo.gif)
 ~~~
 #!/bin/bash
 export OPEN_API_KEY="your_api_key_here"
