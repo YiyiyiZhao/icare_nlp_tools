@@ -57,7 +57,7 @@ print(obj_desc_res)
 ~~~
 
 ##### 2.2 Object_QA: 输入object detection list 和 Question, 输出场景有关的Answer
-![](./examples/figs/object_desc_qa.gif)
+![](./examples/figs/object_desc_demo.gif)
 ~~~
 import json
 from icare_nlp.object_qa import ObjectQA
